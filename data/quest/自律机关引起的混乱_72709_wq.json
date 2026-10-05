@@ -1,0 +1,20 @@
+{
+  "quest_id": 72709,
+  "chapter_num": null,
+  "chapter_title": "自律机关引起的混乱",
+  "type": "wq",
+  "route": "Automaton Attack",
+  "stories": [
+    {
+      "story_id": 72709,
+      "title": "自律机关引起的混乱",
+      "description": "八酝岛上某处，自律机关正在作乱，佐藤希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退自律机关"
+        }
+      ]
+    }
+  ]
+}

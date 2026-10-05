@@ -1,0 +1,98 @@
+{
+  "quest_id": 70019,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70019,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与另一个愿意交流的丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yoyo dala si?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo. Mimi mani ye."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yoyo mani mi? Mi muhe Upa Celi nini. Mi muhe mi nunu si, mi muhe mi nye."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "他说他希望天上的太阳不见，想要一睡不醒，想要死。是什么让它这么痛苦啊。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Biat. Mi muhe <color=#00E1FFFF>celi lata</color>. Mi nunu nye."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "唔，不如我们就把它想要的东西交给它，权作安慰吧？"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe <color=#00E1FFFF>celi lata</color>."
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yeye dada."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Wei? Du odomu tomo zido mi si, du zido <color=#00E1FFFF>unta nunu</color>！"
+        },
+        {
+          "role": "派蒙",
+          "text": "<color=#00E1FFFF>Unta nunu</color>…它在提示我们时间吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "Mosi mita dada!",
+              "dialogues": []
+            },
+            {
+              "text": "Tomo, valo!",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, mi tomo!"
+        },
+        {
+          "role": "派蒙",
+          "text": "Valo!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Nye nye nye!"
+        },
+        {
+          "role": "旅行者",
+          "text": "似乎不太对。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "quest_id": 74658,
+  "chapter_num": null,
+  "chapter_title": "安托万的兽肉需求",
+  "type": "wq",
+  "route": "Etienne's Raw Meat Request",
+  "stories": [
+    {
+      "story_id": 74658,
+      "title": "安托万的兽肉需求",
+      "description": "安托万需要8份兽肉。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将8份兽肉交给安托万"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于兽肉…"
+        },
+        {
+          "role": "安托万",
+          "text": "呼…我的救星，你可算来了。"
+        },
+        {
+          "role": "安托万",
+          "text": "兽肉你都准备好了，对吗？给我吧，我把给贝格艾蒂的食物准备好就去休息。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "安托万",
+                  "text": "能麻烦你稍微快一些吗？我真是累惨了，只想去休息。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与安托万对话"
+        },
+        {
+          "role": "安托万",
+          "text": "好，谢谢你。旅行者，这是给你的，等着吧，下一顿有好吃的了。"
+        }
+      ]
+    }
+  ]
+}

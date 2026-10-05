@@ -1,0 +1,19 @@
+{
+  "id": 121209,
+  "name": "与旅行伙伴的合影",
+  "route": "Photo With Travel Companions",
+  "volumes": [
+    {
+      "volume_id": 121209,
+      "volume_name": "与旅行伙伴的合影",
+      "description": "与共同旅行的伙伴的合影，是在这片人龙共同生活的国度的纪念。在某个时期同行的伙伴们终究要踏上各自的道路，不过，曾经一同度过的时光并未因此褪去应有的色彩。",
+      "full_text": "<image name=UI_ReadPic_XJHPhoto_Girl/>"
+    },
+    {
+      "volume_id": 121210,
+      "volume_name": "与旅行伙伴的合影",
+      "description": "与共同旅行的伙伴的合影，是在这片人龙共同生活的国度的纪念。在某个时期同行的伙伴们终究要踏上各自的道路，不过，曾经一同度过的时光并未因此褪去应有的色彩。",
+      "full_text": "<image name=UI_ReadPic_XJHPhoto_Boy/>"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "quest_id": 79002,
+  "chapter_num": null,
+  "chapter_title": "狂风，听谁号令",
+  "type": "wq",
+  "route": "Who Wields the Wild Wind?",
+  "stories": [
+    {
+      "story_id": 79002,
+      "title": "狂风，听谁号令",
+      "description": "不知道究竟是因为什么原因，这座岛似乎始终处于一种奇怪的天气中…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往岛上，查看四周的情况"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往山上，寻找线索"
+        },
+        {
+          "type": "subtitle",
+          "text": "打倒山顶上的所有魔物"
+        },
+        {
+          "type": "subtitle",
+          "text": "回去查看情况"
+        },{
+          "type": "subtitle",
+          "text": "打倒魔物"
+        }
+      ]
+    }
+  ]
+}

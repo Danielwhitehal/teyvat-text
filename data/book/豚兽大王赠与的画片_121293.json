@@ -1,0 +1,19 @@
+{
+  "id": 121293,
+  "name": "豚兽大王赠与的画片",
+  "route": "Picture Gifted by Capybara King",
+  "volumes": [
+    {
+      "volume_id": 121293,
+      "volume_name": "豚兽大王赠与的画片",
+      "description": "豚兽大王赠与的画片，似乎拍摄了悠悠度假村中的某处。在旅行的途中留意一下吧。",
+      "full_text": "<image name=UI_ReadPic_Q7524602/>"
+    },
+    {
+      "volume_id": 121294,
+      "volume_name": "「咔阿夏」赠与的画片",
+      "description": "「咔阿夏」赠与的画片，似乎拍摄了悠悠集市的某处。和伙伴们一起去看看吧！",
+      "full_text": "<image name=UI_ReadPic_Q7524601/>"
+    }
+  ]
+}

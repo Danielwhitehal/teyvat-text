@@ -1,0 +1,20 @@
+{
+  "quest_id": 71168,
+  "chapter_num": null,
+  "chapter_title": "灯逐良愿",
+  "type": "wq",
+  "route": "Light the Way of Wishes",
+  "stories": [
+    {
+      "story_id": 71168,
+      "title": "灯逐良愿",
+      "description": "在萍溪的建议下，你决定尝试放飞「节庆霄灯」…或许「节礼霄灯」也不错？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "在璃月港内放飞特殊的霄灯"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 120883,
+  "name": "破损的曲谱",
+  "route": "Damaged Score",
+  "volumes": [
+    {
+      "volume_id": 120883,
+      "volume_name": "破损的曲谱",
+      "description": "破损的曲谱",
+      "full_text": "<image name=UI_ReadPic_120883/>"
+    }
+  ]
+}

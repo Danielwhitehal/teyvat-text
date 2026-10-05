@@ -1,0 +1,13 @@
+{
+  "id": 121233,
+  "name": "神秘的地图",
+  "route": "Mysterious Map",
+  "volumes": [
+    {
+      "volume_id": 121233,
+      "volume_name": "神秘的地图",
+      "description": "阿贝多手稿中的地图。",
+      "full_text": "<image name=UI_ReadPic_Experiment_Map_01/>"
+    }
+  ]
+}

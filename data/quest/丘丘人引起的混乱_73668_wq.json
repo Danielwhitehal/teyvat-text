@@ -1,0 +1,20 @@
+{
+  "quest_id": 73668,
+  "chapter_num": null,
+  "chapter_title": "丘丘人引起的混乱",
+  "type": "wq",
+  "route": "Hilichurl Hullaballoo",
+  "stories": [
+    {
+      "story_id": 73668,
+      "title": "丘丘人引起的混乱",
+      "description": "丘丘人正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退丘丘人"
+        }
+      ]
+    }
+  ]
+}

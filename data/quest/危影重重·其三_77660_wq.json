@@ -1,0 +1,32 @@
+{
+  "quest_id": 77660,
+  "chapter_num": null,
+  "chapter_title": "危影重重·其三",
+  "type": "wq",
+  "route": "Looming Shadows: Part III",
+  "stories": [
+    {
+      "story_id": 77660,
+      "title": "危影重重·其三",
+      "description": "根据雅洛维娅的说法，影域可能是最不安定的一种「灾害」。因此，必须让潜藏其中的危险因素尽快得到妥善的处理…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "启动影域锚定装置"
+        },
+        {
+          "type": "subtitle",
+          "text": "尽快消灭影域中的敌人"
+        },
+        {
+          "type": "subtitle",
+          "text": "尽快消灭影域中的敌人"
+        },
+        {
+          "type": "subtitle",
+          "text": "尽快消灭影域中的敌人"
+        }
+      ]
+    }
+  ]
+}

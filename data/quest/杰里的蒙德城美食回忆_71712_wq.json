@@ -1,0 +1,63 @@
+{
+  "quest_id": 71712,
+  "chapter_num": null,
+  "chapter_title": "杰里的蒙德城美食回忆",
+  "type": "wq",
+  "route": "Geri's Gastro-Nostalgia",
+  "stories": [
+    {
+      "story_id": 71712,
+      "title": "杰里的蒙德城美食回忆",
+      "description": "璃月港的杰里需要两份火火肉酱面。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两份火火肉酱面交给杰里"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于火火肉酱面…"
+        },
+        {
+          "role": "杰里",
+          "text": "啊，你是看见我的委托了吧，你已经把两份火火肉酱面都准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "杰里",
+                  "text": "好吧…那你准备好了之后，就尽快拿来给我吧。"
+                },
+                {
+                  "role": "杰里",
+                  "text": "哎呀…火火肉酱面，我也有一段时间没吃过了…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与杰里对话"
+        },
+        {
+          "role": "杰里",
+          "text": "啊哈，果然还是这熟悉的味道，这两份火火肉酱面我就收下了。"
+        },
+        {
+          "role": "杰里",
+          "text": "这些东西请你收下吧，谢谢你帮我跑这一趟。"
+        }
+      ]
+    }
+  ]
+}

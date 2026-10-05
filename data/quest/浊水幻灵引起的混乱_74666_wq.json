@@ -1,0 +1,20 @@
+{
+  "quest_id": 74666,
+  "chapter_num": null,
+  "chapter_title": "浊水幻灵引起的混乱",
+  "type": "wq",
+  "route": "Hydro Phantasm Havoc",
+  "stories": [
+    {
+      "story_id": 74666,
+      "title": "浊水幻灵引起的混乱",
+      "description": "浊水幻灵正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退浊水幻灵"
+        }
+      ]
+    }
+  ]
+}

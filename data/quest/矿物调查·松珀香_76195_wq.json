@@ -1,0 +1,40 @@
+{
+  "quest_id": 76195,
+  "chapter_num": null,
+  "chapter_title": "矿物调查·松珀香",
+  "type": "wq",
+  "route": "Mineral Research: Pine Amber",
+  "stories": [
+    {
+      "story_id": 76195,
+      "title": "矿物调查·松珀香",
+      "description": "在噩影泽地发现了一处矿石富集地…",
+      "dialogues": [
+        {
+          "role": "？？？",
+          "text": "快速做好了调查的准备…"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点开启调查"
+        },
+        {
+          "role": "旅行者",
+          "text": "（附近似乎有些值得调查的，如果是对本地生态十分了解的<color=#FFCC33FF>莉奈娅</color>，或许会有所收获…）"
+        },
+        {
+          "type": "subtitle",
+          "text": "调查松珀香"
+        },
+        {
+          "type": "subtitle",
+          "text": "清理掉矿石"
+        },
+        {
+          "type": "subtitle",
+          "text": "采集松珀香"
+        }
+      ]
+    }
+  ]
+}

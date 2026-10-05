@@ -1,0 +1,63 @@
+{
+  "quest_id": 70708,
+  "chapter_num": null,
+  "chapter_title": "阿尔弗雷德的花束",
+  "type": "wq",
+  "route": "Alfred's Bouquet",
+  "stories": [
+    {
+      "story_id": 70708,
+      "title": "阿尔弗雷德的花束",
+      "description": "蒙德城的阿尔弗雷德需要三朵塞西莉亚花。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三朵塞西莉亚花交给阿尔弗雷德"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于塞西莉亚花…"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "您是看到了我的委托吧，辛苦您专门过来…"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "那么您已经搜集齐三朵塞西莉亚花了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "阿尔弗雷德",
+                  "text": "那请您搜集齐了之后，就尽快带给我吧，可别让花谢了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿尔弗雷德对话"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "这些塞西莉亚花，我的女儿肯定会很喜欢的。"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "谢谢您，这些东西请收下吧。"
+        }
+      ]
+    }
+  ]
+}

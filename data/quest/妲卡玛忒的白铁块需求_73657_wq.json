@@ -1,0 +1,59 @@
+{
+  "quest_id": 73657,
+  "chapter_num": null,
+  "chapter_title": "妲卡玛忒的白铁块需求",
+  "type": "wq",
+  "route": "Dwarkanath's White Iron Chunks",
+  "stories": [
+    {
+      "story_id": 73657,
+      "title": "妲卡玛忒的白铁块需求",
+      "description": "须弥城的妲卡玛忒需要五个白铁块。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将五个白铁块交给妲卡玛忒"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于白铁块…"
+        },
+        {
+          "role": "妲卡玛忒",
+          "text": "啊我想起来了，因为伊拉杰老把我的小刀弄丢，所以我去挂了个委托。"
+        },
+        {
+          "role": "妲卡玛忒",
+          "text": "那委托里提到的五个白铁块，你准备好了吧。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "妲卡玛忒",
+                  "text": "还是多准备点白铁块好，这样才能多打几把刀，少一把刀都不够伊拉杰这个笨小子丢的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与妲卡玛忒对话"
+        },
+        {
+          "role": "妲卡玛忒",
+          "text": "谢谢你，我待会儿就去找爸爸打上一大堆小刀，想想伊拉杰拿到刀的表情，哈哈！"
+        }
+      ]
+    }
+  ]
+}

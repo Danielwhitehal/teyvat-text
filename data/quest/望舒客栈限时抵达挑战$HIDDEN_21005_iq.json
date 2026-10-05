@@ -1,0 +1,15 @@
+{
+  "quest_id": 21005,
+  "chapter_num": null,
+  "chapter_title": "望舒客栈限时抵达挑战$HIDDEN",
+  "type": "iq",
+  "route": "Wangshu Inn Time Trial Challenge",
+  "stories": [
+    {
+      "story_id": 21005,
+      "title": "望舒客栈限时抵达挑战$HIDDEN",
+      "description": "",
+      "dialogues": []
+    }
+  ]
+}

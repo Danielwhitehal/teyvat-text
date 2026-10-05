@@ -1,0 +1,24 @@
+{
+  "quest_id": 72657,
+  "chapter_num": null,
+  "chapter_title": "社奉行的委任",
+  "type": "wq",
+  "route": "The Commission's Commission",
+  "stories": [
+    {
+      "story_id": 72657,
+      "title": "社奉行的委任",
+      "description": "社奉行代行斑目百兵卫似乎有话要说…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与斑目百兵卫对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "与斑目百兵卫对话"
+        }
+      ]
+    }
+  ]
+}

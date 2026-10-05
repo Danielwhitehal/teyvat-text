@@ -1,0 +1,13 @@
+{
+  "id": 121424,
+  "name": "哥伦比娅准备的祈月糖",
+  "route": "Moon-Prayer Candy From Columbina",
+  "volumes": [
+    {
+      "volume_id": 121424,
+      "volume_name": "哥伦比娅准备的祈月糖",
+      "description": "哥伦比娅为大家准备的祈月糖。在她的奇思妙想下，糖果呈现出了许许多多奇特的味道，或许也是存在于她记忆中的味道。",
+      "full_text": "<image name=UI_ReadPic_MoonNightBox/>"
+    }
+  ]
+}

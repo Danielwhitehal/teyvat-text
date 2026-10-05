@@ -1,0 +1,59 @@
+{
+  "quest_id": 71710,
+  "chapter_num": null,
+  "chapter_title": "杰里的蒙德城美食回忆",
+  "type": "wq",
+  "route": "Geri's Gastro-Nostalgia",
+  "stories": [
+    {
+      "story_id": 71710,
+      "title": "杰里的蒙德城美食回忆",
+      "description": "璃月港的杰里需要三份萝卜时蔬汤。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三份萝卜时蔬汤交给杰里"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于萝卜时蔬汤…"
+        },
+        {
+          "role": "杰里",
+          "text": "对，是我的委托，你把三份萝卜时蔬汤都准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "杰里",
+                  "text": "那你准备好了之后，就请尽快拿给我吧。我姐姐应该也会想要喝一点…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与杰里对话"
+        },
+        {
+          "role": "杰里",
+          "text": "啊…这味道，闻起来真不错，还是和从前一样…"
+        },
+        {
+          "role": "杰里",
+          "text": "谢谢你，这些东西请你收下吧。我会好好品味这道菜的。"
+        }
+      ]
+    }
+  ]
+}

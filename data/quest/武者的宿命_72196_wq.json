@@ -1,0 +1,60 @@
+{
+  "quest_id": 72196,
+  "chapter_num": null,
+  "chapter_title": "武者的宿命",
+  "type": "wq",
+  "route": "Fate of a Fighter",
+  "stories": [
+    {
+      "story_id": 72196,
+      "title": "武者的宿命",
+      "description": "",
+      "dialogues": [
+        {
+          "role": "稻叶久藏",
+          "text": "…附近的鼠辈又开始蠢蠢欲动了。"
+        },
+        {
+          "role": "稻叶久藏",
+          "text": "喂，外国人。在附近游荡的话，请小心海贼。"
+        },
+        {
+          "role": "旅行者",
+          "text": "谢谢。"
+        },
+        {
+          "role": "稻叶久藏",
+          "text": "应该的。"
+        },
+        {
+          "role": "旅行者",
+          "text": "他们不是我的对手。"
+        },
+        {
+          "role": "稻叶久藏",
+          "text": "哈哈，净说大话…"
+        },
+        {
+          "role": "稻叶久藏",
+          "text": "等你把他们都驱逐干净，再跟我说这种话吧！"
+        },
+        {
+          "role": "旅行者",
+          "text": "一言为定。"
+        },
+        {
+          "role": "稻叶久藏",
+          "text": "嗯，一言为定。"
+        },
+        {
+          "type": "subtitle",
+          "text": "向稻叶久藏回报情况。"
+        },
+        {
+          "type": "subtitle",
+          "text": "见证稻叶久藏的宿命。"
+        }
+      ]
+    }
+  ]
+}

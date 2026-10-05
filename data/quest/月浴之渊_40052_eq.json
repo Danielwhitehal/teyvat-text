@@ -1,0 +1,20 @@
+{
+  "quest_id": 40052,
+  "chapter_num": null,
+  "chapter_title": "月浴之渊",
+  "type": "eq",
+  "route": "The Moon-Bathed Deep",
+  "stories": [
+    {
+      "story_id": 40052,
+      "title": "月浴之渊",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与露子对话"
+        }
+      ]
+    }
+  ]
+}

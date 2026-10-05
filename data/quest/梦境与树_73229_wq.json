@@ -1,0 +1,24 @@
+{
+  "quest_id": 73229,
+  "chapter_num": null,
+  "chapter_title": "梦境与树",
+  "type": "wq",
+  "route": "Trees and Dreams",
+  "stories": [
+    {
+      "story_id": 73229,
+      "title": "梦境与树",
+      "description": "与兰拉迦交谈后，感到了某种神秘存在的呼唤与牵引。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往指定地点"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点"
+        }
+      ]
+    }
+  ]
+}

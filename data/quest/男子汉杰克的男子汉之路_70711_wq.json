@@ -1,0 +1,63 @@
+{
+  "quest_id": 70711,
+  "chapter_num": null,
+  "chapter_title": "男子汉杰克的男子汉之路",
+  "type": "wq",
+  "route": "Manly Jack's Manly Journey of Manliness",
+  "stories": [
+    {
+      "story_id": 70711,
+      "title": "男子汉杰克的男子汉之路",
+      "description": "蒙德的男子汉杰克需要三份蒙德烤鱼。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三份蒙德烤鱼交给男子汉杰克"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于蒙德烤鱼…"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "你是看见委托了吗？太好了，你把三份蒙德烤鱼带来了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都带来了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "男子汉杰克",
+                  "text": "好吧，那你把三份蒙德烤鱼都准备好了之后，就快点带来给人家吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与男子汉杰克对话"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "唔，这几份蒙德烤鱼闻起来味道不错…"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "对了，这些东西请你收下吧，谢谢你帮我忙。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "不知道吃这个能不能长力气…"
+        }
+      ]
+    }
+  ]
+}

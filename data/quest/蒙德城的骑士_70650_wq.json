@@ -1,0 +1,20 @@
+{
+  "quest_id": 70650,
+  "chapter_num": null,
+  "chapter_title": "蒙德城的骑士",
+  "type": "wq",
+  "route": "Knight of the Realm",
+  "stories": [
+    {
+      "story_id": 70650,
+      "title": "蒙德城的骑士",
+      "description": "西风骑士赫塔似乎有话想说…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与赫塔对话"
+        }
+      ]
+    }
+  ]
+}

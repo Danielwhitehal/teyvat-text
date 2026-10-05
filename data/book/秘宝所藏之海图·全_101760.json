@@ -1,0 +1,13 @@
+{
+  "id": 101760,
+  "name": "秘宝所藏之海图·全",
+  "route": "A Complete Chart of Ako's Treasure",
+  "volumes": [
+    {
+      "volume_id": 101760,
+      "volume_name": "秘宝所藏之海图·全",
+      "description": "由离开此处的「赤穗百目鬼一众」留下的秘宝，四份线索收集完全之后，即可得到的，秘宝埋藏之处的海图。",
+      "full_text": "<image name=UI_SummerTimeV2Map01/>"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "quest_id": 21018,
+  "chapter_num": null,
+  "chapter_title": "冒险从捉迷藏开始$UNRELEASED$HIDDEN",
+  "type": "iq",
+  "route": "Adventure Starts with Hide-and-Seek",
+  "stories": [
+    {
+      "story_id": 21018,
+      "title": "冒险从捉迷藏开始$UNRELEASED$HIDDEN",
+      "description": "孩子们正在等一个愿意陪他们玩捉迷藏的人…$UNRELEASED$HIDDEN",
+      "dialogues": []
+    }
+  ]
+}

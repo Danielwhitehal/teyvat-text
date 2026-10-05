@@ -1,0 +1,19 @@
+{
+  "id": 120894,
+  "name": "不知何时留下的合影",
+  "route": "Group Photo From an Unknown Time",
+  "volumes": [
+    {
+      "volume_id": 120894,
+      "volume_name": "不知何时留下的合影",
+      "description": "那是本应不再存在的空间，某人不知用何种手法超脱了规则，为你留下珍贵的合影。",
+      "full_text": "<image name=UI_ReadPic_120894/>\r\n<center>「要好好相处呀，你们兄妹两个。」</center>"
+    },
+    {
+      "volume_id": 120928,
+      "volume_name": "不知何时留下的合影",
+      "description": "那是本应不再存在的空间，某人不知用何种手法超脱了规则，为你留下珍贵的合影。",
+      "full_text": "<image name=UI_ReadPic_120928/>\r\n<center>「要好好相处呀，你们兄妹两个。」</center>"
+    }
+  ]
+}

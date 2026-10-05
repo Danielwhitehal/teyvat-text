@@ -1,0 +1,15 @@
+{
+  "quest_id": 73044,
+  "chapter_num": null,
+  "chapter_title": "解救兰那罗",
+  "type": "wq",
+  "route": "Rescue the Aranara",
+  "stories": [
+    {
+      "story_id": 73044,
+      "title": "解救兰那罗",
+      "description": "解救被魔物包围的兰那罗",
+      "dialogues": []
+    }
+  ]
+}

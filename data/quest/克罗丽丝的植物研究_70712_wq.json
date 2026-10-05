@@ -1,0 +1,63 @@
+{
+  "quest_id": 70712,
+  "chapter_num": null,
+  "chapter_title": "克罗丽丝的植物研究",
+  "type": "wq",
+  "route": "Chloris's Flora Studies",
+  "stories": [
+    {
+      "story_id": 70712,
+      "title": "克罗丽丝的植物研究",
+      "description": "蒙德的克罗丽丝需要三朵塞西莉亚花。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三朵塞西莉亚花交给克罗丽丝"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于塞西莉亚花…"
+        },
+        {
+          "role": "克罗丽丝",
+          "text": "嗯？你是看到了我的委托吧。"
+        },
+        {
+          "role": "克罗丽丝",
+          "text": "那你把三朵塞西莉亚花都搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "克罗丽丝",
+                  "text": "好吧，那你搜集齐了之后，就请快点拿来给我吧，我的研究正等着用呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与克罗丽丝对话"
+        },
+        {
+          "role": "克罗丽丝",
+          "text": "嗯…这些应该就足够我研究了。"
+        },
+        {
+          "role": "克罗丽丝",
+          "text": "这些东西给你，请收下吧，谢谢你帮我的忙。"
+        }
+      ]
+    }
+  ]
+}

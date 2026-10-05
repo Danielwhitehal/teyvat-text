@@ -1,0 +1,67 @@
+{
+  "quest_id": 71700,
+  "chapter_num": null,
+  "chapter_title": "畅畅想要编花环！",
+  "type": "wq",
+  "route": "Let's Make A Flower Garland!",
+  "stories": [
+    {
+      "story_id": 71700,
+      "title": "畅畅想要编花环！",
+      "description": "璃月港的畅畅需要三朵霓裳花。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三朵霓裳花交给畅畅"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于霓裳花…"
+        },
+        {
+          "role": "畅畅",
+          "text": "咦？你是看到我写的那个东西了吗？哇…真的有用…"
+        },
+        {
+          "role": "畅畅",
+          "text": "那你把三朵霓裳花都搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "畅畅",
+                  "text": "好吧…那你搜集齐了之后，记得快点带来给我呀，我要快点把花环编好了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与畅畅对话"
+        },
+        {
+          "role": "畅畅",
+          "text": "这些霓裳花就够啦，我的花环应该很快就能编好了。"
+        },
+        {
+          "role": "畅畅",
+          "text": "谢谢你，这些东西请你收下吧。"
+        },
+        {
+          "role": "畅畅",
+          "text": "等爸爸回来看见这个花环，他一定会很高兴的…"
+        }
+      ]
+    }
+  ]
+}

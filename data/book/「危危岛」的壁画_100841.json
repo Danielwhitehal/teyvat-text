@@ -1,0 +1,13 @@
+{
+  "id": 100841,
+  "name": "「危危岛」的壁画",
+  "route": "Minacious Isle Mural",
+  "volumes": [
+    {
+      "volume_id": 100841,
+      "volume_name": "「危危岛」的壁画",
+      "description": "从「危危岛」的石壁上记录下来的壁画。画中似乎描绘着一场海难…",
+      "full_text": "<image name=UI_LostParadise_1_Alpha />\r\n"
+    }
+  ]
+}

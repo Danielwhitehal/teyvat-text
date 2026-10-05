@@ -1,0 +1,15 @@
+{
+  "quest_id": 73046,
+  "chapter_num": null,
+  "chapter_title": "寻找并解救兰那罗",
+  "type": "wq",
+  "route": "Look for and rescue the Aranara",
+  "stories": [
+    {
+      "story_id": 73046,
+      "title": "寻找并解救兰那罗",
+      "description": "寻找并解救被魔物包围的兰那罗",
+      "dialogues": []
+    }
+  ]
+}

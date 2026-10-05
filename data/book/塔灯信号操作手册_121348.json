@@ -1,0 +1,13 @@
+{
+  "id": 121348,
+  "name": "塔灯信号操作手册",
+  "route": "Lamp Signal Handbook",
+  "volumes": [
+    {
+      "volume_id": 121348,
+      "volume_name": "塔灯信号操作手册",
+      "description": "",
+      "full_text": "\r\n灯语查询对照表如下，请执勤人员牢记对应灯语，切勿错误操作。\r\n求援：短长短，短长短\r\n指引：短长，短短短\r\n寻呼：长短长，长短长\r\n报安：短长，短长短\r\n警戒：……（字迹模糊不清）"
+    }
+  ]
+}

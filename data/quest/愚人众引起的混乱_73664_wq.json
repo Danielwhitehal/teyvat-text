@@ -1,0 +1,20 @@
+{
+  "quest_id": 73664,
+  "chapter_num": null,
+  "chapter_title": "愚人众引起的混乱",
+  "type": "wq",
+  "route": "Fatuous Farce",
+  "stories": [
+    {
+      "story_id": 73664,
+      "title": "愚人众引起的混乱",
+      "description": "愚人众正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退愚人众"
+        }
+      ]
+    }
+  ]
+}

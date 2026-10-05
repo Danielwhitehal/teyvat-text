@@ -1,0 +1,32 @@
+{
+  "quest_id": 74256,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·芙宁娜",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Furina",
+  "stories": [
+    {
+      "story_id": 74256,
+      "title": "茶会的再邀·芙宁娜",
+      "description": "前往欧庇克莱歌剧院喷泉附近放置茶桌并使用桑多涅落座后，与芙宁娜共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "芙宁娜",
+          "text": "嗯！这种悠闲的下午茶时光怎么都过不腻呢。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "芙宁娜",
+          "text": "嗯，欢乐的时光过得可真快啊。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": 71650,
+  "chapter_num": null,
+  "chapter_title": "「总务司」的事务",
+  "type": "wq",
+  "route": "Ministry Missions",
+  "stories": [
+    {
+      "story_id": 71650,
+      "title": "「总务司」的事务",
+      "description": "「璃月总务司」的资源管理专员小雨似乎有话要说…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与小雨对话"
+        }
+      ]
+    }
+  ]
+}

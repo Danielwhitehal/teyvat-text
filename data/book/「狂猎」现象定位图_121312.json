@@ -1,0 +1,13 @@
+{
+  "id": 121312,
+  "name": "「狂猎」现象定位图",
+  "route": "\"Wild Hunt\" Phenomena Location Map",
+  "volumes": [
+    {
+      "volume_id": 121312,
+      "volume_name": "「狂猎」现象定位图",
+      "description": "由「执灯人」调查并记录的「狂猎」现象的位置分布图，理论上属于内部资料。",
+      "full_text": "<image name=UI_ReadPic_WHDistribution/>"
+    }
+  ]
+}

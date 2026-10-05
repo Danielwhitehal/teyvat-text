@@ -1,0 +1,13 @@
+{
+  "id": 121461,
+  "name": "勘探指令",
+  "route": "Prospector's Command",
+  "volumes": [
+    {
+      "volume_id": 121461,
+      "volume_name": "勘探指令",
+      "description": "",
+      "full_text": "找到沼泽深处的封印石柱，观察那片区域的月矩力是否具有某种特异性，为将来的研究收集必要资料。\r\n谨慎行事，不要惊动执灯人。"
+    }
+  ]
+}

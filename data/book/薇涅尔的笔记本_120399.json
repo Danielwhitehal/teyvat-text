@@ -1,0 +1,13 @@
+{
+  "id": 120399,
+  "name": "薇涅尔的笔记本",
+  "route": "Vigneire's Notebook",
+  "volumes": [
+    {
+      "volume_id": 120399,
+      "volume_name": "薇涅尔的笔记本",
+      "description": "薇涅尔的笔记本",
+      "full_text": "<image name=UI_ReadPic_QuestDiary_01/>"
+    }
+  ]
+}

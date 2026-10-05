@@ -1,0 +1,702 @@
+{
+  "quest_id": 2015,
+  "chapter_num": "",
+  "chapter_title": "",
+  "type": "lq",
+  "route": "",
+  "stories": [
+    {
+      "story_id": 11200,
+      "title": "",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 11201,
+      "title": "",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 11202,
+      "title": "",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

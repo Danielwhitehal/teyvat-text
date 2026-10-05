@@ -1,0 +1,63 @@
+{
+  "quest_id": 73654,
+  "chapter_num": null,
+  "chapter_title": "帕森的墩墩桃需求",
+  "type": "wq",
+  "route": "Peseng's Zaytun Peaches",
+  "stories": [
+    {
+      "story_id": 73654,
+      "title": "帕森的墩墩桃需求",
+      "description": "奥摩斯港的帕森需要十个墩墩桃。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十个墩墩桃交给帕森"
+        },
+        {
+          "role": "帕森",
+          "text": "嗯…哪家店卖墩墩桃来着？好像不记得了…"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于墩墩桃…"
+        },
+        {
+          "role": "帕森",
+          "text": "对对，是我老婆做菜要用墩墩桃，有十个的话，就够这两天用了。"
+        },
+        {
+          "role": "帕森",
+          "text": "怎么样，你准备好十个墩墩桃了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "帕森",
+                  "text": "太少就不够吃了，到时候我又要挨训…还是等你准备好了再来找我吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与帕森对话"
+        },
+        {
+          "role": "帕森",
+          "text": "嗯，有这些就够了。希望她看到之后心情能好点，至少今天一天内不要生气。"
+        }
+      ]
+    }
+  ]
+}

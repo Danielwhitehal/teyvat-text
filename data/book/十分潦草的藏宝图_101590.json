@@ -1,0 +1,13 @@
+{
+  "id": 101590,
+  "name": "十分潦草的藏宝图",
+  "route": "Scrawled Treasure Map",
+  "volumes": [
+    {
+      "volume_id": 101590,
+      "volume_name": "十分潦草的藏宝图",
+      "description": "胡乱排着几根线条的图纸，是藏宝图中的歪瓜劣枣。但要是对外宣称是某位意识流画家的大作，说不定能卖上不少摩拉。",
+      "full_text": "<image name=UI_ScribbledMap101590 />\r\n"
+    }
+  ]
+}

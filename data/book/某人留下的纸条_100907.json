@@ -1,0 +1,13 @@
+{
+  "id": 100907,
+  "name": "某人留下的纸条",
+  "route": "A Note Left by Someone",
+  "volumes": [
+    {
+      "volume_id": 100907,
+      "volume_name": "某人留下的纸条",
+      "description": "某人留下的特殊的「御神签」。其中记载着某个地点。或许与玄冬林檎小姐的消失有关。",
+      "full_text": "<image name=UI_ThunderboltMap02_Alpha />\r\n「贼子的末路」\r\n请前往画中地点，调查异像。\r\n\r\n对罪徒与敌人降下「终末」。"
+    }
+  ]
+}

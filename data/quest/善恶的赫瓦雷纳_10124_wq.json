@@ -1,0 +1,44 @@
+{
+  "quest_id": 10124,
+  "chapter_num": "",
+  "chapter_title": "善恶的赫瓦雷纳",
+  "type": "wq",
+  "route": "Khvarena of Good and Evil",
+  "stories": [
+    {
+      "story_id": 73266,
+      "title": "",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "",
+              "dialogues": []
+            },
+            {
+              "text": "",
+              "dialogues": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

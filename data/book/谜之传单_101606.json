@@ -1,0 +1,13 @@
+{
+  "id": 101606,
+  "name": "谜之传单",
+  "route": "Mysterious Flyer",
+  "volumes": [
+    {
+      "volume_id": 101606,
+      "volume_name": "谜之传单",
+      "description": "从希娜小姐后援会那里收到的传单，上面的形象好像有些眼熟…",
+      "full_text": "<image name=UI_ScribbledPoster />\r\n提瓦特最强知心姐姐\r\n温柔美丽 有问必答\r\n全心全意为你解决烦恼\r\n"
+    }
+  ]
+}

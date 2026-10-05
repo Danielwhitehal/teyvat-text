@@ -1,0 +1,21 @@
+{
+  "quest_id": 41401,
+  "chapter_num": null,
+  "chapter_title": "特别留影",
+  "type": "wq",
+  "route": "Kurious Kamera",
+  "stories": [
+    {
+      "story_id": 41401,
+      "title": "特别留影",
+      "description": "季同正为了一架特别的「留影机」而苦恼着…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "璃月，璃月港上方传送点",
+          "narration": true
+        }
+      ]
+    }
+  ]
+}

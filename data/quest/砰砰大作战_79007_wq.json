@@ -1,0 +1,32 @@
+{
+  "quest_id": 79007,
+  "chapter_num": null,
+  "chapter_title": "砰砰大作战",
+  "type": "wq",
+  "route": "Big Badaboom Battle",
+  "stories": [
+    {
+      "story_id": 79007,
+      "title": "砰砰大作战",
+      "description": "派蒙对阿贝多的情况很好奇…",
+      "dialogues": [
+        {
+          "role": "派蒙",
+          "text": "好像是阿贝多留下来的…上面画着一个凶凶的家伙！"
+        },
+        {
+          "role": "派蒙",
+          "text": "是阿贝多的新创作吗？仔细一看，跟艾莉丝小姐布置给可莉的礼物很像呢…"
+        },
+        {
+          "role": "派蒙",
+          "text": "呜哇！突然出现了！"
+        },
+        {
+          "role": "派蒙",
+          "text": "旅行者，快想想办法对付它！"
+        }
+      ]
+    }
+  ]
+}

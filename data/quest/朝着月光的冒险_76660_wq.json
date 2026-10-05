@@ -1,0 +1,76 @@
+{
+  "quest_id": 76660,
+  "chapter_num": null,
+  "chapter_title": "朝着月光的冒险",
+  "type": "wq",
+  "route": "Venture Towards the Moonlight",
+  "stories": [
+    {
+      "story_id": 76660,
+      "title": "朝着月光的冒险",
+      "description": "在挪德卡莱的冒险家协会，你们再次看见了某一位熟悉的身影…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与凯瑟琳对话"
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "欢迎你，冒险家，需要我为您查看今天的委托吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "果然还是这样最习惯…",
+              "dialogues": []
+            },
+            {
+              "text": "还好是你，凯瑟琳。",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "咦，您是…急着办事么，我能为您做些什么？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "没有没有。",
+              "dialogues": []
+            },
+            {
+              "text": "我们就是…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "我们就是单纯地很高兴见到你！嘿嘿，还是凯瑟琳最好了。"
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "谢谢二位的热情…抱歉，可能我并没有理解您的幽默感…"
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "但无论如何，欢迎您来到挪德卡莱，这里是一片充满机遇的土地。"
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "我相信，您一定能在这里经历伟大的冒险，取得举世无双的宝物。"
+        },
+        {
+          "role": "凯瑟琳",
+          "text": "祝福您，冒险家，继续冒险吧，向着星辰与深渊！"
+        }
+      ]
+    }
+  ]
+}

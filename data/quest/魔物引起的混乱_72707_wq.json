@@ -1,0 +1,20 @@
+{
+  "quest_id": 72707,
+  "chapter_num": null,
+  "chapter_title": "魔物引起的混乱",
+  "type": "wq",
+  "route": "Monster Mayhem",
+  "stories": [
+    {
+      "story_id": 72707,
+      "title": "魔物引起的混乱",
+      "description": "神无冢上某处，魔物正在作乱，几原凯希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退魔物"
+        }
+      ]
+    }
+  ]
+}

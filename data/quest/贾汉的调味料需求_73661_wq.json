@@ -1,0 +1,63 @@
+{
+  "quest_id": 73661,
+  "chapter_num": null,
+  "chapter_title": "贾汉的调味料需求",
+  "type": "wq",
+  "route": "Jahan's Sugar",
+  "stories": [
+    {
+      "story_id": 73661,
+      "title": "贾汉的调味料需求",
+      "description": "须弥城的贾汉需要五罐糖。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将五罐糖交给贾汉"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于糖…"
+        },
+        {
+          "role": "贾汉",
+          "text": "哦哦，你是来送糖的啊。"
+        },
+        {
+          "role": "贾汉",
+          "text": "五罐糖你都准备好了没？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "贾汉",
+                  "text": "糖还是越多越好，吃甜的心里开心嘛哈哈。"
+                },
+                {
+                  "role": "贾汉",
+                  "text": "不过，你可别学我，牙蛀坏了我可不负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与贾汉对话"
+        },
+        {
+          "role": "贾汉",
+          "text": "哈哈，下一餐又能放糖咯。"
+        }
+      ]
+    }
+  ]
+}

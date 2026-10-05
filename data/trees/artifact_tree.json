@@ -1,0 +1,320 @@
+{
+  "name": "圣遗物",
+  "children": [
+    {
+      "name": "乐园遗落之花",
+      "id": "乐园遗落之花",
+      "type": "artifact"
+    },
+    {
+      "name": "冒险家",
+      "id": "冒险家",
+      "type": "artifact"
+    },
+    {
+      "name": "冰风迷途的勇士",
+      "id": "冰风迷途的勇士",
+      "type": "artifact"
+    },
+    {
+      "name": "勇士之心",
+      "id": "勇士之心",
+      "type": "artifact"
+    },
+    {
+      "name": "千岩牢固",
+      "id": "千岩牢固",
+      "type": "artifact"
+    },
+    {
+      "name": "华馆梦醒形骸记",
+      "id": "华馆梦醒形骸记",
+      "type": "artifact"
+    },
+    {
+      "name": "回声之林夜话",
+      "id": "回声之林夜话",
+      "type": "artifact"
+    },
+    {
+      "name": "天之美赐",
+      "id": "天之美赐",
+      "type": "artifact"
+    },
+    {
+      "name": "奇迹",
+      "id": "奇迹",
+      "type": "artifact"
+    },
+    {
+      "name": "如雷的盛怒",
+      "id": "如雷的盛怒",
+      "type": "artifact"
+    },
+    {
+      "name": "学士",
+      "id": "学士",
+      "type": "artifact"
+    },
+    {
+      "name": "守护之心",
+      "id": "守护之心",
+      "type": "artifact"
+    },
+    {
+      "name": "平息鸣雷的尊者",
+      "id": "平息鸣雷的尊者",
+      "type": "artifact"
+    },
+    {
+      "name": "幸运儿",
+      "id": "幸运儿",
+      "type": "artifact"
+    },
+    {
+      "name": "影中沉凝的幻灭",
+      "id": "影中沉凝的幻灭",
+      "type": "artifact"
+    },
+    {
+      "name": "悠古的磐岩",
+      "id": "悠古的磐岩",
+      "type": "artifact"
+    },
+    {
+      "name": "战狂",
+      "id": "战狂",
+      "type": "artifact"
+    },
+    {
+      "name": "教官",
+      "id": "教官",
+      "type": "artifact"
+    },
+    {
+      "name": "昔日宗室之仪",
+      "id": "昔日宗室之仪",
+      "type": "artifact"
+    },
+    {
+      "name": "昔时之歌",
+      "id": "昔时之歌",
+      "type": "artifact"
+    },
+    {
+      "name": "晨星与月的晓歌",
+      "id": "晨星与月的晓歌",
+      "type": "artifact"
+    },
+    {
+      "name": "未竟的遐思",
+      "id": "未竟的遐思",
+      "type": "artifact"
+    },
+    {
+      "name": "来歆余响",
+      "id": "来歆余响",
+      "type": "artifact"
+    },
+    {
+      "name": "染血的骑士道",
+      "id": "染血的骑士道",
+      "type": "artifact"
+    },
+    {
+      "name": "武人",
+      "id": "武人",
+      "type": "artifact"
+    },
+    {
+      "name": "水仙之梦",
+      "id": "水仙之梦",
+      "type": "artifact"
+    },
+    {
+      "name": "沉沦之心",
+      "id": "沉沦之心",
+      "type": "artifact"
+    },
+    {
+      "name": "沙上楼阁史话",
+      "id": "沙上楼阁史话",
+      "type": "artifact"
+    },
+    {
+      "name": "流放者",
+      "id": "流放者",
+      "type": "artifact"
+    },
+    {
+      "name": "流浪大地的乐团",
+      "id": "流浪大地的乐团",
+      "type": "artifact"
+    },
+    {
+      "name": "海染砗磲",
+      "id": "海染砗磲",
+      "type": "artifact"
+    },
+    {
+      "name": "深廊终曲",
+      "id": "深廊终曲",
+      "type": "artifact"
+    },
+    {
+      "name": "深林的记忆",
+      "id": "深林的记忆",
+      "type": "artifact"
+    },
+    {
+      "name": "渡过烈火的贤人",
+      "id": "渡过烈火的贤人",
+      "type": "artifact"
+    },
+    {
+      "name": "游医",
+      "id": "游医",
+      "type": "artifact"
+    },
+    {
+      "name": "炉火融炼之心",
+      "id": "炉火融炼之心",
+      "type": "artifact"
+    },
+    {
+      "name": "炽烈的炎之魔女",
+      "id": "炽烈的炎之魔女",
+      "type": "artifact"
+    },
+    {
+      "name": "烬城勇者绘卷",
+      "id": "烬城勇者绘卷",
+      "type": "artifact"
+    },
+    {
+      "name": "祭冰之人",
+      "id": "祭冰之人",
+      "type": "artifact"
+    },
+    {
+      "name": "祭水之人",
+      "id": "祭水之人",
+      "type": "artifact"
+    },
+    {
+      "name": "祭火之人",
+      "id": "祭火之人",
+      "type": "artifact"
+    },
+    {
+      "name": "祭雷之人",
+      "id": "祭雷之人",
+      "type": "artifact"
+    },
+    {
+      "name": "穹境示现之夜",
+      "id": "穹境示现之夜",
+      "type": "artifact"
+    },
+    {
+      "name": "纺月的夜歌",
+      "id": "纺月的夜歌",
+      "type": "artifact"
+    },
+    {
+      "name": "绝缘之旗印",
+      "id": "绝缘之旗印",
+      "type": "artifact"
+    },
+    {
+      "name": "翠绿之影",
+      "id": "翠绿之影",
+      "type": "artifact"
+    },
+    {
+      "name": "花海甘露之光",
+      "id": "花海甘露之光",
+      "type": "artifact"
+    },
+    {
+      "name": "苍白之火",
+      "id": "苍白之火",
+      "type": "artifact"
+    },
+    {
+      "name": "血红之证",
+      "id": "血红之证",
+      "type": "artifact"
+    },
+    {
+      "name": "行者之心",
+      "id": "行者之心",
+      "type": "artifact"
+    },
+    {
+      "name": "被怜爱的少女",
+      "id": "被怜爱的少女",
+      "type": "artifact"
+    },
+    {
+      "name": "角斗士的终幕礼",
+      "id": "角斗士的终幕礼",
+      "type": "artifact"
+    },
+    {
+      "name": "谐律异想断章",
+      "id": "谐律异想断章",
+      "type": "artifact"
+    },
+    {
+      "name": "赌徒",
+      "id": "赌徒",
+      "type": "artifact"
+    },
+    {
+      "name": "辰砂往生录",
+      "id": "辰砂往生录",
+      "type": "artifact"
+    },
+    {
+      "name": "追忆之注连",
+      "id": "追忆之注连",
+      "type": "artifact"
+    },
+    {
+      "name": "逆飞的流星",
+      "id": "逆飞的流星",
+      "type": "artifact"
+    },
+    {
+      "name": "逐影猎人",
+      "id": "逐影猎人",
+      "type": "artifact"
+    },
+    {
+      "name": "长夜之誓",
+      "id": "长夜之誓",
+      "type": "artifact"
+    },
+    {
+      "name": "风起之日",
+      "id": "风起之日",
+      "type": "artifact"
+    },
+    {
+      "name": "饰金之梦",
+      "id": "饰金之梦",
+      "type": "artifact"
+    },
+    {
+      "name": "黄金剧团",
+      "id": "黄金剧团",
+      "type": "artifact"
+    },
+    {
+      "name": "黑曜秘典",
+      "id": "黑曜秘典",
+      "type": "artifact"
+    }
+  ]
+}

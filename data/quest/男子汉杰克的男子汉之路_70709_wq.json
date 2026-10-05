@@ -1,0 +1,67 @@
+{
+  "quest_id": 70709,
+  "chapter_num": null,
+  "chapter_title": "男子汉杰克的男子汉之路",
+  "type": "wq",
+  "route": "Manly Jack's Manly Journey of Manliness",
+  "stories": [
+    {
+      "story_id": 70709,
+      "title": "男子汉杰克的男子汉之路",
+      "description": "蒙德的男子汉杰克需要三份野菇鸡肉串。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三份野菇鸡肉串交给男子汉杰克"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于野菇鸡肉串…"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "呀，你是看到人家的委托了吗？"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "谢谢你愿意帮忙，那三份野菇鸡肉串，你已经全部拿到了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "拿到了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "男子汉杰克",
+                  "text": "那你拿到了之后，就尽快拿给人家吧。吃了肉之后，人家才会长力气呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与男子汉杰克对话"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "嗯…闻起来真不错，这三份野菇鸡肉串人家就收下啦。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "这些东西是给你的，谢谢你帮忙。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "好嘞…看人家一口气把它们全吃掉…"
+        }
+      ]
+    }
+  ]
+}

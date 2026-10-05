@@ -1,0 +1,13 @@
+{
+  "id": 101945,
+  "name": "镀银怀表",
+  "route": "Silver Pocket Watch",
+  "volumes": [
+    {
+      "volume_id": 101945,
+      "volume_name": "镀银怀表",
+      "description": "看得出来已经有些年头的怀表，但是能从外壳擦拭的痕迹看得出主人的悉心爱护。里面存放着一张至冬国少女在中心的照片。",
+      "full_text": "<image name=UI_PocketWatch101945/>"
+    }
+  ]
+}

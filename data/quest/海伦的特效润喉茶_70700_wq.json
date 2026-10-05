@@ -1,0 +1,63 @@
+{
+  "quest_id": 70700,
+  "chapter_num": null,
+  "chapter_title": "海伦的特效润喉茶",
+  "type": "wq",
+  "route": "Helen's Special Blend",
+  "stories": [
+    {
+      "story_id": 70700,
+      "title": "海伦的特效润喉茶",
+      "description": "蒙德城的海伦需要十朵甜甜花。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十朵甜甜花交给海伦"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于甜甜花…"
+        },
+        {
+          "role": "海伦",
+          "text": "你是看到了我的委托吗？太好了…总算有人愿意帮忙了。"
+        },
+        {
+          "role": "海伦",
+          "text": "十朵甜甜花，你已经搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "海伦",
+                  "text": "好吧…那你搜集齐了之后，请尽快拿给我吧，我的嗓子越来越难受了…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与海伦对话"
+        },
+        {
+          "role": "海伦",
+          "text": "太好了，谢谢你帮忙，这些请你收下。"
+        },
+        {
+          "role": "海伦",
+          "text": "我等会就拿它们去泡茶喝，希望能让我的嗓子好受些…"
+        }
+      ]
+    }
+  ]
+}

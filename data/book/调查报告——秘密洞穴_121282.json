@@ -1,0 +1,13 @@
+{
+  "id": 121282,
+  "name": "调查报告——秘密洞穴",
+  "route": "Investigative Report: Secret Cave",
+  "volumes": [
+    {
+      "volume_id": 121282,
+      "volume_name": "调查报告——秘密洞穴",
+      "description": "某人来不及带走的调查报告。",
+      "full_text": "<image name=UI_ReadPic_120629/>"
+    }
+  ]
+}

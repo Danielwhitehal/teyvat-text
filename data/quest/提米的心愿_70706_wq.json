@@ -1,0 +1,63 @@
+{
+  "quest_id": 70706,
+  "chapter_num": null,
+  "chapter_title": "提米的心愿",
+  "type": "wq",
+  "route": "Timmie's Wish",
+  "stories": [
+    {
+      "story_id": 70706,
+      "title": "提米的心愿",
+      "description": "蒙德城的提米需要十份小麦。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十份小麦交给提米"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于小麦…"
+        },
+        {
+          "role": "提米",
+          "text": "啊，你是看到了我的委托吧？"
+        },
+        {
+          "role": "提米",
+          "text": "怎么样，十份小麦，都准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "提米",
+                  "text": "那你准备好了之后，就快点拿过来吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与提米对话"
+        },
+        {
+          "role": "提米",
+          "text": "这些就够了，谢谢你帮我忙，这些东西请收下吧。"
+        },
+        {
+          "role": "提米",
+          "text": "整整十份小麦…应该能做出很好吃的东西了。"
+        }
+      ]
+    }
+  ]
+}

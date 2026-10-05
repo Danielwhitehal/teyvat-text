@@ -1,0 +1,13 @@
+{
+  "id": 101666,
+  "name": "「磐键」位置示意图",
+  "route": "Bedrock Key Location Diagram",
+  "volumes": [
+    {
+      "volume_id": 101666,
+      "volume_name": "「磐键」位置示意图",
+      "description": "志琼速写的简略示意图，标示了矿坑地面上几处「磐键」的大体位置。",
+      "full_text": "<image name=UI_TheChasmWedgeOfSealMap />"
+    }
+  ]
+}

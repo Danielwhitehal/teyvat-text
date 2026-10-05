@@ -1,0 +1,31 @@
+{
+  "id": 120860,
+  "name": "处刑名单",
+  "route": "Execution List",
+  "volumes": [
+    {
+      "volume_id": 120860,
+      "volume_name": "处刑名单",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_140240302/>\r\n奥尔内"
+    },
+    {
+      "volume_id": 120860,
+      "volume_name": "处刑名单",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_140240304/>\r\n朗杜瓦"
+    },
+    {
+      "volume_id": 120860,
+      "volume_name": "处刑名单",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_140240301/>\r\n拉普亚德"
+    },
+    {
+      "volume_id": 120860,
+      "volume_name": "处刑名单",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_140240303/>\r\n让贝尔"
+    }
+  ]
+}

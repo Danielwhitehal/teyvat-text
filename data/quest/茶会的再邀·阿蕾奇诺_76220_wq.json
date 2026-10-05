@@ -1,0 +1,32 @@
+{
+  "quest_id": 76220,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·阿蕾奇诺",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Arlecchino",
+  "stories": [
+    {
+      "story_id": 76220,
+      "title": "茶会的再邀·阿蕾奇诺",
+      "description": "前往月矩力实验设计局高处放置茶桌并使用桑多涅落座后，与阿蕾奇诺共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "「仆人」",
+          "text": "惬意的时光。多谢你的款待，桑多涅。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "「仆人」",
+          "text": "好，我们下次再见。"
+        }
+      ]
+    }
+  ]
+}

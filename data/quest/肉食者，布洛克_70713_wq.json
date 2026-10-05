@@ -1,0 +1,67 @@
+{
+  "quest_id": 70713,
+  "chapter_num": null,
+  "chapter_title": "肉食者，布洛克",
+  "type": "wq",
+  "route": "Brook the Carnivore",
+  "stories": [
+    {
+      "story_id": 70713,
+      "title": "肉食者，布洛克",
+      "description": "清泉镇的布洛克需要六份兽肉。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将六份兽肉交给布洛克"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于兽肉…"
+        },
+        {
+          "role": "布洛克",
+          "text": "哦，你是看到了我的委托吧。"
+        },
+        {
+          "role": "布洛克",
+          "text": "那么，你已经把六份兽肉都准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "已经准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "布洛克",
+                  "text": "那你搜集齐了之后，就快点带来给我吧，我要快点开始研究菜品了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与布洛克对话"
+        },
+        {
+          "role": "布洛克",
+          "text": "哦！这些兽肉品质都很不错啊！"
+        },
+        {
+          "role": "布洛克",
+          "text": "谢谢你，真是帮大忙了，这些东西请你收下吧。"
+        },
+        {
+          "role": "布洛克",
+          "text": "等我研究出新菜之后，一定第一个请你来试吃。"
+        }
+      ]
+    }
+  ]
+}

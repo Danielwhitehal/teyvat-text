@@ -1,0 +1,21 @@
+{
+  "quest_id": 41170,
+  "chapter_num": null,
+  "chapter_title": "展翼高飞",
+  "type": "wq",
+  "route": "Fly High",
+  "stories": [
+    {
+      "story_id": 41170,
+      "title": "展翼高飞",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "冒险家修斯是风之翼的狂热爱好者，他在全世界旅行，最近似乎又找到了几处十分适合使用风之翼飞行的地点……",
+          "narration": true
+        }
+      ]
+    }
+  ]
+}

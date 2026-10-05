@@ -1,0 +1,91 @@
+{
+  "id": 101783,
+  "name": "神秘的信笺",
+  "route": "Mysterious Letter",
+  "volumes": [
+    {
+      "volume_id": 101783,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_1 />"
+    },
+    {
+      "volume_id": 101784,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_2 />"
+    },
+    {
+      "volume_id": 101785,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_3 />"
+    },
+    {
+      "volume_id": 101786,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_4 />"
+    },
+    {
+      "volume_id": 101787,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_5 />"
+    },
+    {
+      "volume_id": 101788,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_6 />"
+    },
+    {
+      "volume_id": 101789,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_7 />"
+    },
+    {
+      "volume_id": 101790,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_8 />"
+    },
+    {
+      "volume_id": 101791,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_9 />"
+    },
+    {
+      "volume_id": 101792,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_10 />"
+    },
+    {
+      "volume_id": 101793,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_11 />"
+    },
+    {
+      "volume_id": 101794,
+      "volume_name": "神秘的信笺",
+      "description": "",
+      "full_text": "<image name=UI_Weirdletter_12 />"
+    },
+    {
+      "volume_id": 101900,
+      "volume_name": "神秘来信",
+      "description": "神秘来信",
+      "full_text": "致 尊贵的幽夜净土断罪之皇女殿下，\r\n我是游历于提瓦特山川之间的魔女。\r\n冒昧来信，只因听我年幼的女儿提起，您伟大的国度不幸陨落，而您正在寻找机会拯救它。\r\n距离这里十分遥远的海面上，有一片「金苹果群岛」。\r\n如果这片无主的土地能为幽夜净土的降临计划提供些许帮助，那就太好了！"
+    },
+    {
+      "volume_id": 120881,
+      "volume_name": "神秘来信",
+      "description": "神秘来信",
+      "full_text": "<image name=UI_ReadPic_TempleOfSilence_02 />\r\n「居勒什，我已经掌握了你的秘密，如果不想被揭发就准备一千万摩拉放到咖啡馆后门。」\r\n「另外，别想找到我，你不可能知道我在哪里，而我监视着你和你所有的秘密。敢报告风纪官就等着瞧吧。」"
+    }
+  ]
+}

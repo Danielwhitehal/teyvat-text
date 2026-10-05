@@ -1,0 +1,13 @@
+{
+  "id": 120722,
+  "name": "开启的「宝物」",
+  "route": "Unlocked \"Treasure\"",
+  "volumes": [
+    {
+      "volume_id": 120722,
+      "volume_name": "开启的「宝物」",
+      "description": "一枚老旧的怀表。\n时间在某刻停住，美好的回忆也成为永远。",
+      "full_text": "<image name=UI_ReadPic_Photo_Orphanage/>"
+    }
+  ]
+}

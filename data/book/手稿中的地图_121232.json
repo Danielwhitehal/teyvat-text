@@ -1,0 +1,13 @@
+{
+  "id": 121232,
+  "name": "手稿中的地图",
+  "route": "Hand-Drawn Map",
+  "volumes": [
+    {
+      "volume_id": 121232,
+      "volume_name": "手稿中的地图",
+      "description": "阿贝多手稿中的地图。上面标出了三处地点。",
+      "full_text": "<image name=UI_ReadPic_Experiment_Map_03/>\r\n<image name=UI_ReadPic_Experiment_Map_02/>\r\n<image name=UI_ReadPic_Experiment_Map_01/>"
+    }
+  ]
+}

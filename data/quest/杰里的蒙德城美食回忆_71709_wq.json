@@ -1,0 +1,63 @@
+{
+  "quest_id": 71709,
+  "chapter_num": null,
+  "chapter_title": "杰里的蒙德城美食回忆",
+  "type": "wq",
+  "route": "Geri's Gastro-Nostalgia",
+  "stories": [
+    {
+      "story_id": 71709,
+      "title": "杰里的蒙德城美食回忆",
+      "description": "璃月港的杰里需要两份甜甜花酿鸡。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两份甜甜花酿鸡交给杰里"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于甜甜花酿鸡…"
+        },
+        {
+          "role": "杰里",
+          "text": "对，是我的委托，你把两份甜甜花酿鸡都带来了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都带来了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "杰里",
+                  "text": "拜托了！请快点把两份甜甜花酿鸡带给我吧！那个中原杂碎的味道…呃…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与杰里对话"
+        },
+        {
+          "role": "杰里",
+          "text": "太好了…啊…这香味…还是和从前一样美味…"
+        },
+        {
+          "role": "杰里",
+          "text": "谢谢你，谢谢你，这些东西请你收下吧。"
+        },
+        {
+          "role": "杰里",
+          "text": "我要好好品味这道菜了，还有…我要努力忘记中原杂碎的味道…"
+        }
+      ]
+    }
+  ]
+}

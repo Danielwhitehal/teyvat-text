@@ -1,0 +1,59 @@
+{
+  "quest_id": 70703,
+  "chapter_num": null,
+  "chapter_title": "康纳的酿酒材料需求",
+  "type": "wq",
+  "route": "Connor's Brew",
+  "stories": [
+    {
+      "story_id": 70703,
+      "title": "康纳的酿酒材料需求",
+      "description": "晨曦酒庄的康纳需要三份蒲公英籽。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三份蒲公英籽交给康纳"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于蒲公英籽…"
+        },
+        {
+          "role": "康纳",
+          "text": "你是看到了我的委托吧，怎么样，三份蒲公英籽已经搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "康纳",
+                  "text": "还没有吗…那你搜集齐了之后，请尽快拿来给我吧，我急着用来酿酒呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与康纳对话"
+        },
+        {
+          "role": "康纳",
+          "text": "嗯…这些蒲公英籽应该够我用一段时间了。"
+        },
+        {
+          "role": "康纳",
+          "text": "这些东西请你收下，谢谢你帮我忙。"
+        }
+      ]
+    }
+  ]
+}

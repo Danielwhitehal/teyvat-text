@@ -1,0 +1,84 @@
+{
+  "quest_id": 71674,
+  "chapter_num": null,
+  "chapter_title": "如意斗彩",
+  "type": "wq",
+  "route": "Wishes Contended, Fortunes Won",
+  "stories": [
+    {
+      "story_id": 71674,
+      "title": "如意斗彩",
+      "description": "在璃月港里，你看见了一个奇特的游艺摊位…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与桂澜对话"
+        },
+        {
+          "role": "桂澜",
+          "text": "瞧一瞧看一看了啊，玩一趟「如意斗彩」，赢下一年好手气咯！"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "「如意斗彩」是什么？",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "桂澜",
+          "text": "哈哈哈，是我们总务司最新推出的小游艺，您这边瞧。"
+        },
+        {
+          "role": "桂澜",
+          "text": "「聚财兜」，「如意钱」，只要小试一番身手，吉祥如意一应俱全啊！"
+        },
+        {
+          "role": "桂澜",
+          "text": "想要试一试这小游艺，为自己夺点好彩头的话，随时欢迎啊！"
+        },
+        {
+          "type": "subtitle",
+          "text": "额外对话（桂澜）"
+        },
+        {
+          "role": "桂澜",
+          "text": "瞧一瞧看一看了啊，玩一趟「如意斗彩」，赢下一年好手气咯！"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "来一局！",
+              "dialogues": [
+                {
+                  "role": "桂澜",
+                  "text": "好嘞！您这边请，咱们马上开始！"
+                }
+              ]
+            },
+            {
+              "text": "还有别的事…",
+              "dialogues": [
+                {
+                  "role": "桂澜",
+                  "text": "没关系，等您有空了，随时再来！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "collapse_ranges": [
+        [
+          6,
+          8
+        ]
+      ]
+    }
+  ]
+}

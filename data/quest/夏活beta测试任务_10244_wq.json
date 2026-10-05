@@ -1,0 +1,372 @@
+{
+  "quest_id": 10244,
+  "chapter_num": "夏活",
+  "chapter_title": "夏活beta测试任务",
+  "type": "wq",
+  "route": "Summer Event Beta Testing Quest",
+  "stories": [
+    {
+      "story_id": 70054,
+      "title": "开始冒险区",
+      "description": "开始冒险区",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往游乐设施"
+        },
+        {
+          "role": "羊驼",
+          "text": "跟我上车玩吧！"
+        },
+        {
+          "type": "subtitle",
+          "text": "到达小镇"
+        }
+      ]
+    },
+    {
+      "story_id": 70055,
+      "title": "酒吧大战",
+      "description": "酒吧大战",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "进入酒馆"
+        },
+        {
+          "type": "subtitle",
+          "text": "追击敌人"
+        }
+      ]
+    },
+    {
+      "story_id": 70056,
+      "title": "追击皮套人",
+      "description": "追击皮套人",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "阻止敌人前进"
+        },
+        {
+          "type": "subtitle",
+          "text": "上车前往下个区域"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索区域"
+        },
+        {
+          "type": "subtitle",
+          "text": "打开大门"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索洞穴"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往下一区域"
+        },
+        {
+          "type": "subtitle",
+          "text": "击败Boss"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往游乐船处"
+        }
+      ]
+    },
+    {
+      "story_id": 70057,
+      "title": "小镇庆典",
+      "description": "小镇庆典",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "回到小镇"
+        },
+        {
+          "type": "subtitle",
+          "text": "观看谢幕"
+        }
+      ]
+    },
+    {
+      "story_id": 75209,
+      "title": "「沫彩花海」",
+      "description": "前往「沫彩花海」游玩吧~",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "开启「沫彩花海」装饰玩法"
+        },
+        {
+          "type": "subtitle",
+          "text": "装点「沫彩花海」"
+        }
+      ]
+    },
+    {
+      "story_id": 75210,
+      "title": "「飘飘巡风阿夏」",
+      "description": "体验「飘飘巡风阿夏」玩法",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "乘坐热气球前往「飘飘巡风阿夏」"
+        },
+        {
+          "role": "旅行者",
+          "text": "再等等。"
+        },
+        {
+          "type": "subtitle",
+          "text": "在「飘飘巡风阿夏」中战胜对方"
+        },
+        {
+          "type": "subtitle",
+          "text": "去往「飘飘巡风阿夏」的顶部"
+        },
+        {
+          "type": "subtitle",
+          "text": "在「飘飘巡风阿夏」中战胜对方"
+        },
+        {
+          "type": "subtitle",
+          "text": "返回地面"
+        }
+      ]
+    },
+    {
+      "story_id": 75211,
+      "title": "初入狂欢区",
+      "description": "初入狂欢区",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与温迪合作完成酿造"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成酿造比试"
+        },
+        {
+          "type": "subtitle",
+          "text": "撞击装置完成酿造"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "拜托了。"
+        },
+        {
+          "type": "subtitle",
+          "text": "与酒吧老板对话"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "是来体验酿酒仪式的吧，欢迎欢迎。"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "不过准备出了点小问题...有一些魔物混进了用于酿酒的醅幽花里，现在谁都不敢去下层。"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "麻烦旅行者到酒吧下层帮我们解决一下问题。"
+        },
+        {
+          "type": "subtitle",
+          "text": "去酒吧下层根据星星花的反应抓捕魔物"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成，对话启动吸收花粉，完成酿造"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "谢谢你们！花粉已经全部吸收完毕啦"
+        },
+        {
+          "role": "卡苏娅",
+          "text": "酿造仪式已经全部完成了，接下来马上为表演揭幕吧！"
+        },
+        {
+          "role": "温迪",
+          "text": "(test)旅行者你们终于来啦...不过这里的准备出了点小问题，真的是小问题。"
+        },
+        {
+          "role": "温迪",
+          "text": "(test)我一个不小心，把他们准备的蜜酒都喝光了"
+        },
+        {
+          "role": "温迪",
+          "text": "(test)不过听说酿酒本来也是庆典的一环，旅行者和我一起去体验一下吧！"
+        },
+        {
+          "role": "塔雅",
+          "text": "二位加油哦。"
+        }
+      ]
+    },
+    {
+      "story_id": 75214,
+      "title": "游玩浪浪湾",
+      "description": "玛拉妮看起来很期待浪浪湾的设施，快去和她汇合吧……",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "和导览员对话"
+        },
+        {
+          "role": "「穆奇赫」",
+          "text": "悠悠纳塔，悠悠夏天！这位客人，欢迎来到浪浪湾！"
+        },
+        {
+          "role": "「穆奇赫」",
+          "text": "我们的设施还没有完全就绪，客人如果等不及了可以去我们的设施那边帮帮忙。"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往游览船设施协助工作人员"
+        },
+        {
+          "role": "维兰德",
+          "text": "谢谢你，请你也来尝试一下我们的项目吧"
+        },
+        {
+          "role": "旅行者",
+          "text": "太好了！"
+        },
+        {
+          "type": "subtitle",
+          "text": "和工作人员对话了解情况"
+        },
+        {
+          "role": "维兰德",
+          "text": "这位客人你来的正好！可以帮我调试一下这边的设施嘛？"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成游览船试运行"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往第二段游览船区域协助工作人员"
+        },
+        {
+          "role": "维兰德",
+          "text": "这边的设施进度差的更多了，甚至还没有建造好。"
+        },
+        {
+          "role": "维兰德",
+          "text": "客人，你会帮我的，对吧。"
+        },
+        {
+          "type": "subtitle",
+          "text": "和工作人员对话开启挑战"
+        },
+        {
+          "type": "subtitle",
+          "text": "利用暝视龙能力完成第二处设施建设"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成第二处游览船试运行"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往阿夏快跑协助工作人员"
+        },
+        {
+          "role": "维兰德",
+          "text": "客人又见面了，要不是有你我的工作都要保不住了。"
+        },
+        {
+          "role": "维兰德",
+          "text": "和我们的试玩员打声招呼就开始调试吧！"
+        },
+        {
+          "type": "subtitle",
+          "text": "协助工作人员完成阿夏快跑试运行"
+        },
+        {
+          "type": "subtitle",
+          "text": "亲自体验阿夏快跑"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往终点"
+        },
+        {
+          "type": "subtitle",
+          "text": "热气球飞走"
+        },
+        {
+          "type": "subtitle",
+          "text": "追回热气球"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往闪闪大游行"
+        },
+        {
+          "type": "subtitle",
+          "text": "开始闪闪大游行"
+        },
+        {
+          "type": "subtitle",
+          "text": "协助完成闪闪大游行"
+        },
+        {
+          "type": "subtitle",
+          "text": "和大家汇合"
+        }
+      ]
+    },
+    {
+      "story_id": 75242,
+      "title": "悠悠度假村",
+      "description": "去悠悠度假村，度过一个五彩斑斓的夏天吧~",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "体验「览彩漂游」"
+        },
+        {
+          "role": "旅行者",
+          "text": "再等等。"
+        },
+        {
+          "role": "蜜琪莉",
+          "text": "不着急，好了您再叫我。"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往度假村登记处"
+        },
+        {
+          "role": "欧库夏",
+          "text": "各位好，欢迎来到悠悠度假村！我来为各位登记住处。"
+        },
+        {
+          "role": "欧库夏",
+          "text": "请收下悠悠度假村的地图与特制纪念册。"
+        },
+        {
+          "role": "欧库夏",
+          "text": "悠悠度假村一共有四大区域，分别是：彩彩崖、刺梨岩、浪浪湾和提提岛，大家可以自由探索游玩。"
+        },
+        {
+          "role": "欧库夏",
+          "text": "可供各位休息的度假屋在那个方向，需要购物的话，这边就是我们最热闹的悠悠集市。"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往度假屋"
+        }
+      ]
+    }
+  ]
+}

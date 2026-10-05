@@ -1,0 +1,13 @@
+{
+  "id": 100978,
+  "name": "「神居岛崩炮」位置图",
+  "route": "Kamuijima Cannon Map",
+  "volumes": [
+    {
+      "volume_id": 100978,
+      "volume_name": "「神居岛崩炮」位置图",
+      "description": "记录着踏鞴砂上的「神居岛崩炮」所在位置的地图。",
+      "full_text": "<image name=UI_ThunderboltMap_Alpha />"
+    }
+  ]
+}

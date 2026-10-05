@@ -1,0 +1,84 @@
+{
+  "quest_id": 79081,
+  "chapter_num": null,
+  "chapter_title": "探索这个世界",
+  "type": "wq",
+  "route": "Explore This World",
+  "stories": [
+    {
+      "story_id": 79081,
+      "title": "探索这个世界",
+      "description": "不知怎么来到了一个神奇的地方，开始冒险吧！",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往森林小屋"
+        },
+        {
+          "type": "subtitle",
+          "text": "帮助森林的居民"
+        },
+        {
+          "type": "subtitle",
+          "text": "帮助森林的居民"
+        },
+        {
+          "type": "subtitle",
+          "text": "帮助森林的居民"
+        },
+        {
+          "type": "subtitle",
+          "text": "回到森林小屋"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往森林车站"
+        },
+        {
+          "type": "subtitle",
+          "text": "继续前进"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往王城"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往王城顶端"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往王城车站"
+        },
+        {
+          "type": "subtitle",
+          "text": "继续前进"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往迷雾尽头"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往瀑布"
+        },
+        {
+          "type": "subtitle",
+          "text": "继续前进"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成地城"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成地城"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成地城"
+        }
+      ]
+    }
+  ]
+}

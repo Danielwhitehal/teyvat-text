@@ -1,0 +1,32 @@
+{
+  "quest_id": 74258,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·那维莱特",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Neuvillette",
+  "stories": [
+    {
+      "story_id": 74258,
+      "title": "茶会的再邀·那维莱特",
+      "description": "前往沫芒宫附近放置茶桌并使用桑多涅落座后，与那维莱特共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "那维莱特",
+          "text": "今日的纯净水也别有风味。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "那维莱特",
+          "text": "好。祝你前路顺利。"
+        }
+      ]
+    }
+  ]
+}

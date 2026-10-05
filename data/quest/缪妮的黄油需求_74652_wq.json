@@ -1,0 +1,59 @@
+{
+  "quest_id": 74652,
+  "chapter_num": null,
+  "chapter_title": "缪妮的黄油需求",
+  "type": "wq",
+  "route": "Muirne's Better Butter",
+  "stories": [
+    {
+      "story_id": 74652,
+      "title": "缪妮的黄油需求",
+      "description": "缪妮需要3份黄油。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将3份黄油交给缪妮"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于黄油…"
+        },
+        {
+          "role": "缪妮",
+          "text": "每次想吃点面包，黄油总是不够抹的，我觉得以后我还是随身带黄油好了。"
+        },
+        {
+          "role": "缪妮",
+          "text": "黄油你都准备好了对吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "缪妮",
+                  "text": "我要的可不少，还是等你准备好了再一起给我吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与缪妮对话"
+        },
+        {
+          "role": "缪妮",
+          "text": "太好了，黄油，我的黄油…没有黄油我宁愿不吃面包。"
+        }
+      ]
+    }
+  ]
+}

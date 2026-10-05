@@ -1,0 +1,32 @@
+{
+  "quest_id": 70090,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·阿贝多",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Albedo",
+  "stories": [
+    {
+      "story_id": 70090,
+      "title": "茶会的再邀·阿贝多",
+      "description": "前往龙脊雪山放置茶桌并使用桑多涅落座后，与阿贝多共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "阿贝多",
+          "text": "多谢桑多涅小姐的招待。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "阿贝多",
+          "text": "好，我们后会有期。"
+        }
+      ]
+    }
+  ]
+}

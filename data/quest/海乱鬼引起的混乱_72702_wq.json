@@ -1,0 +1,20 @@
+{
+  "quest_id": 72702,
+  "chapter_num": null,
+  "chapter_title": "海乱鬼引起的混乱",
+  "type": "wq",
+  "route": "Kairagi Chaos",
+  "stories": [
+    {
+      "story_id": 72702,
+      "title": "海乱鬼引起的混乱",
+      "description": "鸣神岛上某处，海乱鬼正在作乱，井上希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退海乱鬼"
+        }
+      ]
+    }
+  ]
+}

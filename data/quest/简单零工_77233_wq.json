@@ -1,0 +1,48 @@
+{
+  "quest_id": 77233,
+  "chapter_num": null,
+  "chapter_title": "简单零工",
+  "type": "wq",
+  "route": "Simple Chores",
+  "stories": [
+    {
+      "story_id": 77233,
+      "title": "简单零工",
+      "description": "工程主管索博列夫似乎需要帮忙…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "找回负责押车的工人"
+        },
+        {
+          "role": "兹亚布林",
+          "text": "什么？今天轮到我跟车？完了完了，主管非骂死我不可！我、我立刻就过去！"
+        },
+        {
+          "type": "subtitle",
+          "text": "找回负责押车的工人"
+        },
+        {
+          "role": "斯利夫科夫",
+          "text": "哦…都已经这个点了吗？我都没发现。嘶…早知道昨天晚上少喝两杯了…"
+        },
+        {
+          "type": "subtitle",
+          "text": "找回负责押车的工人"
+        },
+        {
+          "role": "诺索夫",
+          "text": "嗯？跟车？怎么还有我的份？他没跟我说啊…好吧好吧，我现在就动身…"
+        },
+        {
+          "type": "subtitle",
+          "text": "找回负责押车的工人"
+        },
+        {
+          "type": "subtitle",
+          "text": "与索博列夫对话"
+        }
+      ]
+    }
+  ]
+}

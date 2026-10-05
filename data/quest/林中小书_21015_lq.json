@@ -1,0 +1,28 @@
+{
+  "quest_id": 21015,
+  "chapter_num": null,
+  "chapter_title": "林中小书",
+  "type": "lq",
+  "route": "Book in the Woods",
+  "stories": [
+    {
+      "story_id": 21015,
+      "title": "林中小书",
+      "description": "一个小女孩正期待着和你一起玩游戏…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "在林中寻找遗落的书"
+        },
+        {
+          "type": "subtitle",
+          "text": "在林中寻找遗落的书"
+        },
+        {
+          "type": "subtitle",
+          "text": "回去找小九九"
+        }
+      ]
+    }
+  ]
+}

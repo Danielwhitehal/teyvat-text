@@ -1,0 +1,31 @@
+{
+  "id": 120331,
+  "name": "赛事积分",
+  "route": "Competition Scores",
+  "volumes": [
+    {
+      "volume_id": 120331,
+      "volume_name": "赛事积分",
+      "description": "",
+      "full_text": "<center>生论派-提纳里：0\r\n素论派-赛诺：0\r\n明论派-莱依拉：0\r\n知论派-珐露珊：0\r\n因论派-阿帽：0\r\n妙论派-卡维：0</center>"
+    },
+    {
+      "volume_id": 120332,
+      "volume_name": "赛事积分",
+      "description": "",
+      "full_text": "<center>生论派-提纳里：3\r\n知论派-珐露珊：2\r\n明论派-莱依拉：1\r\n素论派-赛诺：0\r\n因论派-阿帽：0\r\n妙论派-卡维：0</center>"
+    },
+    {
+      "volume_id": 120333,
+      "volume_name": "赛事积分",
+      "description": "",
+      "full_text": "<center>素论派-赛诺：4\r\n明论派-莱依拉：4\r\n生论派-提纳里：3\r\n知论派-珐露珊：2\r\n妙论派-卡维：2\r\n因论派-阿帽：0</center>"
+    },
+    {
+      "volume_id": 120334,
+      "volume_name": "赛事积分",
+      "description": "",
+      "full_text": "<center>妙论派-卡维：6\r\n素论派-赛诺：4\r\n明论派-莱依拉：4\r\n生论派-提纳里：3\r\n知论派-珐露珊：2\r\n因论派-阿帽：0</center>"
+    }
+  ]
+}

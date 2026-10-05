@@ -1,0 +1,15 @@
+{
+  "quest_id": 71653,
+  "chapter_num": null,
+  "chapter_title": "与忧郁先生的再会",
+  "type": "wq",
+  "route": "We Meet Again, Mr. Melancholy",
+  "stories": [
+    {
+      "story_id": 71653,
+      "title": "与忧郁先生的再会",
+      "description": "经过一番辛苦的收集，是时候向胡塞尼先生汇报成果了…",
+      "dialogues": []
+    }
+  ]
+}

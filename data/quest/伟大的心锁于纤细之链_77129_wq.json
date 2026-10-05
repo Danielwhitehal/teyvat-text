@@ -1,0 +1,48 @@
+{
+  "quest_id": 77129,
+  "chapter_num": null,
+  "chapter_title": "伟大的心锁于纤细之链",
+  "type": "wq",
+  "route": "A Great Heart Fettered by Slender Chains",
+  "stories": [
+    {
+      "story_id": 77129,
+      "title": "伟大的心锁于纤细之链",
+      "description": "在冻土的暴风雪中间，居然看到了一个巨大的身影…它究竟是为什么被冰雪塑造的锁链捆缚在了这冰原之上呢？",
+      "dialogues": [
+        {
+          "role": "",
+          "text": "（只是靠近就感觉到寒冷…在这种环境里，这种程度的冰雪根本无法消融…）"
+        },
+        {
+          "role": "",
+          "text": "（似乎离隐约的音乐声更近了一些…）"
+        },
+        {
+          "type": "subtitle",
+          "text": "调查困住巨人的锁链"
+        },
+        {
+          "type": "subtitle",
+          "text": "等待风暴消失"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "role": "派蒙",
+          "text": "…那个大家伙，他离开了。"
+        },
+        {
+          "role": "派蒙",
+          "text": "唔…他会到哪里去呢…少女的影子也是，不知道少女和这个大家伙是什么关系…"
+        },
+        {
+          "role": "派蒙",
+          "text": "…不过，总觉得会在哪里再碰到他。"
+        }
+      ]
+    }
+  ]
+}

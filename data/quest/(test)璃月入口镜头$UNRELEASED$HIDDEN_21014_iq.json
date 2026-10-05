@@ -1,0 +1,15 @@
+{
+  "quest_id": 21014,
+  "chapter_num": null,
+  "chapter_title": "(test)璃月入口镜头$UNRELEASED$HIDDEN",
+  "type": "iq",
+  "route": "(test)璃月入口镜头",
+  "stories": [
+    {
+      "story_id": 21014,
+      "title": "(test)璃月入口镜头$UNRELEASED$HIDDEN",
+      "description": "璃月入口的镜头使用任务$UNRELEASED$HIDDEN",
+      "dialogues": []
+    }
+  ]
+}

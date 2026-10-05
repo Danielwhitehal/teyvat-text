@@ -1,0 +1,48 @@
+{
+  "quest_id": 21012,
+  "chapter_num": null,
+  "chapter_title": "扫梯而下$UNRELEASED",
+  "type": "iq",
+  "route": "Sweeping Down",
+  "stories": [
+    {
+      "story_id": 21012,
+      "title": "扫梯而下$UNRELEASED",
+      "description": "丹迪正因为楼梯上的落叶堆而发愁…$UNRELEASED",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "清扫通往下层的所有落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "清扫落叶堆$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "在楼下找到丹迪$UNRELEASED"
+        }
+      ]
+    }
+  ]
+}

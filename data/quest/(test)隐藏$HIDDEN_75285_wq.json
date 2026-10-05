@@ -1,0 +1,15 @@
+{
+  "quest_id": 75285,
+  "chapter_num": null,
+  "chapter_title": "(test)隐藏$HIDDEN",
+  "type": "wq",
+  "route": "(test) $HIDDEN",
+  "stories": [
+    {
+      "story_id": 75285,
+      "title": "(test)隐藏$HIDDEN",
+      "description": "(test)隐藏$HIDDEN",
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "quest_id": 72669,
+  "chapter_num": null,
+  "chapter_title": "隐藏发鱼饵$HIDDEN",
+  "type": "wq",
+  "route": "Bait Resupply Plan",
+  "stories": [
+    {
+      "story_id": 72669,
+      "title": "隐藏发鱼饵$HIDDEN",
+      "description": "隐藏发鱼饵$HIDDEN",
+      "dialogues": [
+        {
+          "role": "旅行者",
+          "text": "我的「荧草饵」用完了。"
+        },
+        {
+          "role": "鲸井椛",
+          "text": "欸？还好上次你带来的材料充足，我做了很多备用的。"
+        },
+        {
+          "role": "鲸井椛",
+          "text": "来，这些你拿去吧，如果用完了可以再来找我。"
+        }
+      ]
+    }
+  ]
+}

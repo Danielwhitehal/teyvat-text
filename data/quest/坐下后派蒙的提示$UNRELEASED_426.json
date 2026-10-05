@@ -1,0 +1,56 @@
+{
+  "quest_id": 426,
+  "chapter_num": null,
+  "chapter_title": "坐下后派蒙的提示$UNRELEASED",
+  "type": null,
+  "route": "Paimon's Hint After Sitting",
+  "stories": [
+    {
+      "story_id": 426,
+      "title": "坐下后派蒙的提示$UNRELEASED",
+      "description": "",
+      "dialogues": [
+        {
+          "role": "",
+          "text": "坐下来休息一会吧，接下来有什么计划呢？$UNRELEASED"
+        },
+        {
+          "type": "choice",
+          "role": "玩家",
+          "options": [
+            "想做任务$UNRELEASED",
+            "想四处逛逛$UNRELEASED",
+            "想要变强$UNRELEASED",
+            "没啥，你先回去吧~$UNRELEASED"
+          ]
+        },
+        {
+          "role": "玩家",
+          "text": "想做任务$UNRELEASED"
+        },
+        {
+          "role": "",
+          "text": "这个简单，点开左上角的叹号图标，就能看到现在已经接取的任务啦。$UNRELEASED"
+        },
+        {
+          "role": "",
+          "text": "任务有难度等级，等级差太多的话，会很棘手呢。$UNRELEASED"
+        },
+        {
+          "role": "",
+          "text": "还有啥想了解的吗$UNRELEASED"
+        },
+        {
+          "type": "choice",
+          "role": "玩家",
+          "options": [
+            "想做任务$UNRELEASED",
+            "想四处逛逛$UNRELEASED",
+            "想要变强$UNRELEASED",
+            "没啥，你先回去吧~$UNRELEASED"
+          ]
+        }
+      ]
+    }
+  ]
+}

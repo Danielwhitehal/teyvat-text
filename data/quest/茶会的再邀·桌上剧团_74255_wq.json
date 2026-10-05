@@ -1,0 +1,32 @@
+{
+  "quest_id": 74255,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·桌上剧团",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Tabletop Troupe",
+  "stories": [
+    {
+      "story_id": 74255,
+      "title": "茶会的再邀·桌上剧团",
+      "description": "前往千织屋附近放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "娜维娅",
+          "text": "怎么样？桑多涅小姐。还喜欢「桌上剧团」吗？"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "娜维娅",
+          "text": "好啊，我们下次接着玩！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "quest_id": 71704,
+  "chapter_num": null,
+  "chapter_title": "阿桂的药材需求",
+  "type": "wq",
+  "route": "Herbalist's Forage",
+  "stories": [
+    {
+      "story_id": 71704,
+      "title": "阿桂的药材需求",
+      "description": "璃月港的阿桂需要十份薄荷。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十份薄荷交给阿桂"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于薄荷…"
+        },
+        {
+          "role": "阿桂",
+          "text": "咦？你是看到我的委托了吧，十份薄荷已经搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "已经搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "阿桂",
+                  "text": "那你搜集齐了之后，就请尽快拿过来吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿桂对话"
+        },
+        {
+          "role": "阿桂",
+          "text": "薄荷…薄荷…嗯，这些应该够用了。"
+        },
+        {
+          "role": "阿桂",
+          "text": "这些东西给你，请收下吧，谢谢你帮忙。"
+        }
+      ]
+    }
+  ]
+}

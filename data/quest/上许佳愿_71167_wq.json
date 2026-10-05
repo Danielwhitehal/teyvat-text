@@ -1,0 +1,20 @@
+{
+  "quest_id": 71167,
+  "chapter_num": null,
+  "chapter_title": "上许佳愿",
+  "type": "wq",
+  "route": "Wishing Wonderful Wishes",
+  "stories": [
+    {
+      "story_id": 71167,
+      "title": "上许佳愿",
+      "description": "在萍溪的建议下，你们决定去查看一下「告事板」…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "查看「告事板」"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": 70107,
+  "chapter_num": null,
+  "chapter_title": "低温预警",
+  "type": "wq",
+  "route": "Low-Temperature Warning",
+  "stories": [
+    {
+      "story_id": 70107,
+      "title": "低温预警",
+      "description": "关于雪山中的低温，玉霞有些忠告要告诉你…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与玉霞对话"
+        }
+      ]
+    }
+  ]
+}

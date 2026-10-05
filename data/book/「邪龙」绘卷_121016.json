@@ -1,0 +1,13 @@
+{
+  "id": 121016,
+  "name": "「邪龙」绘卷",
+  "route": "Fell Dragon's Picturebook",
+  "volumes": [
+    {
+      "volume_id": 121016,
+      "volume_name": "「邪龙」绘卷",
+      "description": "一本关于「希穆兰卡的邪龙」——杜林的绘本。里面绘有他不为人知的故事。",
+      "full_text": "<image name=UI_ReadPic_FairyTale_01 />\r\n<image name=UI_ReadPic_FairyTale_02 />\r\n<image name=UI_ReadPic_FairyTale_03 />\r\n<image name=UI_ReadPic_FairyTale_04 />\r\n<image name=UI_ReadPic_FairyTale_05 />\r\n<image name=UI_ReadPic_FairyTale_06 />"
+    }
+  ]
+}

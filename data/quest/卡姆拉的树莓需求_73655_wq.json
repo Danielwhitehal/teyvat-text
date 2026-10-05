@@ -1,0 +1,59 @@
+{
+  "quest_id": 73655,
+  "chapter_num": null,
+  "chapter_title": "卡姆拉的树莓需求",
+  "type": "wq",
+  "route": "Kamla's Berries",
+  "stories": [
+    {
+      "story_id": 73655,
+      "title": "卡姆拉的树莓需求",
+      "description": "奥摩斯港的卡姆拉需要十五个树莓。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十五个树莓交给卡姆拉"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于树莓…"
+        },
+        {
+          "role": "卡姆拉",
+          "text": "我知道了，你是看到委托来送树莓的对吗？"
+        },
+        {
+          "role": "卡姆拉",
+          "text": "那么，十五个树莓你准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "卡姆拉",
+                  "text": "那我还是等你准备好之后再取货吧，毕竟是要晾果干，哪有人会一颗一颗的晾。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与卡姆拉对话"
+        },
+        {
+          "role": "卡姆拉",
+          "text": "我一会儿就拿回去晾起来，下次出门看海的时候就又有树莓果干吃了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": 74664,
+  "chapter_num": null,
+  "chapter_title": "重甲蟹引起的混乱",
+  "type": "wq",
+  "route": "Crabby Chaos",
+  "stories": [
+    {
+      "story_id": 74664,
+      "title": "重甲蟹引起的混乱",
+      "description": "重甲蟹正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退袭击民众的重甲蟹"
+        }
+      ]
+    }
+  ]
+}

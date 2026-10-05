@@ -1,0 +1,72 @@
+{
+  "quest_id": 70021,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70021,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mimi muhe <color=#00E1FFFF> gusha unu boya</color>"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "唔，看起来它需要某种特定颜色的东西…我们来看看它想要什么吧？"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani mi <color=#00E1FFFF> gusha unu boya</color> !"
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "yeye tomo! Mosi mita!"
+        },
+        {
+          "role": "旅行者",
+          "text": "Mosi mita!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "所以你看，只要用心，还是能好好交流嘛！"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Du odomu tomo dala?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mito nye! Beru ya!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它说它的朋友知道，并且在地图上为我们标下了位置，我们去找它吧！"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Gusha! Mani nye!"
+        },
+        {
+          "role": "旅行者",
+          "text": "似乎哪里搞错了…"
+        }
+      ]
+    }
+  ]
+}

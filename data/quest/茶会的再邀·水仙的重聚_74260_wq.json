@@ -1,0 +1,32 @@
+{
+  "quest_id": 74260,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·水仙的重聚",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Narzissenkreuz Reunion",
+  "stories": [
+    {
+      "story_id": 74260,
+      "title": "茶会的再邀·水仙的重聚",
+      "description": "前往隐居处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "玛丽安",
+          "text": "真是平静惬意的日子。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "玛丽安",
+          "text": "嗯，感谢你的邀请。桑多涅…妹妹？"
+        }
+      ]
+    }
+  ]
+}

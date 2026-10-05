@@ -1,0 +1,25 @@
+{
+  "id": 121197,
+  "name": "留影记录",
+  "route": "Photography Records",
+  "volumes": [
+    {
+      "volume_id": 121197,
+      "volume_name": "留影记录",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_Volcano_01 />"
+    },
+    {
+      "volume_id": 121197,
+      "volume_name": "留影记录",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_Volcano_02 />"
+    },
+    {
+      "volume_id": 121197,
+      "volume_name": "留影记录",
+      "description": "",
+      "full_text": "<image name=UI_ReadPic_Volcano_03 />"
+    }
+  ]
+}

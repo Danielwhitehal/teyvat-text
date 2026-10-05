@@ -1,0 +1,59 @@
+{
+  "quest_id": 74651,
+  "chapter_num": null,
+  "chapter_title": "布吕诺的鲜花需求",
+  "type": "wq",
+  "route": "Bruneau's Flower Request",
+  "stories": [
+    {
+      "story_id": 74651,
+      "title": "布吕诺的鲜花需求",
+      "description": "布吕诺需要5支虹彩蔷薇。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将5支虹彩蔷薇交给布吕诺"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于虹彩蔷薇…"
+        },
+        {
+          "role": "布吕诺",
+          "text": "是的，我的确给报纸投过稿，希望有人能送我一束虹彩蔷薇。"
+        },
+        {
+          "role": "布吕诺",
+          "text": "你是来帮我实现这个愿望的吗？你带来的花一定非常美丽。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "请稍等。",
+              "dialogues": [
+                {
+                  "role": "布吕诺",
+                  "text": "没关系，多久我都可以等，感谢你愿意帮我实现这个愿望。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与布吕诺对话"
+        },
+        {
+          "role": "布吕诺",
+          "text": "太好了，谢谢你。美好的鲜花能给人带来生活的信心，愿你拥有美好的一天。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "quest_id": 318,
+  "chapter_num": null,
+  "chapter_title": "岩神像切换能力教学$HIDDEN",
+  "type": "iq",
+  "route": "Element of Different Nature",
+  "stories": [
+    {
+      "story_id": 318,
+      "title": "岩神像切换能力教学$HIDDEN",
+      "description": "",
+      "dialogues": [
+        {
+          "role": "派蒙",
+          "text": "咦？你这是…感受到「岩」的元素力了吗？"
+        },
+        {
+          "role": "派蒙",
+          "text": "果然你和「神之眼」的使用者很不一样呢！居然可以改变体内的元素形态…"
+        },
+        {
+          "role": "派蒙",
+          "text": "这样看来，和在蒙德的时候一样，只需要向七天神像祈愿，就会得到回应。"
+        },
+        {
+          "role": "派蒙",
+          "text": "——嗯，这里是璃月，「岩」之神统治的国度，所以神像的造型不同。"
+        },
+        {
+          "role": "派蒙",
+          "text": "如果你又想使用「风」的元素力，就回一趟蒙德，去找那里的七天神像吧。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 120892,
+  "name": "拉瓦特的笔记",
+  "route": "Rawat's Notes",
+  "volumes": [
+    {
+      "volume_id": 120892,
+      "volume_name": "拉瓦特的笔记",
+      "description": "在拉瓦特母亲住处的橱柜里发现的一页笔记，标记了枫丹科学院北面的一处地点。",
+      "full_text": "<image name=UI_ReadPic_LabMap/>\\n\r\n（日志中记录了进入地下实验室的方法）"
+    }
+  ]
+}

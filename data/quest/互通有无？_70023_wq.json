@@ -1,0 +1,102 @@
+{
+  "quest_id": 70023,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70023,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与另一个愿意交流的丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Ya!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi ika yaya nye! Mimi tomo, mimi mani ye."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani. Mi muhe mani. Unu du mani! Hahahahaha."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "这家伙讲了一个丘丘人语言的笑话，把自己乐到了。它们精神太贫瘠了，看着真可怜。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe <color=#00E1FFFF>kucha gusha</color>. Kucha gusha dada. Unu gusha dada!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它想要…唔…不管了，只要查看我的手册就能找到的！"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe unu boya gusha."
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yeye dada! Mosi mita!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Hahahaha, kucha gusha unu gusha. Unu kucha si!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Wei? Odomu tomo zido mi! <color=#00E1FFFF>Mosi aba nunu</color>！"
+        },
+        {
+          "role": "派蒙",
+          "text": "<color=#00E1FFFF>Mosi aba nunu</color>…手册上有写这句话的含义吗…？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "Mosi mita dada!",
+              "dialogues": []
+            },
+            {
+              "text": "Tomo, valo!",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, mi tomo!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Nye nye nye. Kucha, gusha. Hahahaha. Kucha gusha, kucha, gusha. Hahaha."
+        },
+        {
+          "role": "派蒙",
+          "text": "似乎不对。"
+        },
+        {
+          "role": "旅行者",
+          "text": "（但它笑的好开心…）"
+        }
+      ]
+    }
+  ]
+}

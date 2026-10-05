@@ -1,0 +1,13 @@
+{
+  "id": 101580,
+  "name": "留给岻伽的「藏宝图」",
+  "route": "A Treasure Map Left for Shitoki",
+  "volumes": [
+    {
+      "volume_id": 101580,
+      "volume_name": "留给岻伽的「藏宝图」",
+      "description": "由碎片拼成的一整张藏宝图，散发着淡淡的海盐气息。",
+      "full_text": "<image name=UI_TreasureMap_Tsurumi_Alpha />"
+    }
+  ]
+}

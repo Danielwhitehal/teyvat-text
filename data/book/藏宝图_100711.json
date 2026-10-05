@@ -1,0 +1,19 @@
+{
+  "id": 100711,
+  "name": "藏宝图",
+  "route": "Treasure Map",
+  "volumes": [
+    {
+      "volume_id": 100711,
+      "volume_name": "藏宝图",
+      "description": "记载着宝藏线索的地图。",
+      "full_text": "<image name=UI_MiracleRing_Quest_Puzzle />"
+    },
+    {
+      "volume_id": 120931,
+      "volume_name": "「藏宝图」",
+      "description": "由「看守」弗洛莱恩赠予的藏宝图，据说宝库中埋藏着从前逐影猎人留下的宝藏，蕴含着击败邪恶巫师的力量…",
+      "full_text": "<image name=UI_ReadPic_RPGMap/>"
+    }
+  ]
+}

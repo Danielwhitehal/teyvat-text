@@ -1,0 +1,20 @@
+{
+  "quest_id": 72701,
+  "chapter_num": null,
+  "chapter_title": "丘丘人引起的混乱",
+  "type": "wq",
+  "route": "Hilichurl Hullaballoo",
+  "stories": [
+    {
+      "story_id": 72701,
+      "title": "丘丘人引起的混乱",
+      "description": "鸣神岛上某处，丘丘人正在作乱，古谷升希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退丘丘人"
+        }
+      ]
+    }
+  ]
+}

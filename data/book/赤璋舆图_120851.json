@@ -1,0 +1,13 @@
+{
+  "id": 120851,
+  "name": "赤璋舆图",
+  "route": "Chizhang Map",
+  "volumes": [
+    {
+      "volume_id": 120851,
+      "volume_name": "赤璋舆图",
+      "description": "千岩军留下的地图，似乎记载了仓储的位置。",
+      "full_text": "「…奉上命，克日班师…所余军资器械皆封存于城垣，以备不时…记之以此图…」\r\n<image name=UI_ReadPic_120851/>\r\n"
+    }
+  ]
+}

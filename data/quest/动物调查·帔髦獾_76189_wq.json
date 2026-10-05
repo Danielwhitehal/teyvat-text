@@ -1,0 +1,36 @@
+{
+  "quest_id": 76189,
+  "chapter_num": null,
+  "chapter_title": "动物调查·帔髦獾",
+  "type": "wq",
+  "route": "Animal Research: Chic Badgers",
+  "stories": [
+    {
+      "story_id": 76189,
+      "title": "动物调查·帔髦獾",
+      "description": "在雷图礁一带有紫色帔髦獾出没的传闻…",
+      "dialogues": [
+        {
+          "role": "？？？",
+          "text": "快速做好了调查的准备…"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点开启调查"
+        },
+        {
+          "type": "subtitle",
+          "text": "调查帔髦獾"
+        },
+        {
+          "role": "旅行者",
+          "text": "（附近似乎有些值得调查的，如果是对本地生态十分了解的<color=#FFCC33FF>莉奈娅</color>，或许会有所收获…）"
+        },
+        {
+          "type": "subtitle",
+          "text": "调查帔髦獾"
+        }
+      ]
+    }
+  ]
+}

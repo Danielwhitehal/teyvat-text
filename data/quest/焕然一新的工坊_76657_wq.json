@@ -1,0 +1,46 @@
+{
+  "quest_id": 76657,
+  "chapter_num": null,
+  "chapter_title": "焕然一新的工坊",
+  "type": "wq",
+  "route": "A Whole New Craftshop",
+  "stories": [
+    {
+      "story_id": 76657,
+      "title": "焕然一新的工坊",
+      "description": "多亏了你孜孜不倦的收集材料，蛋卷工坊的操作台已经大变模样…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与爱诺交谈"
+        },
+        {
+          "role": "派蒙",
+          "text": "哇，爱诺的操作台又变高级了。"
+        },
+        {
+          "role": "爱诺",
+          "text": "旅行者，派蒙，你们又来送材料啦！谢谢你们。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "不客气。",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "爱诺",
+          "text": "多亏了你们的材料，我宣布蛋卷工坊操作台升级计划顺利完成！嘿嘿。"
+        },
+        {
+          "role": "爱诺",
+          "text": "这样说来，短时间内应该不用麻烦你们继续送材料过来了，但是如果想来找我或者伊涅芙玩，我们热烈欢迎哦。"
+        }
+      ]
+    }
+  ]
+}

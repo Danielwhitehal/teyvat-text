@@ -1,0 +1,13 @@
+{
+  "id": 100712,
+  "name": "奇怪的纸条",
+  "route": "Strange Note",
+  "volumes": [
+    {
+      "volume_id": 100712,
+      "volume_name": "奇怪的纸条",
+      "description": "奇怪的纸条，上面似乎记载着什么信息…",
+      "full_text": "「巨树繁茂，盘存百宝。\r\n大道正中，可寻奇货\r\n长阶之下，匿藏何物？」"
+    }
+  ]
+}

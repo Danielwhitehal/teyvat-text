@@ -1,0 +1,63 @@
+{
+  "quest_id": 70702,
+  "chapter_num": null,
+  "chapter_title": "康纳的酿酒材料需求",
+  "type": "wq",
+  "route": "Connor's Brew",
+  "stories": [
+    {
+      "story_id": 70702,
+      "title": "康纳的酿酒材料需求",
+      "description": "晨曦酒庄的康纳需要十份小麦。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十份小麦交给康纳"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于小麦…"
+        },
+        {
+          "role": "康纳",
+          "text": "你…哦，你是看到了我的委托吧。"
+        },
+        {
+          "role": "康纳",
+          "text": "小麦…十份小麦你搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "康纳",
+                  "text": "那你搜集齐了之后，再拿给我吧。我要再去休息一会…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与康纳对话"
+        },
+        {
+          "role": "康纳",
+          "text": "我看看…这些小麦应该够用了。"
+        },
+        {
+          "role": "康纳",
+          "text": "谢谢你，这些东西请你收下吧…"
+        }
+      ]
+    }
+  ]
+}

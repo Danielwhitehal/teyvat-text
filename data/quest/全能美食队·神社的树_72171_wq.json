@@ -1,0 +1,20 @@
+{
+  "quest_id": 72171,
+  "chapter_num": null,
+  "chapter_title": "全能美食队·神社的树",
+  "type": "wq",
+  "route": "The Gourmet Supremos: Of Shrines and Sakura",
+  "stories": [
+    {
+      "story_id": 72171,
+      "title": "全能美食队·神社的树",
+      "description": "「全能美食队」似乎对鸣神大社有些兴趣…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往鸣神大社"
+        }
+      ]
+    }
+  ]
+}

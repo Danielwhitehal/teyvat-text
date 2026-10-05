@@ -1,0 +1,100 @@
+{
+  "quest_id": 70823,
+  "chapter_num": null,
+  "chapter_title": "黑岩之困",
+  "type": "wq",
+  "route": "Blackcliff Woes",
+  "stories": [
+    {
+      "story_id": 70823,
+      "title": "黑岩之困",
+      "description": "阿宽似乎正在因为某事而烦恼…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与阿宽对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "在层岩巨渊外围巡查"
+        },
+        {
+          "type": "subtitle",
+          "text": "打倒所有魔物，并清除路障"
+        },
+        {
+          "type": "subtitle",
+          "text": "在层岩巨渊外围巡查"
+        },
+        {
+          "role": "阿宽",
+          "text": "唉，那群魔物到底是从哪钻出来的…"
+        },
+        {
+          "type": "subtitle",
+          "text": "打倒所有敌人"
+        },
+        {
+          "type": "subtitle",
+          "text": "在层岩巨渊外围巡查"
+        },
+        {
+          "type": "subtitle",
+          "text": "拆除魔物的营地"
+        },
+        {
+          "type": "subtitle",
+          "text": "向阿宽回报"
+        },
+        {
+          "role": "阿宽",
+          "text": "情况怎么样？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "有很多魔物。",
+              "dialogues": [
+                {
+                  "role": "阿宽",
+                  "text": "是这样吗…唉，看来那片工地现在确实不能复工了。"
+                }
+              ]
+            },
+            {
+              "text": "有很多盗宝团。",
+              "dialogues": [
+                {
+                  "role": "阿宽",
+                  "text": "盗宝团？还有很多魔物？呃…"
+                },
+                {
+                  "role": "阿宽",
+                  "text": "盗宝团真是一群要钱不要命的家伙…"
+                },
+                {
+                  "role": "阿宽",
+                  "text": "唉，看来那片工地现在确实不能复工了…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "阿宽",
+          "text": "情况我知道了，谢谢你帮忙，这些收下吧。"
+        },
+        {
+          "role": "阿宽",
+          "text": "但这么拖下去，厂里的单子说不定有些要延期了…"
+        },
+        {
+          "role": "阿宽",
+          "text": "不行，我得快点再找一片能开工的地方…"
+        }
+      ]
+    }
+  ]
+}

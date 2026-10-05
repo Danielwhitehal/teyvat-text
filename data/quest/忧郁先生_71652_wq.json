@@ -1,0 +1,17 @@
+{
+  "quest_id": 71652,
+  "chapter_num": null,
+  "chapter_title": "忧郁先生",
+  "type": "wq",
+  "route": "Mr. Melancholy",
+  "stories": [
+    {
+      "story_id": 71652,
+      "title": "忧郁先生",
+      "description": "冒险家协会的盈珠正在与须弥教令院派来的学者接洽，但接洽工作似乎遇到了一些麻烦…",
+      "dialogues": [
+        
+      ]
+    }
+  ]
+}

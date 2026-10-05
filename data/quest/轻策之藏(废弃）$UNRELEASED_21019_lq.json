@@ -1,0 +1,36 @@
+{
+  "quest_id": 21019,
+  "chapter_num": null,
+  "chapter_title": "轻策之藏(废弃）$UNRELEASED",
+  "type": "lq",
+  "route": "Hidden Treasure of Qingce",
+  "stories": [
+    {
+      "story_id": 21019,
+      "title": "轻策之藏(废弃）$UNRELEASED",
+      "description": "轻策山里，似乎隐藏着什么秘密…$UNRELEASED",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "观察铭文$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找宝藏的线索$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找宝藏的线索$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找宝藏的线索$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "获得宝藏$UNRELEASED"
+        }
+      ]
+    }
+  ]
+}

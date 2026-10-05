@@ -1,0 +1,21 @@
+{
+  "quest_id": 70655,
+  "chapter_num": null,
+  "chapter_title": "山之召唤",
+  "type": "wq",
+  "route": "Mountainous Summons",
+  "stories": [
+    {
+      "story_id": 70655,
+      "title": "山之召唤",
+      "description": "达达乌帕谷的丘丘人们一反常态，活跃非凡。而冒险家协会的学者型冒险家利文斯通，正着手于调查达达乌帕谷。或许你能带去一些帮助。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "蒙德达达乌帕谷",
+          "narration": true
+        }
+      ]
+    }
+  ]
+}

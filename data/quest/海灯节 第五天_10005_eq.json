@@ -1,0 +1,228 @@
+{
+  "quest_id": 10005,
+  "chapter_num": "海灯节 第五天",
+  "chapter_title": "海灯节 第五天",
+  "type": "eq",
+  "route": "Lantern Rite: Day 5",
+  "stories": [
+    {
+      "story_id": 40005,
+      "title": "海内有明霄$UNRELEASED",
+      "description": "从凯亚的线人那里，你了解到那是跨境黑道组织「盗宝团」的联络符号。事情的真相似乎没有先前猜测得那么可怕。盗宝团的璃月分部，刚才接到了一封匿名信。在魈的威名威慑之下，盗宝团将那封信交给了你。信的主人要求盗宝团高层与他在璃月某处密会，有大事相商。再次地，在魈的威名威慑之下，真正的盗宝团成员同意让你假扮高层，前往信中地址，在约定的时间与匿名信主会面…$UNRELEASED",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往约好的地点，与信主碰头$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往约好的地点，与信主碰头$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "两位就是来自盗宝团的朋友么？我明明已经在密信中说自己会乔装，也请两位尽情乔装…"
+        },
+        {
+          "role": "？？？",
+          "text": "而今这位朋友却以本来面目现身，实在坦荡，在下佩服。"
+        },
+        {
+          "role": "派蒙",
+          "text": "哼哼。我们和你这种藏头露尾的人不一样，我们可没有做过不戴上面具就不敢出现的亏心事啊！"
+        },
+        {
+          "role": "派蒙",
+          "text": "喂——！"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "是他说尽情乔装…",
+              "dialogues": []
+            },
+            {
+              "text": "其实我觉得这样还蛮帅的…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "？？？",
+          "text": "你们，不是盗宝团的人！你们是什么人？"
+        },
+        {
+          "type": "subtitle",
+          "text": "击败可疑人士$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "快把你的阴谋诡计招了！$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "我招我招！$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "不招的话，就尝尝我…欸！招得这么快吗？$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "其实我…是向往「盗宝团」威名的新手盗贼。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "新手盗贼？！$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "像我这样初出茅庐，又孤身一人的新手…盗宝团就是我心中的圣地…$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "等一下…$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "所以我想要干出一桩大买卖，去纳投名状…$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "等一下！完全搞不明白！ $UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "这和我想象的，凶残又邪恶的纵火黑手，完全不一样！$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "纵火，什么纵火？$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "你一直在易燃物堆放的地方晃荡，难道不是为了纵火吗？$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "啊啊，你说那里啊。我只是在那里踩点。$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "我的计划和那些建筑材料没有关系。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "没有关系？！$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "我是为了…偷走那块二十年一遇的巨大「浮生石」！$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "我的计划是，趁着夜色砍断一半锁链，就这样让它往海的方向飘——$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "哦哦。$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "再想办法让它沉到云来海的浅水湾里，这样就是完美犯罪了！$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "不完美的地方太多了！比如你要怎么把浮空的浮生石沉到水里啊？$UNRELEASED"
+        },
+        {
+          "role": "？？？",
+          "text": "我也在思考这个问题，所以一直没动手嘛。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "这人真的脑子不清楚啊！$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "好了，旅行者，给他一个教训吧。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "那么，我们去和夜叉小哥复命吧。$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往约定地点，与魈对话$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "原来事情是这样。人类的行为总是愚蠢得如此随机…不过，我无所谓。$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "好了。你们把我喊到能看见「明霄灯」的地方来，究竟是为了什么？$UNRELEASED"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "当然是为了「明霄灯」。$UNRELEASED",
+              "dialogues": []
+            },
+            {
+              "text": "当然是为了海灯节。$UNRELEASED",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "明明海灯节纪念的英雄里也包括你…为什么你却不想去看灯呢？$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "我无法靠近人群。那些，无忧无虑的人。$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "苦行与杀戮的日子，我已经过得太久…已经成为习惯…$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "这个话题就到这里吧。$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "再见了。$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "……$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "不过，如果你在璃月遇到了鬼神之难，就直呼我名吧。$UNRELEASED"
+        },
+        {
+          "role": "魈",
+          "text": "不论是你，还是璃月。所有的灯火，所有祈求平安的愿望，我都已经听到了。$UNRELEASED"
+        },
+        {
+          "role": "旅行者",
+          "text": "那么，新年快乐。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "新年快乐！$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "回璃月港，见证海灯节最后一日$UNRELEASED"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 121028,
+  "name": "初代首领留下的地图",
+  "route": "Map Left Behind by the First Chief",
+  "volumes": [
+    {
+      "volume_id": 121028,
+      "volume_name": "初代首领留下的地图",
+      "description": "流泉之众初代首领留下的地图，据说它指示着前往神秘岛的路线，但只有专业的向导才能进行解读。",
+      "full_text": "<image name=UI_ReadPic_121028/>"
+    }
+  ]
+}

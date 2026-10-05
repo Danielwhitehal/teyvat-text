@@ -1,0 +1,13 @@
+{
+  "id": 100350,
+  "name": "可莉的本子",
+  "route": "Klee's Notebook",
+  "volumes": [
+    {
+      "volume_id": 100350,
+      "volume_name": "可莉的本子",
+      "description": "(test)可莉的本子",
+      "full_text": "城里放炮 禁闭室报道\r\n炸弹伤人 琴找上门\r\n放火烧山 可莉完蛋"
+    }
+  ]
+}

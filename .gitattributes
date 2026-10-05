@@ -1,0 +1,6 @@
+# 脚本统一换行，跨平台无噪音
+*.py text eol=lf
+*.bat text eol=crlf
+
+# 数据按原样保存，不做换行归一化（避免 diff 噪音 / 中文文件名争议）
+data/** -text

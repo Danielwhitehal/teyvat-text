@@ -1,0 +1,132 @@
+{
+  "quest_id": 70020,
+  "chapter_num": null,
+  "chapter_title": "替丘丘行道！",
+  "type": "wq",
+  "route": "Hilichurl Justice",
+  "stories": [
+    {
+      "story_id": 70020,
+      "title": "替丘丘行道！",
+      "description": "与艾拉·马斯克一同前去为被欺负的丘丘人打抱不平，或许能够借此得到新的线索？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与另一个愿意交流的丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Odomu! Ya dala?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "等等，让我来处理吧。"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo, Odomu nye! Muhe mani?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani? Mani! Yoyo mani mi?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Dada!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada!"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "好像很顺利呢。",
+              "dialogues": []
+            },
+            {
+              "text": "你们在说什么？",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "我在问它是否需要帮助，看样子它果然需要我们帮忙呢。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada odomu! Kundala dada! Kundala zido, mi dada! Muhe yeye!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "呃…它的意思大概是，需要我们去帮助它打败…强大的敌人。"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Ya zido? Ye? Mi?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi! Mi!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "好的，那家伙的位置已经标在地图上了，接下来看你的咯！"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada, Valo!"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点战斗"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人回复"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mosi mita!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yeye dada! Mosi mita!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Odomu tomo zido mi! Mi mani yeye! <color=#00E1FFFF>Unta nunu</color>！"
+        },
+        {
+          "role": "派蒙",
+          "text": "<color=#00E1FFFF>Unta nunu</color>…好像和时间什么的有关系…别忘了查查手册吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "呃…谢谢？",
+              "dialogues": []
+            },
+            {
+              "text": "Tomo, valo!",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, tomo!"
+        },
+        {
+          "role": "派蒙",
+          "text": "嘿嘿，valo!"
+        }
+      ]
+    }
+  ]
+}

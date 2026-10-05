@@ -1,0 +1,64 @@
+{
+  "quest_id": 70526,
+  "chapter_num": null,
+  "chapter_title": "来试试「七圣召唤」吧！",
+  "type": "wq",
+  "route": "Come Try Genius Invokation TCG!",
+  "stories": [
+    {
+      "story_id": 70526,
+      "title": "来试试「七圣召唤」吧！",
+      "description": "",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往猫尾酒馆"
+        },
+        {
+          "role": "「小王子」",
+          "text": "喵，是来玩「七圣召唤」的客人吗，哎呀，那就由我来教你七圣召唤的基础规则吧！"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成「七圣召唤」新手教学"
+        },
+        {
+          "type": "subtitle",
+          "text": "与「小王子」对话"
+        },
+        {
+          "role": "「小王子」",
+          "text": "恭喜你学会了基础的规则喵。"
+        },
+        {
+          "type": "subtitle",
+          "text": "与「小王子」对话"
+        },
+        {
+          "role": "「小王子」",
+          "text": "既然已经学会规则了，那就顺便来进行一次「决斗牌局」吧！"
+        },
+        {
+          "type": "subtitle",
+          "text": "进行一次「七圣召唤」对决"
+        },
+        {
+          "type": "subtitle",
+          "text": "与「小王子」对话"
+        },
+        {
+          "role": "「小王子」",
+          "text": "对了这个名叫「秘典之盒」的组卡器就交给你了喵。"
+        },
+        {
+          "type": "subtitle",
+          "text": "与「小王子」对话"
+        },
+        {
+          "role": "「小王子」",
+          "text": "恭喜你，你现在已经是一名牌手了喵。现在你已经开启了全部的牌手功能啦！"
+        }
+      ]
+    }
+  ]
+}

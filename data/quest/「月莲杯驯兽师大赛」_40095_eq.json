@@ -1,0 +1,56 @@
+{
+  "quest_id": 40095,
+  "chapter_num": null,
+  "chapter_title": "「月莲杯驯兽师大赛」",
+  "type": "eq",
+  "route": "Nilotpala Cup Beast Tamers Tournament",
+  "stories": [
+    {
+      "story_id": 40095,
+      "title": "「月莲杯驯兽师大赛」",
+      "description": "一场奇妙的比赛在奥摩斯港拉开了帷幕…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往捕捉区域"
+        },
+        {
+          "type": "subtitle",
+          "text": "捕捉蕈兽"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往下个捕捉区域"
+        },
+        {
+          "type": "subtitle",
+          "text": "捕捉蕈兽"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往「花花琼脂」摊位"
+        },
+        {
+          "type": "subtitle",
+          "text": "焕发蕈兽的潜能"
+        },
+        {
+          "type": "subtitle",
+          "text": "焕发蕈兽的潜能"
+        },
+        {
+          "type": "subtitle",
+          "text": "焕发蕈兽的潜能"
+        },
+        {
+          "type": "subtitle",
+          "text": "焕发蕈兽的潜能"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往「特训场地」"
+        }
+      ]
+    }
+  ]
+}

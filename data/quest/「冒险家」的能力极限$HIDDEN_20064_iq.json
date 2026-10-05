@@ -1,0 +1,24 @@
+{
+  "quest_id": 20064,
+  "chapter_num": null,
+  "chapter_title": "「冒险家」的能力极限$HIDDEN",
+  "type": "iq",
+  "route": "The Limit as an Adventurer",
+  "stories": [
+    {
+      "story_id": 20064,
+      "title": "「冒险家」的能力极限$HIDDEN",
+      "description": "赫尔曼先生正在发愁…$HIDDEN",
+      "dialogues": [
+        {
+          "role": "艾琳",
+          "text": "喂！你做什么啊！这是我老爸给我做来练习的！"
+        },
+        {
+          "role": "艾琳",
+          "text": "要是我通不过骑士选拔的话…你也要负责任！"
+        }
+      ]
+    }
+  ]
+}

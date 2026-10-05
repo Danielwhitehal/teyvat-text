@@ -1,0 +1,32 @@
+{
+  "quest_id": 76198,
+  "chapter_num": null,
+  "chapter_title": "植物调查·冬凌草",
+  "type": "wq",
+  "route": "Plant Research: Winter Icelea",
+  "stories": [
+    {
+      "story_id": 76198,
+      "title": "植物调查·冬凌草",
+      "description": "在皮拉米达城以西发现了冬凌草…",
+      "dialogues": [
+        {
+          "role": "？？？",
+          "text": "快速做好了调查的准备…"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点开启调查"
+        },
+        {
+          "role": "旅行者",
+          "text": "（附近似乎有些值得调查的，如果是对本地生态十分了解的<color=#FFCC33FF>莉奈娅</color>，或许会有所收获…）"
+        },
+        {
+          "type": "subtitle",
+          "text": "采集冬凌草"
+        }
+      ]
+    }
+  ]
+}

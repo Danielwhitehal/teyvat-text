@@ -1,0 +1,68 @@
+{
+  "quest_id": 70006,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70006,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe mosi! Mi muhe mita, mita movo lata=!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "唔，它是饿了呢…我们来看看它想要什么吧？"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "似乎是…某种肉类吧？不过我不太确定，查查我的手册看看吧？"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani mi mita movo lata!"
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "yeye tomo! Mosi mita!"
+        },
+        {
+          "role": "旅行者",
+          "text": "Mosi mita!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "呼，大功告成！"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Du odomu tomo dala?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "mi mito nye. Ya zido mito, mi mito! Mi zido!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它的意思是…它也不知道，但它知道有人知道，而且给我们标明了位置！"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "接下来我们去找到它吧！"
+        }
+      ]
+    }
+  ]
+}

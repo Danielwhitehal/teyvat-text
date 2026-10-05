@@ -1,0 +1,13 @@
+{
+  "id": 120805,
+  "name": "布莱卡利杂货店收据",
+  "route": "Bracari's General Store Receipt",
+  "volumes": [
+    {
+      "volume_id": 120805,
+      "volume_name": "布莱卡利杂货店收据",
+      "description": "布莱卡利杂货店收据",
+      "full_text": "钳子一把\r\n锯子一把\r\n蜡烛三支\r\n绳索…"
+    }
+  ]
+}

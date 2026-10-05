@@ -1,0 +1,55 @@
+{
+  "quest_id": 73662,
+  "chapter_num": null,
+  "chapter_title": "阿拉耶什的果酱需求",
+  "type": "wq",
+  "route": "Arayesh's Jam",
+  "stories": [
+    {
+      "story_id": 73662,
+      "title": "阿拉耶什的果酱需求",
+      "description": "奥摩斯港的阿拉耶什需要两罐果酱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两罐果酱交给阿拉耶什"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于果酱…"
+        },
+        {
+          "role": "阿拉耶什",
+          "text": "看来你对做果酱很有自信啊，那两罐果酱你也准备好了吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "阿拉耶什",
+                  "text": "只有一罐的话，不出几天就吃完了，我至少要两罐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿拉耶什对话"
+        },
+        {
+          "role": "阿拉耶什",
+          "text": "颜色很不错啊，你果然很擅长做果酱，以后我还找你订。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "quest_id": 70654,
+  "chapter_num": null,
+  "chapter_title": "风中万花",
+  "type": "wq",
+  "route": "Floral Freefall",
+  "stories": [
+    {
+      "story_id": 70654,
+      "title": "风中万花",
+      "description": "风花节期间，蒙德城周围举办了各种各样的趣味活动。西风骑士团的莉兹想要隆重为你介绍其中之一，「风中万花」。",
+      "dialogues": []
+    }
+  ]
+}

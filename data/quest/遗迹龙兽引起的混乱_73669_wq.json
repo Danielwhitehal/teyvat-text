@@ -1,0 +1,20 @@
+{
+  "quest_id": 73669,
+  "chapter_num": null,
+  "chapter_title": "遗迹龙兽引起的混乱",
+  "type": "wq",
+  "route": "Ruin Drake Maelstrom",
+  "stories": [
+    {
+      "story_id": 73669,
+      "title": "遗迹龙兽引起的混乱",
+      "description": "遗迹龙兽正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退遗迹龙兽"
+        }
+      ]
+    }
+  ]
+}

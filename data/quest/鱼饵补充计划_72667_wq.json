@@ -1,0 +1,28 @@
+{
+  "quest_id": 72667,
+  "chapter_num": null,
+  "chapter_title": "鱼饵补充计划",
+  "type": "wq",
+  "route": "Bait Resupply Plan",
+  "stories": [
+    {
+      "story_id": 72667,
+      "title": "鱼饵补充计划",
+      "description": "荧草饵居然已经用完了，去找鲸井椛再做一些吧…",
+      "dialogues": [
+        {
+          "role": "旅行者",
+          "text": "我的「荧草饵」用完了。"
+        },
+        {
+          "role": "鲸井椛",
+          "text": "欸？还好上次你带来的材料充足，我做了很多备用的。"
+        },
+        {
+          "role": "鲸井椛",
+          "text": "来，这些你拿去吧，如果用完了可以再来找我。"
+        }
+      ]
+    }
+  ]
+}

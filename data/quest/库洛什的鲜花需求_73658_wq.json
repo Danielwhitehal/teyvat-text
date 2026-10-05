@@ -1,0 +1,59 @@
+{
+  "quest_id": 73658,
+  "chapter_num": null,
+  "chapter_title": "库洛什的鲜花需求",
+  "type": "wq",
+  "route": "Kourosh's Sumeru Roses",
+  "stories": [
+    {
+      "story_id": 73658,
+      "title": "库洛什的鲜花需求",
+      "description": "大巴扎的库洛什需要十支须弥蔷薇。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十支须弥蔷薇交给库洛什"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于须弥蔷薇…"
+        },
+        {
+          "role": "库洛什",
+          "text": "你是来送须弥蔷薇的吧，我正想看看新鲜美丽的花换换心情。"
+        },
+        {
+          "role": "库洛什",
+          "text": "那，十朵须弥蔷薇你都准备好了吗？准备好了的话，一起给我就好。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "库洛什",
+                  "text": "唉，无情的生活，连鲜花都抛弃了我。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与库洛什对话"
+        },
+        {
+          "role": "库洛什",
+          "text": "谢谢你，它们真完美。要是我下次的演出也能像它们一样无可挑剔，那就太好了。"
+        }
+      ]
+    }
+  ]
+}

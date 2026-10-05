@@ -1,0 +1,112 @@
+{
+  "quest_id": 77130,
+  "chapter_num": null,
+  "chapter_title": "如迷宫囚禁她的奴仆",
+  "type": "wq",
+  "route": "Like a Labyrinth Imprisons Her Servants",
+  "stories": [
+    {
+      "story_id": 77130,
+      "title": "如迷宫囚禁她的奴仆",
+      "description": "曾一度被锁链捆缚于冰原之上的巨人这次出现在了海边…他到底想要去往什么地方？",
+      "dialogues": [
+        {
+          "role": "派蒙",
+          "text": "嗯…果然就是那个大家伙，之前没看清楚…仔细一看，这不是一只巨大的雪精…"
+        },
+        {
+          "role": "派蒙",
+          "text": "雪精居然也能够长得那么大。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "也许是因为失控了…",
+              "dialogues": [
+                {
+                  "role": "派蒙",
+                  "text": "失控，呃…也就是说那些锁链是为了不让他失控才捆住他的？可是不管怎么样，被捆住也太可怜了。"
+                }
+              ]
+            },
+            {
+              "text": "派蒙要是也能这样长大就好了。",
+              "dialogues": [
+                {
+                  "role": "派蒙",
+                  "text": "长这么大还是算了吧，一天要吃多少东西才能填饱肚子呀！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "…唔。"
+        },
+        {
+          "role": "派蒙",
+          "text": "他是想要…想要到海上去吗？"
+        },
+        {
+          "role": "派蒙",
+          "text": "旅行者，我们要跟上去看看吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "有点在意…"
+        },
+        {
+          "role": "派蒙",
+          "text": "嗯，那个大家伙看上去也没有到处破坏…真奇怪，他到底想要到什么地方去呢…"
+        },
+        {
+          "type": "subtitle",
+          "text": "接近海边巨大的身影"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "靠近冰雪巨人"
+        },
+        {
+          "type": "subtitle",
+          "text": "跟上冰雪巨人"
+        },
+        {
+          "type": "subtitle",
+          "text": "解开限制巨人的锁链"
+        },
+        {
+          "type": "subtitle",
+          "text": "跟上冰雪巨人"
+        },
+        {
+          "type": "subtitle",
+          "text": "解开限制巨人的锁链"
+        },
+        {
+          "type": "subtitle",
+          "text": "跟上冰雪巨人"
+        },
+        {
+          "type": "subtitle",
+          "text": "解开限制巨人的锁链"
+        },
+        {
+          "type": "subtitle",
+          "text": "解除此处的影域"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往灯塔附近"
+        }
+      ]
+    }
+  ]
+}

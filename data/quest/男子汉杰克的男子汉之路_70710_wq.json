@@ -1,0 +1,67 @@
+{
+  "quest_id": 70710,
+  "chapter_num": null,
+  "chapter_title": "男子汉杰克的男子汉之路",
+  "type": "wq",
+  "route": "Manly Jack's Manly Journey of Manliness",
+  "stories": [
+    {
+      "story_id": 70710,
+      "title": "男子汉杰克的男子汉之路",
+      "description": "蒙德的男子汉杰克需要两份烤肉排。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两份烤肉排交给男子汉杰克"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于烤肉排…"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "呀，你是看到人家的委托了吧。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "怎么样，你把两份烤肉排都带来了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都带来了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "男子汉杰克",
+                  "text": "好吧…那你把两份烤肉排都准备好了之后，就快点带来给人家吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与男子汉杰克对话"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "呀…闻起来真不错，份量感也很不错。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "谢谢你，这些东西请你收下吧。"
+        },
+        {
+          "role": "男子汉杰克",
+          "text": "把这些烤肉排吃完的话…人家应该就会长一些力气了吧…"
+        }
+      ]
+    }
+  ]
+}

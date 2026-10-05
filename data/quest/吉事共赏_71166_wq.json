@@ -1,0 +1,20 @@
+{
+  "quest_id": 71166,
+  "chapter_num": null,
+  "chapter_title": "吉事共赏",
+  "type": "wq",
+  "route": "Good Fortune Shared",
+  "stories": [
+    {
+      "story_id": 71166,
+      "title": "吉事共赏",
+      "description": "在萍溪的建议下，你们决定去寻找「吉事宝树」",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "在附近寻找并修剪「吉事宝树」"
+        }
+      ]
+    }
+  ]
+}

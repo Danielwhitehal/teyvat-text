@@ -1,0 +1,20 @@
+{
+  "quest_id": 72705,
+  "chapter_num": null,
+  "chapter_title": "浮浪人引起的混乱",
+  "type": "wq",
+  "route": "Vagrant Havoc",
+  "stories": [
+    {
+      "story_id": 72705,
+      "title": "浮浪人引起的混乱",
+      "description": "鸣神岛上某处，浮浪人正在作乱，天野希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退浮浪人"
+        }
+      ]
+    }
+  ]
+}

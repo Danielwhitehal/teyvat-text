@@ -1,0 +1,63 @@
+{
+  "quest_id": 73660,
+  "chapter_num": null,
+  "chapter_title": "阿里娜的月莲需求",
+  "type": "wq",
+  "route": "Arina's Nilotpala Lotuses",
+  "stories": [
+    {
+      "story_id": 73660,
+      "title": "阿里娜的月莲需求",
+      "description": "须弥城的阿里娜需要五朵月莲。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将五朵月莲交给阿里娜"
+        },
+        {
+          "role": "阿里娜",
+          "text": "桌子上是摆月莲好看，还是摆须弥蔷薇好看呢？"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于月莲…"
+        },
+        {
+          "role": "阿里娜",
+          "text": "对，那个收集月莲的委托，委托人就是我。"
+        },
+        {
+          "role": "阿里娜",
+          "text": "你准备好五朵月莲了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "阿里娜",
+                  "text": "没有五朵的话，装饰房间有点不够，我还想让阿尔明也来看看呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿里娜对话"
+        },
+        {
+          "role": "阿里娜",
+          "text": "太好啦，谢谢你。沙漠里可见不到这么漂亮的月莲，待会儿我就叫阿尔明也来看看。"
+        }
+      ]
+    }
+  ]
+}

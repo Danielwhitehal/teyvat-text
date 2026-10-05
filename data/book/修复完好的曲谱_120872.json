@@ -1,0 +1,19 @@
+{
+  "id": 120872,
+  "name": "修复完好的曲谱",
+  "route": "Restored Score",
+  "volumes": [
+    {
+      "volume_id": 120872,
+      "volume_name": "修复完好的曲谱",
+      "description": "一度破损的曲谱如今已修复完好。若是懂得音律的人，一定可以读出上面记录着的古老旋律吧。",
+      "full_text": "<image name=UI_ReadPic_120910/>"
+    },
+    {
+      "volume_id": 120910,
+      "volume_name": "修复完好的曲谱",
+      "description": "修复完好的曲谱",
+      "full_text": "<image name=UI_QuestPicture_120883_Alpha/>"
+    }
+  ]
+}

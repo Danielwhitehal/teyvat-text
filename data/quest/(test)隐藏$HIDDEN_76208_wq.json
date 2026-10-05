@@ -1,0 +1,44 @@
+{
+  "quest_id": 76208,
+  "chapter_num": null,
+  "chapter_title": "(test)隐藏$HIDDEN",
+  "type": "wq",
+  "route": "(test)Hidden$HIDDEN",
+  "stories": [
+    {
+      "story_id": 76208,
+      "title": "(test)隐藏$HIDDEN",
+      "description": "(test)隐藏$HIDDEN",
+      "dialogues": [
+        {
+          "role": "派蒙",
+          "text": "咦？周围好像有一道透明的幕升起来了…是那棵树干的吗？"
+        },
+        {
+          "role": "派蒙",
+          "text": "感觉它像是在吐树脂呢，把这里变成了一块琥珀！"
+        },
+        {
+          "role": "",
+          "text": "那我们就成了琥珀里的小虫。"
+        },
+        {
+          "role": "派蒙",
+          "text": "装了你和我的琥珀，应该会在拍卖会上成为压轴的宝贝吧。"
+        },
+        {
+          "role": "",
+          "text": "那最后压台的宝贝呢？"
+        },
+        {
+          "role": "派蒙",
+          "text": "当然是这棵树啦，毕竟是它做的琥珀嘛，可惜看样子没法把它带走…"
+        },
+        {
+          "role": "派蒙",
+          "text": "不知道附近有没有留下关于它的线索。"
+        }
+      ]
+    }
+  ]
+}

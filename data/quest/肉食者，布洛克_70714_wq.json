@@ -1,0 +1,67 @@
+{
+  "quest_id": 70714,
+  "chapter_num": null,
+  "chapter_title": "肉食者，布洛克",
+  "type": "wq",
+  "route": "Brook the Carnivore",
+  "stories": [
+    {
+      "story_id": 70714,
+      "title": "肉食者，布洛克",
+      "description": "清泉镇的布洛克需要六份禽肉。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将六份禽肉交给布洛克"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于禽肉…"
+        },
+        {
+          "role": "布洛克",
+          "text": "你是看见了我的委托吗？太好了，你来得刚好。"
+        },
+        {
+          "role": "布洛克",
+          "text": "怎么样，你已经把六份禽肉都搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "布洛克",
+                  "text": "那你搜集齐了之后，就快点拿给我吧，我还等着用来做菜呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与布洛克对话"
+        },
+        {
+          "role": "布洛克",
+          "text": "这些禽肉质量真不错…"
+        },
+        {
+          "role": "布洛克",
+          "text": "谢谢你，这些东西给你，请收下吧。"
+        },
+        {
+          "role": "布洛克",
+          "text": "等我研究出新的肉食菜品后，一定第一个请你来试吃。"
+        }
+      ]
+    }
+  ]
+}

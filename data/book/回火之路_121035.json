@@ -1,0 +1,13 @@
+{
+  "id": 121035,
+  "name": "回火之路",
+  "route": "Path of Turnfire",
+  "volumes": [
+    {
+      "volume_id": 121035,
+      "volume_name": "回火之路",
+      "description": "一份回火夜仪式的图示，行迹有如悬木人的图腾。",
+      "full_text": "<image name=UI_ReadPic_Brazier_Map/>\r\n一份回火夜仪式的图示，行迹有如悬木人的图腾。"
+    }
+  ]
+}

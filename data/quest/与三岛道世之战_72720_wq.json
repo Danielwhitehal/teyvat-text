@@ -1,0 +1,65 @@
+{
+  "quest_id": 72720,
+  "chapter_num": null,
+  "chapter_title": "与三岛道世之战",
+  "type": "wq",
+  "route": "Versus Mishima Michitoshi",
+  "stories": [
+    {
+      "story_id": 72720,
+      "title": "与三岛道世之战",
+      "description": "摸不清他在想什么的奇怪武士，三岛道世，他…他直接攻过来了！",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与三岛道世对话"
+        },
+
+        {
+          "role": "三岛道世",
+          "text": "你是何人？"
+        },
+        {
+          "role": "旅行者",
+          "text": "我是旅行者。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "已等多时。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "刀出必胜。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "黄毛小子。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "不是对手。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "此役过后。"
+        },
+        {
+          "role": "三岛道世",
+          "text": "明日决胜。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "来吧。",
+            "等等，让我准备一下。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "来吧。"
+        }
+      ]
+    }
+  ]
+}

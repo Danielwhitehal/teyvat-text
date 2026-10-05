@@ -1,0 +1,32 @@
+{
+  "quest_id": 72238,
+  "chapter_num": null,
+  "chapter_title": "窥见白夜",
+  "type": "wq",
+  "route": "A Glimpse Into the Pale Night",
+  "stories": [
+    {
+      "story_id": 72238,
+      "title": "窥见白夜",
+      "description": "你决定研究一下眼前的「地图石刻」…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "◆调查「地图石刻」"
+        },
+        {
+          "role": "派蒙",
+          "text": "用刚才的记忆来对应的话，中间这块应该就是之前那个灯塔所在的区域吧。"
+        },
+        {
+          "role": "派蒙",
+          "text": "那我们应该差不多就在下边这里？唔…"
+        },
+        {
+          "role": "派蒙",
+          "text": "不论怎样，有了地图总得来说还是更方便了吧。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Python >= 3.10 （开发环境 3.14）
+ambr
+aiohttp

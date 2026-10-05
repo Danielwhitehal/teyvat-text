@@ -1,0 +1,13 @@
+{
+  "id": 120041,
+  "name": "解剖记录",
+  "route": "Dissection Records",
+  "volumes": [
+    {
+      "volume_id": 120041,
+      "volume_name": "解剖记录",
+      "description": "解剖记录",
+      "full_text": "…死者…陀裟多索赫蕾…\r\n多处外伤…\r\n撕裂伤…内脏挫伤…大出血…\r\n…但致命伤在颈部…舌骨断裂…\r\n机械性窒息…难以断定确切死因…"
+    }
+  ]
+}

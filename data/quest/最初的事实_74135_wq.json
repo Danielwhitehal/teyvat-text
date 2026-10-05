@@ -1,0 +1,50 @@
+{
+  "quest_id": 74135,
+  "chapter_num": null,
+  "chapter_title": "最初的事实",
+  "type": "wq",
+  "route": "Initial Facts",
+  "stories": [
+    {
+      "story_id": 74135,
+      "title": "最初的事实",
+      "description": "奇妙的三位成员共聚一室已经过了一段时间，也许他们发现了什么新线索，和他们聊聊吧。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "寻找「水仙十字结社」的线索"
+        },
+        {
+          "type": "subtitle",
+          "text": "需要完成世界任务水色潮痕",
+          "narration": true
+        },
+        {
+          "type": "subtitle",
+          "text": "前往「水仙十字结社」"
+        },
+        {
+          "type": "subtitle",
+          "text": "在「水仙十字结社」整理线索"
+        },
+        {
+          "type": "subtitle",
+          "text": "完成尚未结束的故事、最后的问题、待揭晓的谜底",
+          "narration": true
+        },
+        {
+          "role": "派蒙",
+          "text": "旅行者，那我们就过几天再回来看看吧。"
+        },
+        {
+          "role": "派蒙",
+          "text": "给他们留些时间来整理一下自己。不论是身体还是记忆…"
+        },
+        {
+          "role": "派蒙",
+          "text": "无论是西摩尔的碎片信息，还是安和卡特皮拉…这些唯有靠他们自己了。"
+        }
+      ]
+    }
+  ]
+}

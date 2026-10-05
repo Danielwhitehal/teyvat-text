@@ -1,0 +1,32 @@
+{
+  "quest_id": 76225,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·哥伦比娅",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Columbina",
+  "stories": [
+    {
+      "story_id": 76225,
+      "title": "茶会的再邀·哥伦比娅",
+      "description": "前往隐居处放置茶桌并使用桑多涅落座后，与哥伦比娅共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "「少女」",
+          "text": "谢谢你的茶，桑多涅。我喜欢和你一起度过的时光。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "「少女」",
+          "text": "嗯，你下次还会邀请我的，对吗？"
+        }
+      ]
+    }
+  ]
+}

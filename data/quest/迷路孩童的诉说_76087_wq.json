@@ -1,0 +1,52 @@
+{
+  "quest_id": 76087,
+  "chapter_num": null,
+  "chapter_title": "迷路孩童的诉说",
+  "type": "wq",
+  "route": "The Lost Child's Tale",
+  "stories": [
+    {
+      "story_id": 76087,
+      "title": "迷路孩童的诉说",
+      "description": "倾听幽灵的低语，找回他们的名字。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "找到「阿德娜」的安眠处"
+        },
+        {
+          "type": "subtitle",
+          "text": "与哭泣的幽影对话"
+        },
+        {
+          "role": "哭泣的幽影",
+          "text": "找不到了…呜呜…找不到了…"
+        },
+        {
+          "role": "菲林斯",
+          "text": "我找到达诺妲与哈马莱宁了。"
+        },
+        {
+          "role": "哭泣的幽影",
+          "text": "爸爸妈妈！爸爸妈妈在家里等我，我要去见他们！"
+        },
+        {
+          "type": "subtitle",
+          "text": "见证「阿德娜」归家"
+        },
+        {
+          "role": "哭泣的幽影",
+          "text": "是家，我找到回家的路了！"
+        },
+        {
+          "role": "哭泣的幽影",
+          "text": "灯还亮着，妈妈做了热乎乎的派，太好了。"
+        },
+        {
+          "role": "哭泣的幽影",
+          "text": "爸爸也在等我，我回来啦！"
+        }
+      ]
+    }
+  ]
+}

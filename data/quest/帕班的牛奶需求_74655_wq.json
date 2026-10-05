@@ -1,0 +1,59 @@
+{
+  "quest_id": 74655,
+  "chapter_num": null,
+  "chapter_title": "帕班的牛奶需求",
+  "type": "wq",
+  "route": "Paban's Milk Run",
+  "stories": [
+    {
+      "story_id": 74655,
+      "title": "帕班的牛奶需求",
+      "description": "帕班需要8瓶牛奶。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将8瓶牛奶交给帕班"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于牛奶…"
+        },
+        {
+          "role": "帕班",
+          "text": "您就是来接洽的供应商吗？"
+        },
+        {
+          "role": "帕班",
+          "text": "牛奶样品您都准备好了吧？交给我就行。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "帕班",
+                  "text": "那您得抓紧了，投标的可不止您一家。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与帕班对话"
+        },
+        {
+          "role": "帕班",
+          "text": "好的，我收下了，这是付您的样品加服务费，投标结果回去等通知吧。"
+        }
+      ]
+    }
+  ]
+}

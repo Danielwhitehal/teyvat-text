@@ -1,0 +1,1385 @@
+{
+  "name": "武器",
+  "children": [
+    {
+      "name": "「渔获」",
+      "id": "「渔获」",
+      "type": "weapon"
+    },
+    {
+      "name": "「究极霸王超级魔剑」",
+      "id": "「究极霸王超级魔剑」",
+      "type": "weapon"
+    },
+    {
+      "name": "「超厉害魔法钥匙」",
+      "id": "「超厉害魔法钥匙」",
+      "type": "weapon"
+    },
+    {
+      "name": "万世流涌大典",
+      "id": "万世流涌大典",
+      "type": "weapon"
+    },
+    {
+      "name": "万国诸海图谱",
+      "id": "万国诸海图谱",
+      "type": "weapon"
+    },
+    {
+      "name": "万能钥匙",
+      "id": "万能钥匙",
+      "type": "weapon"
+    },
+    {
+      "name": "不灭月华",
+      "id": "不灭月华",
+      "type": "weapon"
+    },
+    {
+      "name": "且住亭御咄",
+      "id": "且住亭御咄",
+      "type": "weapon"
+    },
+    {
+      "name": "东花坊时雨",
+      "id": "东花坊时雨",
+      "type": "weapon"
+    },
+    {
+      "name": "乌髓孑灯",
+      "id": "乌髓孑灯",
+      "type": "weapon"
+    },
+    {
+      "name": "乘浪的回旋",
+      "id": "乘浪的回旋",
+      "type": "weapon"
+    },
+    {
+      "name": "以理服人",
+      "id": "以理服人",
+      "type": "weapon"
+    },
+    {
+      "name": "佣兵重剑",
+      "id": "佣兵重剑",
+      "type": "weapon"
+    },
+    {
+      "name": "便携动力锯",
+      "id": "便携动力锯",
+      "type": "weapon"
+    },
+    {
+      "name": "信使",
+      "id": "信使",
+      "type": "weapon"
+    },
+    {
+      "name": "公义的酬报",
+      "id": "公义的酬报",
+      "type": "weapon"
+    },
+    {
+      "name": "冬极白星",
+      "id": "冬极白星",
+      "type": "weapon"
+    },
+    {
+      "name": "冲浪时光",
+      "id": "冲浪时光",
+      "type": "weapon"
+    },
+    {
+      "name": "决斗之枪",
+      "id": "决斗之枪",
+      "type": "weapon"
+    },
+    {
+      "name": "冷刃",
+      "id": "冷刃",
+      "type": "weapon"
+    },
+    {
+      "name": "冷寂迸音",
+      "id": "冷寂迸音",
+      "type": "weapon"
+    },
+    {
+      "name": "凝雪沉心",
+      "id": "凝雪沉心",
+      "type": "weapon"
+    },
+    {
+      "name": "勘探钻机",
+      "id": "勘探钻机",
+      "type": "weapon"
+    },
+    {
+      "name": "匣里日月",
+      "id": "匣里日月",
+      "type": "weapon"
+    },
+    {
+      "name": "匣里灭辰",
+      "id": "匣里灭辰",
+      "type": "weapon"
+    },
+    {
+      "name": "匣里龙吟",
+      "id": "匣里龙吟",
+      "type": "weapon"
+    },
+    {
+      "name": "千夜浮梦",
+      "id": "千夜浮梦",
+      "type": "weapon"
+    },
+    {
+      "name": "千岩古剑",
+      "id": "千岩古剑",
+      "type": "weapon"
+    },
+    {
+      "name": "千岩长枪",
+      "id": "千岩长枪",
+      "type": "weapon"
+    },
+    {
+      "name": "厄水之祸",
+      "id": "厄水之祸",
+      "type": "weapon"
+    },
+    {
+      "name": "历练的猎弓",
+      "id": "历练的猎弓",
+      "type": "weapon"
+    },
+    {
+      "name": "原木刀",
+      "id": "原木刀",
+      "type": "weapon"
+    },
+    {
+      "name": "反曲弓",
+      "id": "反曲弓",
+      "type": "weapon"
+    },
+    {
+      "name": "口袋魔导书",
+      "id": "口袋魔导书",
+      "type": "weapon"
+    },
+    {
+      "name": "吃虎鱼刀",
+      "id": "吃虎鱼刀",
+      "type": "weapon"
+    },
+    {
+      "name": "和璞鸢",
+      "id": "和璞鸢",
+      "type": "weapon"
+    },
+    {
+      "name": "喜多院十文字",
+      "id": "喜多院十文字",
+      "type": "weapon"
+    },
+    {
+      "name": "嘟嘟可故事集",
+      "id": "嘟嘟可故事集",
+      "type": "weapon"
+    },
+    {
+      "name": "四风原典",
+      "id": "四风原典",
+      "type": "weapon"
+    },
+    {
+      "name": "图莱杜拉的回忆",
+      "id": "图莱杜拉的回忆",
+      "type": "weapon"
+    },
+    {
+      "name": "圣显之钥",
+      "id": "圣显之钥",
+      "type": "weapon"
+    },
+    {
+      "name": "圣祭者的辉杖",
+      "id": "圣祭者的辉杖",
+      "type": "weapon"
+    },
+    {
+      "name": "圣缚",
+      "id": "圣缚",
+      "type": "weapon"
+    },
+    {
+      "name": "圣缚·真化",
+      "id": "圣缚·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "天光的纺琴",
+      "id": "天光的纺琴",
+      "type": "weapon"
+    },
+    {
+      "name": "天目影打刀",
+      "id": "天目影打刀",
+      "type": "weapon"
+    },
+    {
+      "name": "天空之傲",
+      "id": "天空之傲",
+      "type": "weapon"
+    },
+    {
+      "name": "天空之刃",
+      "id": "天空之刃",
+      "type": "weapon"
+    },
+    {
+      "name": "天空之卷",
+      "id": "天空之卷",
+      "type": "weapon"
+    },
+    {
+      "name": "天空之翼",
+      "id": "天空之翼",
+      "type": "weapon"
+    },
+    {
+      "name": "天空之脊",
+      "id": "天空之脊",
+      "type": "weapon"
+    },
+    {
+      "name": "学徒笔记",
+      "id": "学徒笔记",
+      "type": "weapon"
+    },
+    {
+      "name": "宗室大剑",
+      "id": "宗室大剑",
+      "type": "weapon"
+    },
+    {
+      "name": "宗室猎枪",
+      "id": "宗室猎枪",
+      "type": "weapon"
+    },
+    {
+      "name": "宗室秘法录",
+      "id": "宗室秘法录",
+      "type": "weapon"
+    },
+    {
+      "name": "宗室长剑",
+      "id": "宗室长剑",
+      "type": "weapon"
+    },
+    {
+      "name": "宗室长弓",
+      "id": "宗室长弓",
+      "type": "weapon"
+    },
+    {
+      "name": "寒息",
+      "id": "寒息",
+      "type": "weapon"
+    },
+    {
+      "name": "寝正月初晴",
+      "id": "寝正月初晴",
+      "type": "weapon"
+    },
+    {
+      "name": "寸心余响",
+      "id": "寸心余响",
+      "type": "weapon"
+    },
+    {
+      "name": "尘世之锁",
+      "id": "尘世之锁",
+      "type": "weapon"
+    },
+    {
+      "name": "尘光七谕",
+      "id": "尘光七谕",
+      "type": "weapon"
+    },
+    {
+      "name": "山王长牙",
+      "id": "山王长牙",
+      "type": "weapon"
+    },
+    {
+      "name": "岩峰巡歌",
+      "id": "岩峰巡歌",
+      "type": "weapon"
+    },
+    {
+      "name": "峡湾长歌",
+      "id": "峡湾长歌",
+      "type": "weapon"
+    },
+    {
+      "name": "帷间夜曲",
+      "id": "帷间夜曲",
+      "type": "weapon"
+    },
+    {
+      "name": "幻礼·星兆",
+      "id": "幻礼·星兆",
+      "type": "weapon"
+    },
+    {
+      "name": "幽夜华尔兹",
+      "id": "幽夜华尔兹",
+      "type": "weapon"
+    },
+    {
+      "name": "异世界行记",
+      "id": "异世界行记",
+      "type": "weapon"
+    },
+    {
+      "name": "弓藏",
+      "id": "弓藏",
+      "type": "weapon"
+    },
+    {
+      "name": "引火之源",
+      "id": "引火之源",
+      "type": "weapon"
+    },
+    {
+      "name": "弥坚骨",
+      "id": "弥坚骨",
+      "type": "weapon"
+    },
+    {
+      "name": "弹弓",
+      "id": "弹弓",
+      "type": "weapon"
+    },
+    {
+      "name": "忍冬之果",
+      "id": "忍冬之果",
+      "type": "weapon"
+    },
+    {
+      "name": "息灾",
+      "id": "息灾",
+      "type": "weapon"
+    },
+    {
+      "name": "息燧之笛",
+      "id": "息燧之笛",
+      "type": "weapon"
+    },
+    {
+      "name": "恶王丸",
+      "id": "恶王丸",
+      "type": "weapon"
+    },
+    {
+      "name": "悬黎千钧",
+      "id": "悬黎千钧",
+      "type": "weapon"
+    },
+    {
+      "name": "戍望谣歌",
+      "id": "戍望谣歌",
+      "type": "weapon"
+    },
+    {
+      "name": "护摩之杖",
+      "id": "护摩之杖",
+      "type": "weapon"
+    },
+    {
+      "name": "拾慧铸熔",
+      "id": "拾慧铸熔",
+      "type": "weapon"
+    },
+    {
+      "name": "掘金之锹",
+      "id": "掘金之锹",
+      "type": "weapon"
+    },
+    {
+      "name": "掠食者",
+      "id": "掠食者",
+      "type": "weapon"
+    },
+    {
+      "name": "撒哈律尔的曙星",
+      "id": "撒哈律尔的曙星",
+      "type": "weapon"
+    },
+    {
+      "name": "撒哈律尔的曙星·真化",
+      "id": "撒哈律尔的曙星·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "撼地者",
+      "id": "撼地者",
+      "type": "weapon"
+    },
+    {
+      "name": "支离轮光",
+      "id": "支离轮光",
+      "type": "weapon"
+    },
+    {
+      "name": "救赎之斩",
+      "id": "救赎之斩",
+      "type": "weapon"
+    },
+    {
+      "name": "斫峰之刃",
+      "id": "斫峰之刃",
+      "type": "weapon"
+    },
+    {
+      "name": "断浪长鳍",
+      "id": "断浪长鳍",
+      "type": "weapon"
+    },
+    {
+      "name": "新手长枪",
+      "id": "新手长枪",
+      "type": "weapon"
+    },
+    {
+      "name": "新枝",
+      "id": "新枝",
+      "type": "weapon"
+    },
+    {
+      "name": "旅行剑",
+      "id": "旅行剑",
+      "type": "weapon"
+    },
+    {
+      "name": "无垠蔚蓝之歌",
+      "id": "无垠蔚蓝之歌",
+      "type": "weapon"
+    },
+    {
+      "name": "无工之剑",
+      "id": "无工之剑",
+      "type": "weapon"
+    },
+    {
+      "name": "无毁·督兰嘉德",
+      "id": "无毁·督兰嘉德",
+      "type": "weapon"
+    },
+    {
+      "name": "无锋剑",
+      "id": "无锋剑",
+      "type": "weapon"
+    },
+    {
+      "name": "星锋剑",
+      "id": "星锋剑",
+      "type": "weapon"
+    },
+    {
+      "name": "星鹫赤羽",
+      "id": "星鹫赤羽",
+      "type": "weapon"
+    },
+    {
+      "name": "昭心",
+      "id": "昭心",
+      "type": "weapon"
+    },
+    {
+      "name": "暗巷猎手",
+      "id": "暗巷猎手",
+      "type": "weapon"
+    },
+    {
+      "name": "暗巷的酒与诗",
+      "id": "暗巷的酒与诗",
+      "type": "weapon"
+    },
+    {
+      "name": "暗巷闪光",
+      "id": "暗巷闪光",
+      "type": "weapon"
+    },
+    {
+      "name": "暗铁剑",
+      "id": "暗铁剑",
+      "type": "weapon"
+    },
+    {
+      "name": "曚云之月",
+      "id": "曚云之月",
+      "type": "weapon"
+    },
+    {
+      "name": "最初的大魔术",
+      "id": "最初的大魔术",
+      "type": "weapon"
+    },
+    {
+      "name": "有乐御簾切",
+      "id": "有乐御簾切",
+      "type": "weapon"
+    },
+    {
+      "name": "朏魄含光",
+      "id": "朏魄含光",
+      "type": "weapon"
+    },
+    {
+      "name": "木棉之环",
+      "id": "木棉之环",
+      "type": "weapon"
+    },
+    {
+      "name": "松籁响起之时",
+      "id": "松籁响起之时",
+      "type": "weapon"
+    },
+    {
+      "name": "柔灯挽歌",
+      "id": "柔灯挽歌",
+      "type": "weapon"
+    },
+    {
+      "name": "柔风游弦",
+      "id": "柔风游弦",
+      "type": "weapon"
+    },
+    {
+      "name": "桂木斩长正",
+      "id": "桂木斩长正",
+      "type": "weapon"
+    },
+    {
+      "name": "森林王器",
+      "id": "森林王器",
+      "type": "weapon"
+    },
+    {
+      "name": "水仙十字之剑",
+      "id": "水仙十字之剑",
+      "type": "weapon"
+    },
+    {
+      "name": "沐浴龙血的剑",
+      "id": "沐浴龙血的剑",
+      "type": "weapon"
+    },
+    {
+      "name": "沙中伟贤的对答",
+      "id": "沙中伟贤的对答",
+      "type": "weapon"
+    },
+    {
+      "name": "波乱月白经津",
+      "id": "波乱月白经津",
+      "type": "weapon"
+    },
+    {
+      "name": "流月针",
+      "id": "流月针",
+      "type": "weapon"
+    },
+    {
+      "name": "流浪乐章",
+      "id": "流浪乐章",
+      "type": "weapon"
+    },
+    {
+      "name": "流浪的晚星",
+      "id": "流浪的晚星",
+      "type": "weapon"
+    },
+    {
+      "name": "测距规",
+      "id": "测距规",
+      "type": "weapon"
+    },
+    {
+      "name": "浪影阔剑",
+      "id": "浪影阔剑",
+      "type": "weapon"
+    },
+    {
+      "name": "海渊终曲",
+      "id": "海渊终曲",
+      "type": "weapon"
+    },
+    {
+      "name": "涅墨林塞的金枝",
+      "id": "涅墨林塞的金枝",
+      "type": "weapon"
+    },
+    {
+      "name": "涅墨林塞的金枝·真化",
+      "id": "涅墨林塞的金枝·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "溢彩心念",
+      "id": "溢彩心念",
+      "type": "weapon"
+    },
+    {
+      "name": "漩流颂歌",
+      "id": "漩流颂歌",
+      "type": "weapon"
+    },
+    {
+      "name": "灰河渡手",
+      "id": "灰河渡手",
+      "type": "weapon"
+    },
+    {
+      "name": "灾悔",
+      "id": "灾悔",
+      "type": "weapon"
+    },
+    {
+      "name": "炎夏轻霜！",
+      "id": "炎夏轻霜！",
+      "type": "weapon"
+    },
+    {
+      "name": "烈阳之嗣",
+      "id": "烈阳之嗣",
+      "type": "weapon"
+    },
+    {
+      "name": "焚曜千阳",
+      "id": "焚曜千阳",
+      "type": "weapon"
+    },
+    {
+      "name": "熔猎异端之刃",
+      "id": "熔猎异端之刃",
+      "type": "weapon"
+    },
+    {
+      "name": "狼牙",
+      "id": "狼牙",
+      "type": "weapon"
+    },
+    {
+      "name": "狼的末路",
+      "id": "狼的末路",
+      "type": "weapon"
+    },
+    {
+      "name": "狼的武功歌",
+      "id": "狼的武功歌",
+      "type": "weapon"
+    },
+    {
+      "name": "猎人之径",
+      "id": "猎人之径",
+      "type": "weapon"
+    },
+    {
+      "name": "猎弓",
+      "id": "猎弓",
+      "type": "weapon"
+    },
+    {
+      "name": "猰貐",
+      "id": "猰貐",
+      "type": "weapon"
+    },
+    {
+      "name": "猰貐·真化",
+      "id": "猰貐·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "王下近侍",
+      "id": "王下近侍",
+      "type": "weapon"
+    },
+    {
+      "name": "玛海菈的水色",
+      "id": "玛海菈的水色",
+      "type": "weapon"
+    },
+    {
+      "name": "甲级宝珏",
+      "id": "甲级宝珏",
+      "type": "weapon"
+    },
+    {
+      "name": "白影剑",
+      "id": "白影剑",
+      "type": "weapon"
+    },
+    {
+      "name": "白湖冬羽",
+      "id": "白湖冬羽",
+      "type": "weapon"
+    },
+    {
+      "name": "白缨枪",
+      "id": "白缨枪",
+      "type": "weapon"
+    },
+    {
+      "name": "白辰之环",
+      "id": "白辰之环",
+      "type": "weapon"
+    },
+    {
+      "name": "白铁大剑",
+      "id": "白铁大剑",
+      "type": "weapon"
+    },
+    {
+      "name": "白雨心弦",
+      "id": "白雨心弦",
+      "type": "weapon"
+    },
+    {
+      "name": "盈满之实",
+      "id": "盈满之实",
+      "type": "weapon"
+    },
+    {
+      "name": "真语秘匣",
+      "id": "真语秘匣",
+      "type": "weapon"
+    },
+    {
+      "name": "破魔之弓",
+      "id": "破魔之弓",
+      "type": "weapon"
+    },
+    {
+      "name": "硕果钩",
+      "id": "硕果钩",
+      "type": "weapon"
+    },
+    {
+      "name": "碎月",
+      "id": "碎月",
+      "type": "weapon"
+    },
+    {
+      "name": "碎月·真化",
+      "id": "碎月·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "碎链",
+      "id": "碎链",
+      "type": "weapon"
+    },
+    {
+      "name": "碧落之珑",
+      "id": "碧落之珑",
+      "type": "weapon"
+    },
+    {
+      "name": "磐岩结绿",
+      "id": "磐岩结绿",
+      "type": "weapon"
+    },
+    {
+      "name": "神乐之真意",
+      "id": "神乐之真意",
+      "type": "weapon"
+    },
+    {
+      "name": "神射手之誓",
+      "id": "神射手之誓",
+      "type": "weapon"
+    },
+    {
+      "name": "祭星者之望",
+      "id": "祭星者之望",
+      "type": "weapon"
+    },
+    {
+      "name": "祭礼剑",
+      "id": "祭礼剑",
+      "type": "weapon"
+    },
+    {
+      "name": "祭礼大剑",
+      "id": "祭礼大剑",
+      "type": "weapon"
+    },
+    {
+      "name": "祭礼弓",
+      "id": "祭礼弓",
+      "type": "weapon"
+    },
+    {
+      "name": "祭礼残章",
+      "id": "祭礼残章",
+      "type": "weapon"
+    },
+    {
+      "name": "竭泽",
+      "id": "竭泽",
+      "type": "weapon"
+    },
+    {
+      "name": "笛剑",
+      "id": "笛剑",
+      "type": "weapon"
+    },
+    {
+      "name": "笼钓瓶一心",
+      "id": "笼钓瓶一心",
+      "type": "weapon"
+    },
+    {
+      "name": "筑云",
+      "id": "筑云",
+      "type": "weapon"
+    },
+    {
+      "name": "纯水流华",
+      "id": "纯水流华",
+      "type": "weapon"
+    },
+    {
+      "name": "纺夜天镜",
+      "id": "纺夜天镜",
+      "type": "weapon"
+    },
+    {
+      "name": "织月者的曙色",
+      "id": "织月者的曙色",
+      "type": "weapon"
+    },
+    {
+      "name": "终末嗟叹之诗",
+      "id": "终末嗟叹之诗",
+      "type": "weapon"
+    },
+    {
+      "name": "绝弦",
+      "id": "绝弦",
+      "type": "weapon"
+    },
+    {
+      "name": "缀花之翎",
+      "id": "缀花之翎",
+      "type": "weapon"
+    },
+    {
+      "name": "罗网勾针",
+      "id": "罗网勾针",
+      "type": "weapon"
+    },
+    {
+      "name": "群王局戏",
+      "id": "群王局戏",
+      "type": "weapon"
+    },
+    {
+      "name": "翡玉法球",
+      "id": "翡玉法球",
+      "type": "weapon"
+    },
+    {
+      "name": "聊聊棒",
+      "id": "聊聊棒",
+      "type": "weapon"
+    },
+    {
+      "name": "腐殖之剑",
+      "id": "腐殖之剑",
+      "type": "weapon"
+    },
+    {
+      "name": "船坞长剑",
+      "id": "船坞长剑",
+      "type": "weapon"
+    },
+    {
+      "name": "芬里基亚的星芒",
+      "id": "芬里基亚的星芒",
+      "type": "weapon"
+    },
+    {
+      "name": "芬里基亚的星芒·真化",
+      "id": "芬里基亚的星芒·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "苇海信标",
+      "id": "苇海信标",
+      "type": "weapon"
+    },
+    {
+      "name": "苍古自由之誓",
+      "id": "苍古自由之誓",
+      "type": "weapon"
+    },
+    {
+      "name": "苍纹角杯",
+      "id": "苍纹角杯",
+      "type": "weapon"
+    },
+    {
+      "name": "苍翠猎弓",
+      "id": "苍翠猎弓",
+      "type": "weapon"
+    },
+    {
+      "name": "苍耀",
+      "id": "苍耀",
+      "type": "weapon"
+    },
+    {
+      "name": "若水",
+      "id": "若水",
+      "type": "weapon"
+    },
+    {
+      "name": "落霞",
+      "id": "落霞",
+      "type": "weapon"
+    },
+    {
+      "name": "薙草之稻光",
+      "id": "薙草之稻光",
+      "type": "weapon"
+    },
+    {
+      "name": "虹的行迹",
+      "id": "虹的行迹",
+      "type": "weapon"
+    },
+    {
+      "name": "虹蛇的雨弦",
+      "id": "虹蛇的雨弦",
+      "type": "weapon"
+    },
+    {
+      "name": "蛇噬",
+      "id": "蛇噬",
+      "type": "weapon"
+    },
+    {
+      "name": "蛇噬·真化",
+      "id": "蛇噬·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "蝶变",
+      "id": "蝶变",
+      "type": "weapon"
+    },
+    {
+      "name": "螭骨剑",
+      "id": "螭骨剑",
+      "type": "weapon"
+    },
+    {
+      "name": "血染荒城",
+      "id": "血染荒城",
+      "type": "weapon"
+    },
+    {
+      "name": "衔珠海皇",
+      "id": "衔珠海皇",
+      "type": "weapon"
+    },
+    {
+      "name": "裁叶萃光",
+      "id": "裁叶萃光",
+      "type": "weapon"
+    },
+    {
+      "name": "裁断",
+      "id": "裁断",
+      "type": "weapon"
+    },
+    {
+      "name": "西福斯的月光",
+      "id": "西福斯的月光",
+      "type": "weapon"
+    },
+    {
+      "name": "西风剑",
+      "id": "西风剑",
+      "type": "weapon"
+    },
+    {
+      "name": "西风大剑",
+      "id": "西风大剑",
+      "type": "weapon"
+    },
+    {
+      "name": "西风猎弓",
+      "id": "西风猎弓",
+      "type": "weapon"
+    },
+    {
+      "name": "西风秘典",
+      "id": "西风秘典",
+      "type": "weapon"
+    },
+    {
+      "name": "西风长枪",
+      "id": "西风长枪",
+      "type": "weapon"
+    },
+    {
+      "name": "讨龙英杰谭",
+      "id": "讨龙英杰谭",
+      "type": "weapon"
+    },
+    {
+      "name": "训练大剑",
+      "id": "训练大剑",
+      "type": "weapon"
+    },
+    {
+      "name": "证誓之明瞳",
+      "id": "证誓之明瞳",
+      "type": "weapon"
+    },
+    {
+      "name": "试作古华",
+      "id": "试作古华",
+      "type": "weapon"
+    },
+    {
+      "name": "试作斩岩",
+      "id": "试作斩岩",
+      "type": "weapon"
+    },
+    {
+      "name": "试作星镰",
+      "id": "试作星镰",
+      "type": "weapon"
+    },
+    {
+      "name": "试作澹月",
+      "id": "试作澹月",
+      "type": "weapon"
+    },
+    {
+      "name": "试作金珀",
+      "id": "试作金珀",
+      "type": "weapon"
+    },
+    {
+      "name": "谧音吹哨",
+      "id": "谧音吹哨",
+      "type": "weapon"
+    },
+    {
+      "name": "贯星",
+      "id": "贯星",
+      "type": "weapon"
+    },
+    {
+      "name": "贯星·真化",
+      "id": "贯星·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "贯月矢",
+      "id": "贯月矢",
+      "type": "weapon"
+    },
+    {
+      "name": "贯虹之槊",
+      "id": "贯虹之槊",
+      "type": "weapon"
+    },
+    {
+      "name": "贾尔杜莱的银辉",
+      "id": "贾尔杜莱的银辉",
+      "type": "weapon"
+    },
+    {
+      "name": "贾尔杜莱的银辉·真化",
+      "id": "贾尔杜莱的银辉·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "赤月之形",
+      "id": "赤月之形",
+      "type": "weapon"
+    },
+    {
+      "name": "赤沙之杖",
+      "id": "赤沙之杖",
+      "type": "weapon"
+    },
+    {
+      "name": "赤角石溃杵",
+      "id": "赤角石溃杵",
+      "type": "weapon"
+    },
+    {
+      "name": "赦罪",
+      "id": "赦罪",
+      "type": "weapon"
+    },
+    {
+      "name": "赫烈",
+      "id": "赫烈",
+      "type": "weapon"
+    },
+    {
+      "name": "赫烈·真化",
+      "id": "赫烈·真化",
+      "type": "weapon"
+    },
+    {
+      "name": "超越之匙",
+      "id": "超越之匙",
+      "type": "weapon"
+    },
+    {
+      "name": "辰砂之纺锤",
+      "id": "辰砂之纺锤",
+      "type": "weapon"
+    },
+    {
+      "name": "遗祀玉珑",
+      "id": "遗祀玉珑",
+      "type": "weapon"
+    },
+    {
+      "name": "金律铸影",
+      "id": "金律铸影",
+      "type": "weapon"
+    },
+    {
+      "name": "金流监督",
+      "id": "金流监督",
+      "type": "weapon"
+    },
+    {
+      "name": "钟剑",
+      "id": "钟剑",
+      "type": "weapon"
+    },
+    {
+      "name": "钢轮弓",
+      "id": "钢轮弓",
+      "type": "weapon"
+    },
+    {
+      "name": "钺矛",
+      "id": "钺矛",
+      "type": "weapon"
+    },
+    {
+      "name": "铁尖枪",
+      "id": "铁尖枪",
+      "type": "weapon"
+    },
+    {
+      "name": "铁影阔剑",
+      "id": "铁影阔剑",
+      "type": "weapon"
+    },
+    {
+      "name": "铁蜂刺",
+      "id": "铁蜂刺",
+      "type": "weapon"
+    },
+    {
+      "name": "银剑",
+      "id": "银剑",
+      "type": "weapon"
+    },
+    {
+      "name": "银釭",
+      "id": "银釭",
+      "type": "weapon"
+    },
+    {
+      "name": "镇山之钉",
+      "id": "镇山之钉",
+      "type": "weapon"
+    },
+    {
+      "name": "阿莫斯之弓",
+      "id": "阿莫斯之弓",
+      "type": "weapon"
+    },
+    {
+      "name": "降临之剑",
+      "id": "降临之剑",
+      "type": "weapon"
+    },
+    {
+      "name": "雨裁",
+      "id": "雨裁",
+      "type": "weapon"
+    },
+    {
+      "name": "雪葬的星银",
+      "id": "雪葬的星银",
+      "type": "weapon"
+    },
+    {
+      "name": "雾切之回光",
+      "id": "雾切之回光",
+      "type": "weapon"
+    },
+    {
+      "name": "霜结的誓金枝",
+      "id": "霜结的誓金枝",
+      "type": "weapon"
+    },
+    {
+      "name": "霜辰",
+      "id": "霜辰",
+      "type": "weapon"
+    },
+    {
+      "name": "霜雪誓约",
+      "id": "霜雪誓约",
+      "type": "weapon"
+    },
+    {
+      "name": "静水流涌之辉",
+      "id": "静水流涌之辉",
+      "type": "weapon"
+    },
+    {
+      "name": "静谧之曲",
+      "id": "静谧之曲",
+      "type": "weapon"
+    },
+    {
+      "name": "风信之锋",
+      "id": "风信之锋",
+      "type": "weapon"
+    },
+    {
+      "name": "风花之颂",
+      "id": "风花之颂",
+      "type": "weapon"
+    },
+    {
+      "name": "风鹰剑",
+      "id": "风鹰剑",
+      "type": "weapon"
+    },
+    {
+      "name": "飞天大御剑",
+      "id": "飞天大御剑",
+      "type": "weapon"
+    },
+    {
+      "name": "飞天御剑",
+      "id": "飞天御剑",
+      "type": "weapon"
+    },
+    {
+      "name": "飞雷之弦振",
+      "id": "飞雷之弦振",
+      "type": "weapon"
+    },
+    {
+      "name": "饰铁之花",
+      "id": "饰铁之花",
+      "type": "weapon"
+    },
+    {
+      "name": "香韵奏者",
+      "id": "香韵奏者",
+      "type": "weapon"
+    },
+    {
+      "name": "魔导绪论",
+      "id": "魔导绪论",
+      "type": "weapon"
+    },
+    {
+      "name": "鸦羽弓",
+      "id": "鸦羽弓",
+      "type": "weapon"
+    },
+    {
+      "name": "鹤鸣余音",
+      "id": "鹤鸣余音",
+      "type": "weapon"
+    },
+    {
+      "name": "鹮穿之喙",
+      "id": "鹮穿之喙",
+      "type": "weapon"
+    },
+    {
+      "name": "黎明破晓之史",
+      "id": "黎明破晓之史",
+      "type": "weapon"
+    },
+    {
+      "name": "黎明神剑",
+      "id": "黎明神剑",
+      "type": "weapon"
+    },
+    {
+      "name": "黑剑",
+      "id": "黑剑",
+      "type": "weapon"
+    },
+    {
+      "name": "黑岩刺枪",
+      "id": "黑岩刺枪",
+      "type": "weapon"
+    },
+    {
+      "name": "黑岩战弓",
+      "id": "黑岩战弓",
+      "type": "weapon"
+    },
+    {
+      "name": "黑岩斩刀",
+      "id": "黑岩斩刀",
+      "type": "weapon"
+    },
+    {
+      "name": "黑岩绯玉",
+      "id": "黑岩绯玉",
+      "type": "weapon"
+    },
+    {
+      "name": "黑岩长剑",
+      "id": "黑岩长剑",
+      "type": "weapon"
+    },
+    {
+      "name": "黑缨枪",
+      "id": "黑缨枪",
+      "type": "weapon"
+    },
+    {
+      "name": "黑蚀",
+      "id": "黑蚀",
+      "type": "weapon"
+    },
+    {
+      "name": "龙脊长枪",
+      "id": "龙脊长枪",
+      "type": "weapon"
+    }
+  ]
+}

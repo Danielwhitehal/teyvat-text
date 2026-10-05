@@ -1,0 +1,63 @@
+{
+  "quest_id": 71708,
+  "chapter_num": null,
+  "chapter_title": "寒锋的铁块需求",
+  "type": "wq",
+  "route": "Hanfeng's Iron-Mongering",
+  "stories": [
+    {
+      "story_id": 71708,
+      "title": "寒锋的铁块需求",
+      "description": "轻策庄的寒锋需要十份铁块。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十份铁块交给寒锋"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于铁块…"
+        },
+        {
+          "role": "寒锋",
+          "text": "对，对，是我发的委托，怎么？你把十份铁块已经搜集齐了？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "寒锋",
+                  "text": "哦…那你搜集齐了之后，就快点拿过来吧，我早点把锄头修好，也能早点回去干活。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与寒锋对话"
+        },
+        {
+          "role": "寒锋",
+          "text": "这些铁块差不多就够用了。"
+        },
+        {
+          "role": "寒锋",
+          "text": "这些东西你拿着吧，谢谢你啊，年轻人。"
+        },
+        {
+          "role": "寒锋",
+          "text": "希望我的手艺还没太生疏…"
+        }
+      ]
+    }
+  ]
+}

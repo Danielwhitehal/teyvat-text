@@ -1,0 +1,21 @@
+{
+  "quest_id": 70652,
+  "chapter_num": null,
+  "chapter_title": "寻宝的方法之一",
+  "type": "wq",
+  "route": "The Path of the Treasure-Seeker, Part I",
+  "stories": [
+    {
+      "story_id": 70652,
+      "title": "寻宝的方法之一",
+      "description": "在野外遇见了一位名叫乌尔曼的「寻宝者」，他说自己正在寻找一位有足够实力的「合作伙伴」…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "璃月，石门传送点",
+          "narration": true
+        }
+      ]
+    }
+  ]
+}

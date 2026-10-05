@@ -1,0 +1,122 @@
+{
+  "quest_id": 70017,
+  "chapter_num": null,
+  "chapter_title": "替丘丘行道！",
+  "type": "wq",
+  "route": "Hilichurl Justice",
+  "stories": [
+    {
+      "story_id": 70017,
+      "title": "替丘丘行道！",
+      "description": "与艾拉·马斯克一同前去为被欺负的丘丘人打抱不平，或许能够借此得到新的线索？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "…Yaya dala?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo, mimi mosi mita, Muhe mita?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mita…? Gusha… Dada odomu Plata mimi, mimi mosi gusha…"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo, mimi plata odomu! Mimi mani ye!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani…? Dada! Kundala zido mi, mi dada, mimi tomo!"
+        },
+        {
+          "role": "派蒙",
+          "text": "马斯克小姐在安慰丘丘人呢…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "真是意外地善解人意…",
+              "dialogues": []
+            },
+            {
+              "text": "只是什么都听不懂…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它被…大坏人欺负了，我们需要帮它出气，嗯，就这么简单。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "好耶！"
+        },
+        {
+          "role": "派蒙",
+          "text": "好耶！"
+        },
+        {
+          "role": "旅行者",
+          "text": "这句就不必翻译了…"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "那家伙的位置已经在地图上标好了，我就先回去啦！"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada, Valo!"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点战斗"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Hehe, yaya dada!"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人回复"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yeye dada! Mosi mita!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Du Wei zido dala? Mi mito nye."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "什么，这家伙居然说他不知道！"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi mito du, du ya mito Wei."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "然后这个家伙给我指了一下地图，说这里的家伙可能见过那个奇怪的家伙。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, mimi tomo!"
+        }
+      ]
+    }
+  ]
+}

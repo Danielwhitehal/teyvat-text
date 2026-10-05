@@ -1,0 +1,102 @@
+{
+  "quest_id": 70015,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70015,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与另一个愿意交流的丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Emmm…Yoyo, ika? Tomo?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Tomo tomo. Tomo dala si? domu nye, ika nye."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Ye muhe dala? Mimi mani ye."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Ya tomo mani, mani yaya tome nye… Mi muhe du, du <color=#00E1FFFF>lata boya sada</color> si."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它应该是想要什么东西…唔，我的手册上应该有记录，不如查一查吧？"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe du, du <color=#00E1FFFF>lata boya sada</color> si."
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mosi mita, yoyo tomo, mimi tomo."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Odomu tomo zido mi! <color=#00E1FFFF>Unta mosi dada</color>！"
+        },
+        {
+          "role": "派蒙",
+          "text": "<color=#00E1FFFF>Unta mosi dada</color>…好像之前听过这句话的样子…不如查查看吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "Mosi mita dada!",
+              "dialogues": []
+            },
+            {
+              "text": "Tomo, valo!",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, mi tomo!"
+        },
+        {
+          "role": "派蒙",
+          "text": "Valo!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Domu movo si, Eleka nini si, tomo tomo. Tomo dala si?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "家人会变化，部落会消失。朋友，朋友。究竟什么是朋友啊？"
+        },
+        {
+          "role": "派蒙",
+          "text": "只是给错了东西，不用这么怀疑世界吧。"
+        }
+      ]
+    }
+  ]
+}

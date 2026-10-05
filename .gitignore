@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# 运行时产物 / 暂存（不进仓）
+staging/
+tools/correct/bwiki_data/
+tools/quest_ops/extracted/
+.cache/
+_backup/
+_yatta/
+*.tmp
+
+# 迁移临时目录
+临时脚本/

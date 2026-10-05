@@ -1,0 +1,31 @@
+{
+  "id": 120620,
+  "name": "告示",
+  "route": "Notice",
+  "volumes": [
+    {
+      "volume_id": 120620,
+      "volume_name": "告示",
+      "description": "",
+      "full_text": "即日起，停止在晶簇矿坑道的各项作业，并封锁连通路。\r\n若因公需要开启连通路，应在技术专家监督下操作传动机阀，以免发生意外。\r\n\r\n传动机阀安全操作指南\r\n一、可通过传动机阀管理各间旋转及连通路启闭。\r\n二、传动机阀由「核心齿轮传动器」（不可拆卸）及<color=#00E1FFFF>「齿轮传动器」（可拆卸）</color>两部分控制。\r\n三、不可拆卸的「核心齿轮传动器」控制中央房间，可拆卸的「齿轮传动器」控制各方向连通路。\r\n四、操作时需留意，<color=#00E1FFFF>在「核心齿轮传动器」与「齿轮传动器」指示方向相对时终止运行，「核心齿轮传动器」指示的连通路将会开启</color>。\r\n五、四个「齿轮传动器」均未安装的情况下，传动机阀将会自动终止运行。\r\n\r\n各方向连通路开启状态如下所示：\r\n\r\n<center><color=#00E1FFFF>一号备品仓库方向</color></center>\r\n<image name=UI_FontaineTutorial_RotationDevice_01 />\r\n\r\n<center><color=#00E1FFFF>晶簇矿坑道方向</color></center>\r\n<image name=UI_FontaineTutorial_RotationDevice_04 />\r\n\r\n<center><color=#00E1FFFF>储能装置仓库方向</color></center>\r\n<image name=UI_FontaineTutorial_RotationDevice_05 />\r\n\r\n<center><color=#00E1FFFF>二号备品仓库方向</color></center>\r\n<image name=UI_FontaineTutorial_RotationDevice_03 />\r\n\r\n另，晶簇矿坑道已部署全新闭锁装置，且为了避免误操作，暂时移除了研察终端的配套储能装置。\r\n禁止无关人员在未授权的情况下前往，因违反规定造成的一切后果将由行为主体自行承担。"
+    },
+    {
+      "volume_id": 120764,
+      "volume_name": "通告",
+      "description": "",
+      "full_text": "「依据枫丹刑律与临时国██全法条款，及沫芒特令（1█2号），水仙十字结社被认定为非法激进组织，系犯罪团体。此地也于即日起永久封闭。\r\n破坏此█告视作挑衅国家权威，将被以蔑█权█的罪名公诉。\r\n                                                                        ██年█月█日。」\r\n（…后面附有审判庭印章与阿兰·吉约丹、那维莱特签名）"
+    },
+    {
+      "volume_id": 121115,
+      "volume_name": "告示",
+      "description": "",
+      "full_text": "<image name=UI_QuestPicture_Drivingschool_Alpha />\r\n帕帕卡飞行学校，飞行训练好伙伴！飞行竞赛不定期举办，随时接受报名！\r\n"
+    },
+    {
+      "volume_id": 121385,
+      "volume_name": "通告",
+      "description": "？？？",
+      "full_text": "各单位及全体成员：\r\n鉴于近期设计局周边可疑活动增多，为确保军事机密与人员安全，指挥部决定即日起提高警戒等级。\r\n所有哨位及巡逻队务必保持高度警惕，加强对设计局外围及内部非核心区域的监控。任何未经授权的靠近或进入军事禁区行为，都将视为敌对行动，并立即采取必要措施。\r\n特此通告。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "quest_id": 469,
+  "chapter_num": null,
+  "chapter_title": "七神的赐福",
+  "type": "iq",
+  "route": "The Blessings of The Seven",
+  "stories": [
+    {
+      "story_id": 469,
+      "title": "七神的赐福",
+      "description": "派蒙提议你去七天神像那里看看。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将风神瞳供奉给神像"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1015,
+  "name": "丘丘语诗歌试作",
+  "route": "Draft Hilichurl Ballads",
+  "volumes": [
+    {
+      "volume_id": 100507,
+      "volume_name": "丘丘语诗歌试作·朗诵诗",
+      "description": "艾拉·马斯克创作的丘丘语诗歌。据她说，这首「友好的朗诵诗」中蕴含着许多人的心血。但是，读起来总感觉怪怪的…",
+      "full_text": "Olah! Olah!\r\nYoyo mosi mita!\r\nNye, nye mosi mita,\r\nYeye mosi gusha!\r\nMosi gusha, mosi tiga,\r\nYeye kucha kucha!"
+    },
+    {
+      "volume_id": 100508,
+      "volume_name": "丘丘语诗歌试作·叙事诗",
+      "description": "艾拉·马斯克创作的丘丘语诗歌。据她说，这首「激昂的叙事诗」中蕴含着许多人的心血。但是，读起来总感觉怪怪的…",
+      "full_text": "Biadam! Ye dada nesina, \r\nYe dada nesina nunu,\r\nNunu shato!\r\nShato celi, shato lata,\r\nYe dada nesina,\r\nNini zido!\r\nNini zido!"
+    },
+    {
+      "volume_id": 100509,
+      "volume_name": "丘丘语诗歌试作·抒情诗",
+      "description": "艾拉·马斯克创作的丘丘语诗歌。据她说，这首「优美的抒情诗」中蕴含着许多人的心血。但是，读起来总感觉怪怪的…",
+      "full_text": "Gusha, gusha,\r\nGusha muhe kucha.\r\nKucha mita pupu, \r\nPupu si kucha mita.\r\nMi mosi mita,\r\nYe mosi gusha,\r\nKucha."
+    }
+  ]
+}

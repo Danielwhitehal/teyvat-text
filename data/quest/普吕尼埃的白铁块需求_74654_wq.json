@@ -1,0 +1,59 @@
+{
+  "quest_id": 74654,
+  "chapter_num": null,
+  "chapter_title": "普吕尼埃的白铁块需求",
+  "type": "wq",
+  "route": "Pruniere's White Iron Impetration",
+  "stories": [
+    {
+      "story_id": 74654,
+      "title": "普吕尼埃的白铁块需求",
+      "description": "普吕尼埃需要5份白铁块。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将5份白铁块交给普吕尼埃"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于白铁块…"
+        },
+        {
+          "role": "普吕尼埃",
+          "text": "欧芙女士说的是真的啊，在报纸上登求助消息真的会有人来帮忙。"
+        },
+        {
+          "role": "普吕尼埃",
+          "text": "太好了，感谢你，好心的先生。你准备好白铁块了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "普吕尼埃",
+                  "text": "真不好意思麻烦你，但我的确需要不少白铁块，再想想办法多弄一些来吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与普吕尼埃对话"
+        },
+        {
+          "role": "普吕尼埃",
+          "text": "很好，非常好，这下我可以修那几个坏扳手了。"
+        }
+      ]
+    }
+  ]
+}

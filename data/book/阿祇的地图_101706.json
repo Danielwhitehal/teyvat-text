@@ -1,0 +1,13 @@
+{
+  "id": 101706,
+  "name": "阿祇的地图",
+  "route": "Tsumi's Map",
+  "volumes": [
+    {
+      "volume_id": 101706,
+      "volume_name": "阿祇的地图",
+      "description": "阿祇绘制的地图。上面有些标记。",
+      "full_text": "<image name=UI_ScribbledMap101706 />"
+    }
+  ]
+}

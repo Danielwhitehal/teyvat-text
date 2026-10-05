@@ -1,0 +1,20 @@
+{
+  "quest_id": 73666,
+  "chapter_num": null,
+  "chapter_title": "蕈兽引起的混乱",
+  "type": "wq",
+  "route": "Fungal Fracas",
+  "stories": [
+    {
+      "story_id": 73666,
+      "title": "蕈兽引起的混乱",
+      "description": "蕈兽正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退蕈兽"
+        }
+      ]
+    }
+  ]
+}

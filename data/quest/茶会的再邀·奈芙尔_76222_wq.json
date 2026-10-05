@@ -1,0 +1,36 @@
+{
+  "quest_id": 76222,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·奈芙尔",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Nefer",
+  "stories": [
+    {
+      "story_id": 76222,
+      "title": "茶会的再邀·奈芙尔",
+      "description": "前往秘闻馆放置茶桌并使用桑多涅落座后，与奈芙尔共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "奈芙尔",
+          "text": "喜欢阿舍鲁的话，可以常来。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "奈芙尔",
+          "text": "阿舍鲁，和桑多涅小姐说再见。"
+        },
+        {
+          "role": "阿舍鲁",
+          "text": "喵~"
+        }
+      ]
+    }
+  ]
+}

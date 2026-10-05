@@ -1,0 +1,32 @@
+{
+  "quest_id": 74257,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·壁炉之家",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: House of the Hearth",
+  "stories": [
+    {
+      "story_id": 74257,
+      "title": "茶会的再邀·壁炉之家",
+      "description": "前往布法蒂公馆附近放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "林尼",
+          "text": "多谢桑多涅女士的款待。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "林尼",
+          "text": "嗯，您慢走。"
+        }
+      ]
+    }
+  ]
+}

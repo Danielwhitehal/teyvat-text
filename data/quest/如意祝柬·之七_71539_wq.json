@@ -1,0 +1,170 @@
+{
+  "quest_id": 71539,
+  "chapter_num": null,
+  "chapter_title": "如意祝柬·之七",
+  "type": "wq",
+  "route": "Custom Gift Envelope No. 7",
+  "stories": [
+    {
+      "story_id": 71539,
+      "title": "如意祝柬·之七",
+      "description": "似乎有人对制作祝柬产生了兴趣…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "等待至次日的8时至18时"
+        },
+        {
+          "type": "subtitle",
+          "text": "查看「祝柬」"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "看看「祝柬」吧…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "旅行者，我们一起来做祝柬吧！"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "你还专门挂了一个委托…",
+              "dialogues": []
+            },
+            {
+              "text": "派蒙还真有仪式感…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "那当然啦，这可是一年一度的海灯节，做什么都要沾一些节日氛围才好呀。"
+        },
+        {
+          "role": "派蒙",
+          "text": "快点快点，我有好多做祝柬的点子呢，做出来的祝柬你一定喜欢。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "只要是派蒙做的，我都喜欢。",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "嘿嘿，旅行者做的祝柬，我也都喜欢！"
+        },
+        {
+          "role": "派蒙",
+          "text": "哎呀，不说这些了，我们快点开始做祝柬吧。"
+        },
+        {
+          "type": "subtitle",
+          "text": "和派蒙一同完成祝柬"
+        },
+        {
+          "type": "subtitle",
+          "text": "退出时"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "看看「祝柬」吧…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "嘿嘿，旅行者做的祝柬，我也都喜欢！"
+        },
+        {
+          "role": "派蒙",
+          "text": "哎呀，不说这些了，我们快点开始做祝柬吧。"
+        },
+        {
+          "role": "派蒙",
+          "text": "在祝柬上放点{{颜色|描述3|星星}}的图案吧！这样肯定好看！"
+        },
+        {
+          "type": "subtitle",
+          "text": "提交不符合建议"
+        },
+        {
+          "role": "派蒙",
+          "text": "{{颜色|描述3|星星}}再多一点啦，多了才好看！快快快，我们一起贴！"
+        },
+        {
+          "role": "派蒙",
+          "text": "好看！"
+        },
+        {
+          "role": "派蒙",
+          "text": "好多星星！嘿嘿，真漂亮。"
+        },
+        {
+          "role": "派蒙",
+          "text": "真漂亮！嘿嘿，不愧是最好的伙伴，很了解我嘛！"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "role": "派蒙",
+          "text": "喔…旅行者做的祝柬真好看！嘿嘿，你很懂我的心思嘛。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "派蒙的祝柬呢？",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "哼哼，给你，这可是我超级努力做出来的，一定是整个海灯节里最漂亮的祝柬！"
+        },
+        {
+          "role": "[[文件",
+          "text": "从派蒙处收到的「祝柬」-内容.png|center]]"
+        },
+        {
+          "type": "subtitle",
+          "text": "获得{{图标|从派蒙处收到的「祝柬」}}",
+          "narration": true,
+          "color": "描述"
+        }
+      ],
+      "collapse_ranges": [
+        [
+          11,
+          14
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    }
+  ]
+}

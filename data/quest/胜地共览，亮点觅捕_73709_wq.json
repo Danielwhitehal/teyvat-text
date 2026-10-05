@@ -1,0 +1,50 @@
+{
+  "quest_id": 73709,
+  "chapter_num": null,
+  "chapter_title": "胜地共览，亮点觅捕",
+  "type": "wq",
+  "route": "Behold the Grandeur, Seize the Splendor",
+  "stories": [
+    {
+      "story_id": 73709,
+      "title": "胜地共览，亮点觅捕",
+      "description": "一番漫长的跋涉后，你们带着蕈兽伙伴抵达了首个「风景区」，确认了伙伴们的兴趣点，开始了这次特别的游览…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往游览地点"
+        },
+        {
+          "role": "咚咚小圆帽",
+          "text": "♪♪~"
+        },
+        {
+          "role": "欢腾之火",
+          "text": "♫♫！"
+        },
+        {
+          "role": "派蒙",
+          "text": "嗯！看起来蕈兽伙伴们的确找到了附近的兴趣点，还对小匿叶龙们很好奇！"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都听派蒙向导的！",
+              "dialogues": []
+            },
+            {
+              "text": "规划得很科学哦！",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "那可不！这回就要用我最擅长的领域，让蕈兽伙伴们也享受旅行的最大乐趣！"
+        }
+      ]
+    }
+  ]
+}

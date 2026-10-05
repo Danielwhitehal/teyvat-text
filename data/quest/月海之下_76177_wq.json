@@ -1,0 +1,72 @@
+{
+  "quest_id": 76177,
+  "chapter_num": null,
+  "chapter_title": "月海之下",
+  "type": "wq",
+  "route": "Beneath the Lunar Sea",
+  "stories": [
+    {
+      "story_id": 76177,
+      "title": "月海之下",
+      "description": "月海中，一群水母正往一处地洞汇聚，在那之中或许有什么正等待着你们…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "跟随奇特的水母们"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙交谈"
+        },
+        {
+          "role": "派蒙",
+          "text": "黑体物质笼…发生站？"
+        },
+        {
+          "role": "旅行者",
+          "text": "这是什么地方？"
+        },
+        {
+          "role": "派蒙",
+          "text": "不知道，这个名字还是第一次听见。"
+        },
+        {
+          "role": "派蒙",
+          "text": "但不论如何，按照我敏锐的向导直觉，这里面一定有宝藏。"
+        },
+        {
+          "role": "派蒙",
+          "text": "我们快进去看看！"
+        },
+        {
+          "type": "subtitle",
+          "text": "设法开启大门"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索设施内部"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索设施内部"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙交谈"
+        },
+        {
+          "role": "派蒙",
+          "text": "成功进来了…这里有棵好漂亮的树呢！"
+        },
+        {
+          "role": "派蒙",
+          "text": "没想到月海地下还有这样一个地方，是用来干什么的？我们在四周搜索看看吧。"
+        },
+        {
+          "type": "subtitle",
+          "text": "激活设施终端"
+        }
+      ]
+    }
+  ]
+}

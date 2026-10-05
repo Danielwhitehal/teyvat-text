@@ -1,0 +1,80 @@
+{
+  "quest_id": 70018,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70018,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yaya! Dala!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mimi muhe gusha, <color=#00E1FFFF>gusha celi boya</color>!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它在向我们要求什么呢…我们来看看它想要什么吧？"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "<color=#00E1FFFF>Gusha celi boya</color>!"
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mosi mita! Tomo, valo!"
+        },
+        {
+          "role": "旅行者",
+          "text": "Mosi mita!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "嗯嗯，原来如此…"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Du odomu tomo dala?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Du Wei dala? Mito nye! Yeye beru mi tomo!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它也不知道，不过我们可以去找它的朋友问问。"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "那么我们出发吧。"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Nye, Mani nye!"
+        },
+        {
+          "role": "旅行者",
+          "text": "好像不对呢…"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "quest_id": 10002,
+  "chapter_num": "海灯节 第二天",
+  "chapter_title": "海灯节 第二天",
+  "type": "eq",
+  "route": "Lantern Rite: Day 2",
+  "stories": [
+    {
+      "story_id": 40002,
+      "title": "灯下暗流深$UNRELEASED",
+      "description": "在海灯节，最重要的一项活动，就是在第五日的夜晚放飞巨型花灯「明霄灯」。今年的「明霄灯」壮景可期。用来让巨灯浮空的那块「浮生石」，是二十年来最大的一块。为此，璃月的商人们开设了「霄市」，筹集建灯所用的材料。今天你来到「霄市」时，负责操办节日事宜的慧心，似乎有事想要拜托你…$UNRELEASED",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "前往霄市$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "喔，是你们啊，感谢你们来为海灯节捐赠物资。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "说起来，今天其实有一件「捐赠」以外的事…嗯，具体来说是「收购」，你们感兴趣吗？$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "欸？这次不是无偿的吗？那我很感兴趣！$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "哈哈，那就拜托你们了，事情是这样的…$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "我们为了操办节日事宜，需要两种特殊的「浮生石」。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "一种叫做「岚生石」，在天衡山北部偶尔会有发现记录。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "根系下埋藏着岚生石的普通灌木，有时会变异成「蓬蓬果」，让种子浮空。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "另一种叫做「霞生石」，它对一般人来说非常危险…$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "在归离原，失去飞行动力的老旧「遗迹猎者」，会靠「霞生石」维持自己的飞行能力。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "了解！「岚生石」和「霞生石」是吧？$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "（其实就是红色和蓝色的浮生石啦…好听的名字都是宝石商人故意起的…）$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "没错，就拜托你们把它们带回来了。要加油喔。$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "从蓬蓬果处获取岚生石$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "从遗迹猎者处获取霞生石$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "回到霄市，与慧心对话$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "啊，这是…「岚生石」和「霞生石」，品质都很不错！$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "谢谢你们！这是报酬。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "你们的每一次努力所得，都会为海灯节增光添彩。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "对了，既然在海灯节期间来璃月旅行，不如多关注一下「明霄灯」的变化吧。$UNRELEASED"
+        },
+        {
+          "role": "慧心",
+          "text": "随着进度推进，码头上的建设工地，会有越来越值得一看的风景。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "听起来很有趣，旅行者，我们现在就过去看看吗？$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "去建设工地看看$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "与可疑人士对话$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "在材料堆放区调查$UNRELEASED"
+        },
+        {
+          "type": "subtitle",
+          "text": "与千岩军守卫对话$UNRELEASED"
+        },
+        {
+          "role": "嘉义",
+          "text": "请留步，前方是璃月总务司。$UNRELEASED"
+        },
+        {
+          "role": "旅行者",
+          "text": "我们是来举报可疑人士形迹的。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "我们在明霄灯的易燃材料堆放现场，看到了鬼鬼祟祟的人！$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "绝对不能让做出「中原杂碎」的小摊就这么没了！$UNRELEASED"
+        },
+        {
+          "role": "嘉义",
+          "text": "啊，这可是件大事。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "对吧对吧。璃月港的美食可是城市的神髓——$UNRELEASED"
+        },
+        {
+          "role": "嘉义",
+          "text": "呃，我们说的应该不是同一件「大事」。不过小家伙你说得也没错。$UNRELEASED"
+        },
+        {
+          "role": "嘉义",
+          "text": "具体情况我知道了，我会向上峰如实转达的。$UNRELEASED"
+        },
+        {
+          "role": "嘉义",
+          "text": "谢谢你们的消息。$UNRELEASED"
+        },
+        {
+          "role": "派蒙",
+          "text": "一定一定，要严肃对待哦。$UNRELEASED"
+        }
+      ]
+    }
+  ]
+}

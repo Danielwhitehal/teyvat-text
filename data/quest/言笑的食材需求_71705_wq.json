@@ -1,0 +1,59 @@
+{
+  "quest_id": 71705,
+  "chapter_num": null,
+  "chapter_title": "言笑的食材需求",
+  "type": "wq",
+  "route": "Smiley's Selections",
+  "stories": [
+    {
+      "story_id": 71705,
+      "title": "言笑的食材需求",
+      "description": "望舒客栈的言笑需要两份香肠。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两份香肠交给言笑"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于香肠…"
+        },
+        {
+          "role": "言笑",
+          "text": "嗯，是我发的那个委托，怎么？你把两份香肠都准备好了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "都准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "言笑",
+                  "text": "那你快着点，准备好了就赶紧拿过来，我还等着做菜呢，客人都要不耐烦了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与言笑对话"
+        },
+        {
+          "role": "言笑",
+          "text": "嗯…这两份香肠不错，应该够我做菜的了。"
+        },
+        {
+          "role": "言笑",
+          "text": "这是报酬，拿好了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 120114,
+  "name": "古旧地图",
+  "route": "Ancient Map",
+  "volumes": [
+    {
+      "volume_id": 120114,
+      "volume_name": "古旧地图",
+      "description": "从塔杰房间内找到的地图，上面标有归寂之庭的位置。",
+      "full_text": "<image name=UI_TreasureHunt_Pic_2/>\r\n<image name=UI_TreasureHunt_Pic_1/>"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": 72710,
+  "chapter_num": null,
+  "chapter_title": "海乱鬼与浮浪人引起的混乱",
+  "type": "wq",
+  "route": "Kairagi-Vagrant Pandemonium",
+  "stories": [
+    {
+      "story_id": 72710,
+      "title": "海乱鬼与浮浪人引起的混乱",
+      "description": "八酝岛上某处，海乱鬼与浮浪人正在作乱，九条政仁希望能有人帮忙解决这场混乱。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退海乱鬼与浮浪人"
+        }
+      ]
+    }
+  ]
+}

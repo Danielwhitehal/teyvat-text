@@ -1,0 +1,124 @@
+{
+  "quest_id": 71654,
+  "chapter_num": null,
+  "chapter_title": "翠石砌玉壶·其二",
+  "type": "wq",
+  "route": "A Teapot to Call Home: Part II",
+  "stories": [
+    {
+      "story_id": 71654,
+      "title": "翠石砌玉壶·其二",
+      "description": "璃月港的危机已然平息，城中的事务也大多重回正轨。 不过，在玉京台赏花的萍姥姥似乎还有件事想和旅行者商量…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "进入「尘歌壶」"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "role": "派蒙",
+          "text": "哇…这壶里的空间，好像比萍姥姥那盏更大呢，中间还有一栋好大的房子！"
+        },
+        {
+          "role": "派蒙",
+          "text": "不过，周围却没什么东西呢…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "派蒙去开凿石头，再造一座屋子吧。",
+              "dialogues": [
+                {
+                  "role": "派蒙",
+                  "text": "凿不动！你自己不是拿着剑吗？你自己去凿啦！"
+                }
+              ]
+            },
+            {
+              "text": "派蒙去挖个地洞，暂时住进去吧。",
+              "dialogues": [
+                {
+                  "role": "派蒙",
+                  "text": "明明有房子，为什么我还要挖地洞啦！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "唉，不过除了那个房子之外，这周围怎么空荡荡的…"
+        },
+        {
+          "role": "派蒙",
+          "text": "欸？等等，那是什么？"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        },
+        {
+          "type": "subtitle",
+          "text": "与派蒙对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "探索四周"
+        }
+      ]
+    }
+  ]
+}

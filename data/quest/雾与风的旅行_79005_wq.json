@@ -1,0 +1,32 @@
+{
+  "quest_id": 79005,
+  "chapter_num": null,
+  "chapter_title": "雾与风的旅行",
+  "type": "wq",
+  "route": "A Trip Through Fog and Wind",
+  "stories": [
+    {
+      "story_id": 79005,
+      "title": "雾与风的旅行",
+      "description": "在金苹果群岛中，你发现了一幅奇怪的壁画…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "寻找标记地点"
+        },
+        {
+          "type": "subtitle",
+          "text": "四处搜索"
+        },
+        {
+          "type": "subtitle",
+          "text": "根据笔记内容，在正午时分（10点至14点）突破迷雾"
+        },
+        {
+          "type": "subtitle",
+          "text": "四处搜索"
+        }
+      ]
+    }
+  ]
+}

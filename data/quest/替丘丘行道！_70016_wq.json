@@ -1,0 +1,106 @@
+{
+  "quest_id": 70016,
+  "chapter_num": null,
+  "chapter_title": "替丘丘行道！",
+  "type": "wq",
+  "route": "Hilichurl Justice",
+  "stories": [
+    {
+      "story_id": 70016,
+      "title": "替丘丘行道！",
+      "description": "与艾拉·马斯克一同前去为被欺负的丘丘人打抱不平，或许能够借此得到新的线索？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "…Yaya dala?"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo, mimi mosi mita, Muhe mita?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mita…? Gusha… Dada ika odomu Plata mimi, mimi mosi gusha…"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi tomo, mimi plata yaya ika! Mimi mani ye!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mani…? Dada! Kundala zido mi, mi dada, mimi tomo!"
+        },
+        {
+          "role": "派蒙",
+          "text": "他们两个聊得很开心的样子呢…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "不愧是马斯克小姐。",
+              "dialogues": []
+            },
+            {
+              "text": "对话进行得很顺利呢。",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "其实它只是不爱说话而已，不过我已经问到需要的信息了。"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "帮助它打败敌人就好，接下来就交给你们啦！"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Dada, Valo!"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往指定地点战斗"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人回复"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Kundala nye, mani dada, tomo dada!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Yoyo dada! Mimi tomo!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Mimi muhe du, du ya Wei zido dala si."
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi mito nye. Mi mito du, du ya mito Wei."
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它把我们指到了这个地方。说这里应该有人看过。"
+        },
+        {
+          "role": "旅行者",
+          "text": "Valo! Tomo!"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Valo, valo…"
+        }
+      ]
+    }
+  ]
+}

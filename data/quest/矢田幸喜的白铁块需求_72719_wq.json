@@ -1,0 +1,59 @@
+{
+  "quest_id": 72719,
+  "chapter_num": null,
+  "chapter_title": "矢田幸喜的白铁块需求",
+  "type": "wq",
+  "route": "Yata Kouki's Order of Ore",
+  "stories": [
+    {
+      "story_id": 72719,
+      "title": "矢田幸喜的白铁块需求",
+      "description": "鸣神岛上的矢田幸喜想要五份白铁块。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将五份白铁块交给矢田幸喜"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于白铁块…"
+        },
+        {
+          "role": "矢田幸喜",
+          "text": "要是等到临阵再磨枪，那就太迟了，得早点请天目师傅打个新枪尖。"
+        },
+        {
+          "role": "矢田幸喜",
+          "text": "你是接下我委托的那位吗？那五份白铁块，你也准备好了吧。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "矢田幸喜",
+                  "text": "那你准备好了之后，再拿给我吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与矢田幸喜对话"
+        },
+        {
+          "role": "矢田幸喜",
+          "text": "十分感谢，一点报酬，不成敬意。"
+        }
+      ]
+    }
+  ]
+}

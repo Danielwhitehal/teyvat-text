@@ -1,0 +1,59 @@
+{
+  "quest_id": 73653,
+  "chapter_num": null,
+  "chapter_title": "阿米尔的兽肉需求",
+  "type": "wq",
+  "route": "Amir's Raw Meat Commission",
+  "stories": [
+    {
+      "story_id": 73653,
+      "title": "阿米尔的兽肉需求",
+      "description": "化城郭的阿米尔需要八份兽肉。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将八份兽肉交给阿米尔"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于兽肉…"
+        },
+        {
+          "role": "阿米尔",
+          "text": "哦没错，我的确发布过请人提供兽肉的委托。"
+        },
+        {
+          "role": "阿米尔",
+          "text": "你准备好了足够的兽肉吗？我需要八份。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "阿米尔",
+                  "text": "八份兽肉的确不是小数量，还是等你准备好了之后，再来找我吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿米尔对话"
+        },
+        {
+          "role": "阿米尔",
+          "text": "肉的品质都很不错，谢谢你，搜救犬们的加餐有着落了。"
+        }
+      ]
+    }
+  ]
+}

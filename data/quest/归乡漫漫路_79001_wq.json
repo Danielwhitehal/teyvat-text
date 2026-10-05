@@ -1,0 +1,44 @@
+{
+  "quest_id": 79001,
+  "chapter_num": null,
+  "chapter_title": "归乡漫漫路",
+  "type": "wq",
+  "route": "The Winding Homeward Way",
+  "stories": [
+    {
+      "story_id": 79001,
+      "title": "归乡漫漫路",
+      "description": "在危危岛上，你们遇见了一个奇怪的仙灵…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "跟随仙灵"
+        },
+        {
+          "type": "subtitle",
+          "text": "在周围调查"
+        },
+        {
+          "type": "subtitle",
+          "text": "用正确的方式点亮元素方碑"
+        },
+        {
+          "type": "subtitle",
+          "text": "跟随仙灵"
+        },
+        {
+          "type": "subtitle",
+          "text": "跟随仙灵"
+        },
+        {
+          "type": "subtitle",
+          "text": "清理周围"
+        },
+        {
+          "type": "subtitle",
+          "text": "等待仙灵返回台座"
+        }
+      ]
+    }
+  ]
+}

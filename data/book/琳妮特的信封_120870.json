@@ -1,0 +1,13 @@
+{
+  "id": 120870,
+  "name": "琳妮特的信封",
+  "route": "Lynette's Envelope",
+  "volumes": [
+    {
+      "volume_id": 120870,
+      "volume_name": "琳妮特的信封",
+      "description": "专属于琳妮特的信封，背面写有她的名字，装着合照与她的剧照，又被塞入了「威胁信」。",
+      "full_text": "<image name=UI_ReadPic_120870/>\r\n<center>…\r\n没有心的人偶！\r\n你毁掉了这部作品。\r\n立刻让出主演的位置！\r\n…</center>"
+    }
+  ]
+}

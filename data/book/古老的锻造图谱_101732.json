@@ -1,0 +1,13 @@
+{
+  "id": 101732,
+  "name": "古老的锻造图谱",
+  "route": "Ancient Forging Blueprint",
+  "volumes": [
+    {
+      "volume_id": 101732,
+      "volume_name": "古老的锻造图谱",
+      "description": "一卷古老的锻造图谱，将军曾命令枫原家依照它锻造御神刀。\n经过浸泡后，图谱上有一些文字变得模糊了——有人通过篡改它，导致了锻刀失败，并引发了后续的一系列惨剧…",
+      "full_text": "<image name=UI_ScribbledMap101732 />\r\n"
+    }
+  ]
+}

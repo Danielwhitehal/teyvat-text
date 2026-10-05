@@ -1,0 +1,19 @@
+{
+  "id": 121048,
+  "name": "你与玛拉妮的纪念合照",
+  "route": "Commemorative Photo of You and Mualani",
+  "volumes": [
+    {
+      "volume_id": 121048,
+      "volume_name": "你与玛拉妮的纪念合照",
+      "description": "这被定格在画片中的一瞬，是玛拉妮和你携手完成神秘岛之旅后，一起留下的纪念。",
+      "full_text": "<image name=UI_ReadPic_1501015_Boy/>"
+    },
+    {
+      "volume_id": 121049,
+      "volume_name": "你与玛拉妮的纪念合照",
+      "description": "这被定格在画片中的一瞬，是玛拉妮和你携手完成神秘岛之旅后，一起留下的纪念。",
+      "full_text": "<image name=UI_ReadPic_1501015_Girl/>"
+    }
+  ]
+}

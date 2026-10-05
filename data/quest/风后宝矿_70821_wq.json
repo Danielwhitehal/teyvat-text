@@ -1,0 +1,68 @@
+{
+  "quest_id": 70821,
+  "chapter_num": null,
+  "chapter_title": "风后宝矿",
+  "type": "wq",
+  "route": "After the Storm",
+  "stories": [
+    {
+      "story_id": 70821,
+      "title": "风后宝矿",
+      "description": "在特瓦林被净化后，风龙废墟已经可以通行了。瓦格纳先生想要去那里寻找珍贵的水晶矿…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与瓦格纳对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往风龙废墟探查水晶矿"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往风龙废墟探查水晶矿"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往风龙废墟探查水晶矿"
+        },
+        {
+          "type": "subtitle",
+          "text": "采掘三份水晶块"
+        },
+        {
+          "type": "subtitle",
+          "text": "把水晶块交给瓦格纳"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于矿石…"
+        },
+        {
+          "role": "瓦格纳",
+          "text": "还有很多工作没做，得再加把劲了…"
+        },
+        {
+          "role": "瓦格纳",
+          "text": "怎么样，你采到水晶了吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "已经采到了。"
+        },
+        {
+          "role": "瓦格纳",
+          "text": "让我看看，唔，这些水晶块看上去确实不错。"
+        },
+        {
+          "role": "瓦格纳",
+          "text": "这些是给你的谢礼，收下吧，这次辛苦你了。"
+        },
+        {
+          "role": "瓦格纳",
+          "text": "这么看来…风龙废墟那边的风暴确实已经消散了，我也要挑个时候过去看看了…"
+        }
+      ]
+    }
+  ]
+}

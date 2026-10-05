@@ -1,0 +1,13 @@
+{
+  "id": 120762,
+  "name": "地图的残页",
+  "route": "Map Fragment",
+  "volumes": [
+    {
+      "volume_id": 120762,
+      "volume_name": "地图的残页",
+      "description": "破损的纸片，看起来像是一张地图的右下角，上面还画着奇妙的点和线。",
+      "full_text": "<image name=UI_ReadPic_MapImprint/>"
+    }
+  ]
+}

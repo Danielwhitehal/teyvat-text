@@ -1,0 +1,63 @@
+{
+  "quest_id": 72718,
+  "chapter_num": null,
+  "chapter_title": "松本的煎蛋需求",
+  "type": "wq",
+  "route": "Matsumoto's Fried Egg Fracas",
+  "stories": [
+    {
+      "story_id": 72718,
+      "title": "松本的煎蛋需求",
+      "description": "鸣神岛的松本想要五份提瓦特煎蛋。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将五份提瓦特煎蛋交给松本"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于提瓦特煎蛋…"
+        },
+        {
+          "role": "松本",
+          "text": "哦哦，你是看到了我的委托才来的吧。不管是乌有亭还是木南料亭，都太无趣了。"
+        },
+        {
+          "role": "松本",
+          "text": "说不定在意想不到的地方，反而存在着厨艺超凡的高人，所以我才发布了那个委托。"
+        },
+        {
+          "role": "松本",
+          "text": "好了，你既然过来了，那五份提瓦特煎蛋也一定准备好了吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "松本",
+                  "text": "那你准备好了之后，再拿给我吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与松本对话"
+        },
+        {
+          "role": "松本",
+          "text": "嗯，让我来尝尝看，希望这次不会太失望。"
+        }
+      ]
+    }
+  ]
+}

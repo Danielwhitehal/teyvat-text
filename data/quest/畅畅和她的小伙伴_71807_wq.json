@@ -1,0 +1,52 @@
+{
+  "quest_id": 71807,
+  "chapter_num": null,
+  "chapter_title": "畅畅和她的小伙伴",
+  "type": "wq",
+  "route": "Changchang's Little Friend",
+  "stories": [
+    {
+      "story_id": 71807,
+      "title": "畅畅和她的小伙伴",
+      "description": "璃月港的小女孩畅畅想找个人帮忙给一只小狗喂点吃的…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与畅畅对话"
+        },
+        {
+          "type": "subtitle",
+          "text": "用一份禽肉向小狗喂食"
+        },
+        {
+          "role": "畅畅",
+          "text": "希望那只小狗别饿坏了…"
+        },
+        {
+          "type": "subtitle",
+          "text": "向畅畅回报"
+        },
+        {
+          "role": "畅畅",
+          "text": "大哥哥，你喂过那只小狗了吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "它应该吃饱了。"
+        },
+        {
+          "role": "畅畅",
+          "text": "太好啦…谢谢你，大哥哥。"
+        },
+        {
+          "role": "畅畅",
+          "text": "这些东西给你，是畅畅自己攒下来的哦，谢谢你帮忙。"
+        },
+        {
+          "role": "畅畅",
+          "text": "过几天爷爷应该就可以带畅畅去喂它啦。"
+        }
+      ]
+    }
+  ]
+}

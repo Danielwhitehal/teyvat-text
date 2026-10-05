@@ -1,0 +1,59 @@
+{
+  "quest_id": 70705,
+  "chapter_num": null,
+  "chapter_title": "康纳的酿酒材料需求",
+  "type": "wq",
+  "route": "Connor's Brew",
+  "stories": [
+    {
+      "story_id": 70705,
+      "title": "康纳的酿酒材料需求",
+      "description": "晨曦酒庄的康纳需要三份冰雾花花朵。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三份冰雾花花朵交给康纳"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于冰雾花花朵…"
+        },
+        {
+          "role": "康纳",
+          "text": "对，你准是看了我的委托吧，怎么样？三份冰雾花花朵搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "康纳",
+                  "text": "那请你快一些吧，我还等着它们用来酿酒呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与康纳对话"
+        },
+        {
+          "role": "康纳",
+          "text": "嗯…这些冰雾花花朵的质量还真不错。"
+        },
+        {
+          "role": "康纳",
+          "text": "这些东西给你，请收下吧，谢谢你帮我这个忙。"
+        }
+      ]
+    }
+  ]
+}

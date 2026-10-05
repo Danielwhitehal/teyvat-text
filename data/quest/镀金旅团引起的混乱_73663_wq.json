@@ -1,0 +1,20 @@
+{
+  "quest_id": 73663,
+  "chapter_num": null,
+  "chapter_title": "镀金旅团引起的混乱",
+  "type": "wq",
+  "route": "Eremite Mayhem",
+  "stories": [
+    {
+      "story_id": 73663,
+      "title": "镀金旅团引起的混乱",
+      "description": "无人约束的镀金旅团正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退镀金旅团"
+        }
+      ]
+    }
+  ]
+}

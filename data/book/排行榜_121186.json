@@ -1,0 +1,19 @@
+{
+  "id": 121186,
+  "name": "排行榜",
+  "route": "Leaderboard",
+  "volumes": [
+    {
+      "volume_id": 121186,
+      "volume_name": "排行榜",
+      "description": "",
+      "full_text": "第一位：瓦雷莎\r\n第二位：伊安珊\r\n第三位：苏马克"
+    },
+    {
+      "volume_id": 121187,
+      "volume_name": "排行榜",
+      "description": "",
+      "full_text": "第一位：{NICKNAME}\r\n第二位：瓦雷莎\r\n第三位：伊安珊"
+    }
+  ]
+}

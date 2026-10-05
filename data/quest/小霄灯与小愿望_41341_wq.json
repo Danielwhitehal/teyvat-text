@@ -1,0 +1,304 @@
+{
+  "quest_id": 41341,
+  "chapter_num": null,
+  "chapter_title": "小霄灯与小愿望",
+  "type": "wq",
+  "route": "Little Lantern, Little Wish",
+  "stories": [
+    {
+      "story_id": 41341,
+      "title": "小霄灯与小愿望",
+      "description": "蒙蒙似乎正在因为某事而烦恼…",
+      "dialogues": [
+        {
+          "role": "蒙蒙",
+          "text": "编霄灯好难啊…"
+        },
+        {
+          "role": "旅行者",
+          "text": "怎么了？"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你知道怎么编霄灯吗？蒙蒙不会编霄灯…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "穿过去，弄过来，一不小心材料就掉了，要不然就把线弄断了…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "蒙蒙本来是想编盏霄灯送给小羽的。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "小羽一直在看茶店，没有时间玩，也没有时间做霄灯。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "但是小羽应该有愿望想要许吧，所以蒙蒙就想编一盏霄灯送给他…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "我来帮你编吧。",
+            "我编一个给你好了。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "我来帮你编吧。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "可是，蒙蒙想自己编好之后送给小羽…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "而且，蒙蒙想知道做霄灯的诀窍，这样我还可以讲给小羽听。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你能…你能教蒙蒙编一下霄灯吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "没问题。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "霄灯这样应该就…算是做好了吧。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}！我们赶快把霄灯送给小羽吧！"
+        },
+        {
+          "role": "小羽",
+          "text": "客、客官，你好，那个…想要歇脚的话请…"
+        },
+        {
+          "role": "旅行者",
+          "text": "我们是来送霄灯的。"
+        },
+        {
+          "role": "小羽",
+          "text": "送霄灯…？"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "小羽，这盏霄灯送给你。"
+        },
+        {
+          "role": "小羽",
+          "text": "蒙蒙？咦，这盏霄灯是你做的吗？谢、谢谢你…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "是这个{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}教我编的，其实做得不太好，你…你喜欢吗？"
+        },
+        {
+          "role": "小羽",
+          "text": "这盏霄灯做的很好啊！我很喜欢的，我还正在发愁，怎么抽出时间来编霄灯呢。"
+        },
+        {
+          "role": "小羽",
+          "text": "谢谢你蒙蒙，我等会就去请人帮我把这盏霄灯挂到门上去。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "为什么要请人帮忙挂霄灯？",
+            "家里没有人来挂霄灯吗？"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "为什么要请人帮忙挂霄灯？"
+        },
+        {
+          "role": "小羽",
+          "text": "这个啊，嗯…我爸爸身体一直不好，不能过来挂霄灯。我个子又太矮，肯定也挂不上去…"
+        },
+        {
+          "role": "小羽",
+          "text": "想把霄灯挂到门上去，只能去周围请人帮忙了…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "我来帮忙吧。",
+            "交给我吧。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "我来帮忙吧。"
+        },
+        {
+          "role": "小羽",
+          "text": "你愿意帮忙吗？那太好了，谢谢你。我还担心我要是去找人帮忙，谁来收拾店里呢…"
+        },
+        {
+          "role": "小羽",
+          "text": "这霄灯挂起来真好看，谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "那小羽…我们出去玩吧，我知道一个地方，那里的花可漂亮了。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "刚才{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}教我编霄灯了，去那边之后，我也教你编好不好？"
+        },
+        {
+          "role": "小羽",
+          "text": "这个…还不行，我还得收拾店里，虽然没多少客人，但店里必须保持干净才好，这是爸爸叮嘱我的。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "那…那我们不编霄灯，去那边说一会话好不好？一会就回来了，不耽误时间的。"
+        },
+        {
+          "role": "小羽",
+          "text": "可是…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "我来帮忙打扫店里吧。",
+            "打扫的事就交给我吧。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "我来帮忙打扫店里吧。"
+        },
+        {
+          "role": "小羽",
+          "text": "欸？可以吗？这也、这也太麻烦你了…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "我们就去一小会，一小会就回来了，不会耽误很多时间的！"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "那就拜托你啦，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，谢谢你！"
+        },
+        {
+          "role": "派蒙",
+          "text": "好像是他们两个，还在玩的样子，看来不用太担心了。"
+        },
+        {
+          "role": "派蒙",
+          "text": "不过现在这个气氛，好像不应该靠过去？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "想听听他们在说什么…",
+            "听听他们在说什么吧。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "想听听他们在说什么…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "给小羽的爸爸编花环，他会好得快一点吗？"
+        },
+        {
+          "role": "小羽",
+          "text": "我不知道…"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "书上说，只要过得开心，就算生病也会好得很快。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "蒙蒙觉得，小羽已经这么懂事了，天天都在帮忙看店，小羽的爸爸，一定很开心。"
+        },
+        {
+          "role": "小羽",
+          "text": "但，爸爸有时候还说我来着…「别老是窝在店里，多出去玩」什么的。"
+        },
+        {
+          "role": "小羽",
+          "text": "「你不陪蒙蒙玩，她能把周围的花都采秃咯。」"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "这里有很多花，才不会采完呢…等一下，我编一个花环给你。"
+        },
+        {
+          "role": "小羽",
+          "text": "谢谢你蒙蒙，我们也该回去了。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "好吧…那等你爸爸身体好了之后，你是不是就有时间了？到时候我再来找你玩…"
+        },
+        {
+          "role": "小羽",
+          "text": "嗯，爸爸的身体一定会好得很快的…"
+        },
+        {
+          "role": "小羽",
+          "text": "欸？！{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}…你，你什么时候来的…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "刚来不久。",
+            "什么也没听到。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "刚来不久。"
+        },
+        {
+          "role": "小羽",
+          "text": "唔唔唔…我…我…"
+        },
+        {
+          "role": "旅行者",
+          "text": "海灯节快乐。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}也是，海灯节快乐！"
+        },
+        {
+          "role": "小羽",
+          "text": "海…海灯节快乐…"
+        },
+        {
+          "role": "小羽",
+          "text": "那个，谢谢你帮忙，这些东西请收下吧。爸爸说，拜托人做事要准备好报酬的。"
+        },
+        {
+          "role": "小羽",
+          "text": "我们…我们就先回店里了，走吧蒙蒙。"
+        },
+        {
+          "role": "蒙蒙",
+          "text": "嗯，我们回去吧，谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}。"
+        }
+      ]
+    }
+  ]
+}

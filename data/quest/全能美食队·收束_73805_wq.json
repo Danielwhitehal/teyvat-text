@@ -1,0 +1,80 @@
+{
+  "quest_id": 73805,
+  "chapter_num": null,
+  "chapter_title": "全能美食队·收束",
+  "type": "wq",
+  "route": "The Gourmet Supremos: Cleanup",
+  "stories": [
+    {
+      "story_id": 73805,
+      "title": "全能美食队·收束",
+      "description": "「金砂之旅」的玛亚姆似乎有什么话想和你说…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与玛亚姆对话"
+        },
+        {
+          "role": "玛亚姆",
+          "text": "旅行者，稍等一下，这里有一封信给你。"
+        },
+        {
+          "role": "旅行者",
+          "text": "给我的信？"
+        },
+        {
+          "role": "玛亚姆",
+          "text": "是那个叫「旭东」的璃月人留给你的。"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "他在哪里？",
+              "dialogues": []
+            },
+            {
+              "text": "他为什么要留信给我…",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "玛亚姆",
+          "text": "那我可就不知道了。前段时间，他匆匆忙忙地过来，交给我了这封信。"
+        },
+        {
+          "role": "玛亚姆",
+          "text": "说什么…请务必转交给你，还给了我一笔钱呢。"
+        },
+        {
+          "role": "派蒙",
+          "text": "旭东…匆匆忙忙的？有什么事会让他这么着急呀？"
+        },
+        {
+          "role": "派蒙",
+          "text": "难道…是那个坏蛋又捣乱了？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "还是先看看信吧。",
+              "dialogues": []
+            },
+            {
+              "text": "也许他会在信里说明白。",
+              "dialogues": []
+            }
+          ]
+        },
+        {
+          "role": "派蒙",
+          "text": "好吧…那我们就先读读这封信吧。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "quest_id": 70707,
+  "chapter_num": null,
+  "chapter_title": "阿尔弗雷德的花束",
+  "type": "wq",
+  "route": "Alfred's Bouquet",
+  "stories": [
+    {
+      "story_id": 70707,
+      "title": "阿尔弗雷德的花束",
+      "description": "蒙德城的阿尔弗雷德需要三朵风车菊。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将三朵风车菊交给阿尔弗雷德"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于风车菊…"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "您是看见了我的委托吗？辛苦您专门跑一趟…"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "那您已经搜集齐三朵风车菊了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "阿尔弗雷德",
+                  "text": "那您搜集齐了之后，就请快些带给我吧，可别让花谢了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与阿尔弗雷德对话"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "这些风车菊…我女儿应该会很喜欢的。"
+        },
+        {
+          "role": "阿尔弗雷德",
+          "text": "这是给您的，请收下吧，谢谢您了。"
+        }
+      ]
+    }
+  ]
+}

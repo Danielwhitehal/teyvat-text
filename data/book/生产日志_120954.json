@@ -1,0 +1,13 @@
+{
+  "id": 120954,
+  "name": "生产日志",
+  "route": "Production Log",
+  "volumes": [
+    {
+      "volume_id": 120954,
+      "volume_name": "生产日志",
+      "description": "生产日志",
+      "full_text": "……\\n\\n\r\n最近到货的原液越来越少了，果然是因为那场大水的影响吗？好在这一批货可以按时出厂，应该能赶上预定的发布日期。\\n\\n\r\n……"
+    }
+  ]
+}

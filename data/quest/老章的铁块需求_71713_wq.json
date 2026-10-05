@@ -1,0 +1,63 @@
+{
+  "quest_id": 71713,
+  "chapter_num": null,
+  "chapter_title": "老章的铁块需求",
+  "type": "wq",
+  "route": "Master Zhang's Metal Commission",
+  "stories": [
+    {
+      "story_id": 71713,
+      "title": "老章的铁块需求",
+      "description": "璃月港的老章需要十份铁块。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将十份铁块交给老章"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于铁块…"
+        },
+        {
+          "role": "老章",
+          "text": "嗯，是我发的委托，店里的铁块已经快要用光了…"
+        },
+        {
+          "role": "老章",
+          "text": "怎么？你把十份铁块都搜集齐了吗？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "搜集齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "老章",
+                  "text": "那你搜集齐了之后，就快点带过来给我吧，还有不少客人在等着呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与老章对话"
+        },
+        {
+          "role": "老章",
+          "text": "嗯…这些铁块应该够用一段时间了…"
+        },
+        {
+          "role": "老章",
+          "text": "这些东西你收下吧，谢谢你帮我的忙。"
+        }
+      ]
+    }
+  ]
+}

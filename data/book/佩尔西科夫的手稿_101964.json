@@ -1,0 +1,13 @@
+{
+  "id": 101964,
+  "name": "佩尔西科夫的手稿",
+  "route": "Persikov's Manuscript",
+  "volumes": [
+    {
+      "volume_id": 101964,
+      "volume_name": "佩尔西科夫的手稿",
+      "description": "愚人众研究员佩尔西科夫的手稿，手稿中包含着一份地图，根据地图上的指示，似乎能找到「知感拟态」装置所缺失的晶核…",
+      "full_text": "<image name=UI_SummerTimeV2Map02/>"
+    }
+  ]
+}

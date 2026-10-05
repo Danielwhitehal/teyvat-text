@@ -1,0 +1,13 @@
+{
+  "id": 121290,
+  "name": "悠悠度假村地图",
+  "route": "Easybreeze Holiday Resort Map",
+  "volumes": [
+    {
+      "volume_id": 121290,
+      "volume_name": "悠悠度假村地图",
+      "description": "一张画有悠悠度假村各大区域的手绘地图，轻轻载起了客人们对游乐项目的美妙憧憬。",
+      "full_text": "<image name=UI_ReadPic_HolidayResort/>"
+    }
+  ]
+}

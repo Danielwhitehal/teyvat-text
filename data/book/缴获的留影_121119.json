@@ -1,0 +1,13 @@
+{
+  "id": 121119,
+  "name": "缴获的留影",
+  "route": "Captured Photos",
+  "volumes": [
+    {
+      "volume_id": 121119,
+      "volume_name": "缴获的留影",
+      "description": "从愚人众手上得到了一批留影，清楚全面地记录了此处「秘源遗迹」的构造。这张留影上出现了一个特殊的机关，它的形状似乎值得注意。",
+      "full_text": "<image name=UI_ReadPic_SkirmDungeonPic/>"
+    }
+  ]
+}

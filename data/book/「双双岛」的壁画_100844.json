@@ -1,0 +1,13 @@
+{
+  "id": 100844,
+  "name": "「双双岛」的壁画",
+  "route": "Twinning Isle Mural",
+  "volumes": [
+    {
+      "volume_id": 100844,
+      "volume_name": "「双双岛」的壁画",
+      "description": "从「双双岛」的石壁上记录下来的壁画。画中的山上有着一处特别的标记…",
+      "full_text": "<image name=UI_LostParadise_4_Alpha />"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": 20030,
+  "chapter_num": null,
+  "chapter_title": "欢迎来到冒险家协会",
+  "type": "iq",
+  "route": "Welcome to the Adventurers' Guild",
+  "stories": [
+    {
+      "story_id": 20030,
+      "title": "欢迎来到冒险家协会",
+      "description": "冒险家协会的凯瑟琳向你发出了邀请。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与凯瑟琳对话，询问详情"
+        }
+      ]
+    }
+  ]
+}

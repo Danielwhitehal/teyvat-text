@@ -1,0 +1,36 @@
+{
+  "quest_id": 40016,
+  "chapter_num": null,
+  "chapter_title": "群岛任务一",
+  "type": "eq",
+  "route": "Archipelago Quest 1",
+  "stories": [
+    {
+      "story_id": 40016,
+      "title": "群岛任务一",
+      "description": "海浪，波涛，夏天的竞技赛就在眼前，全力以赴，绝不能落败！",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "抵达海岛"
+        },
+        {
+          "type": "subtitle",
+          "text": "前往上船点"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找并点亮所有装置"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找并点亮所有装置"
+        },
+        {
+          "type": "subtitle",
+          "text": "寻找并点亮所有装置"
+        }
+      ]
+    }
+  ]
+}

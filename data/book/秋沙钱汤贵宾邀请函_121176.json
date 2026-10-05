@@ -1,0 +1,13 @@
+{
+  "id": 121176,
+  "name": "秋沙钱汤贵宾邀请函",
+  "route": "Aisa Bathhouse VIP Pass",
+  "volumes": [
+    {
+      "volume_id": 121176,
+      "volume_name": "秋沙钱汤贵宾邀请函",
+      "description": "一份做工精致的邀请函，散发着令人心情愉悦的幽香。据说此函是秋沙钱汤专门为贵客准备的，函中标注了店面地址，并介绍了此店主推的三种服务。",
+      "full_text": "<image name=UI_ReadPic_1204409/>"
+    }
+  ]
+}

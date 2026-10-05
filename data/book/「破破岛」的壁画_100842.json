@@ -1,0 +1,13 @@
+{
+  "id": 100842,
+  "name": "「破破岛」的壁画",
+  "route": "Broken Isle Mural",
+  "volumes": [
+    {
+      "volume_id": 100842,
+      "volume_name": "「破破岛」的壁画",
+      "description": "从「破破岛」的石壁上记录下来的壁画。画中描绘着五个奇怪的物体…",
+      "full_text": "<image name=UI_LostParadise_3_Alpha />"
+    }
+  ]
+}

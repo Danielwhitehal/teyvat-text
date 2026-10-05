@@ -1,0 +1,408 @@
+{
+  "quest_id": 70009,
+  "chapter_num": null,
+  "chapter_title": "风花与雪花",
+  "type": "wq",
+  "route": "Windblumes and Snowflakes",
+  "stories": [
+    {
+      "story_id": 70009,
+      "title": "风花与雪花",
+      "description": "",
+      "dialogues": [
+        {
+          "role": "莉莉",
+          "text": "蜀黍，你们驴人众，过不过风化节呀？"
+        },
+        {
+          "role": "维克多",
+          "text": "唔，我应该过不了…"
+        },
+        {
+          "role": "旅行者",
+          "text": "你在做什么？"
+        },
+        {
+          "role": "维克多",
+          "text": "咦？怎么是你，喂，你为什么又是一副怀疑的表情？"
+        },
+        {
+          "role": "维克多",
+          "text": "我就是在这里陪着这孩子说说话，又没做什么坏事！"
+        },
+        {
+          "role": "旅行者",
+          "text": "看来愚人众真的不过风花节。"
+        },
+        {
+          "role": "莉莉",
+          "text": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，呢也不过…过风画节呀？"
+        },
+        {
+          "role": "维克多",
+          "text": "欸，那是啊，这蒙德城的「荣誉骑士」，怎么能过风花节呢，这肯定要去执勤啊，对吧？"
+        },
+        {
+          "role": "旅行者",
+          "text": "你怎么一脸得意…"
+        },
+        {
+          "role": "维克多",
+          "text": "咳…咳，算了，不和你说这么多了，我看你闲着也是闲着，不如来帮我个忙。"
+        },
+        {
+          "role": "维克多",
+          "text": "这孩子的父母，因为城里这个吵吵嚷嚷的节日，也要出去采购，所以就把这孩子放在这里，拜托修女照顾。"
+        },
+        {
+          "role": "维克多",
+          "text": "但是你也知道，风花节嘛，城里城外都忙成了一团，修女们各忙各的，也没空来陪这孩子玩。"
+        },
+        {
+          "role": "维克多",
+          "text": "所以，她就缠上我了，一个劲地要我陪她玩，但你也知道，我是不可能出教堂的。所以我也只能在这陪她说说话。"
+        },
+        {
+          "role": "维克多",
+          "text": "可惜啊，我是个「愚人众」，就算是和这孩子说话，旁边的那位修女也在不停地瞪我…"
+        },
+        {
+          "role": "维克多",
+          "text": "我看，她准是觉得我这个「愚人众」图谋不轨，又想打什么坏主意吧。"
+        },
+        {
+          "role": "维克多",
+          "text": "哼，为了不让那位修女过来烦我，也为了这孩子的「身心健康」…"
+        },
+        {
+          "role": "维克多",
+          "text": "我想拜托你这位光荣又正派的「荣誉骑士」，陪着这孩子出去玩玩，怎么样？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "我知道了。",
+            "你其实就是想让莉莉能出去玩吧？"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "我知道了。"
+        },
+        {
+          "role": "维克多",
+          "text": "哦唷，这么干脆。不愧是「荣誉骑士」嘛，我还以为你还要和我讨价还价，要点什么报酬呢。"
+        },
+        {
+          "role": "维克多",
+          "text": "赶紧带着这孩子出去玩吧，我接着在这呆着，吃那些修女的白眼。"
+        },
+        {
+          "role": "维克多",
+          "text": "唉，这日子到底啥时候能到头啊…"
+        },
+        {
+          "role": "莉莉",
+          "text": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，为什么那个驴人众的蜀黍，不过风画节呀…"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            "他有重要的工作要做。",
+            "「愚人众」应该参加不了风花节。"
+          ]
+        },
+        {
+          "role": "旅行者",
+          "text": "他有重要的工作要做。"
+        },
+        {
+          "role": "莉莉",
+          "text": "纵要的工作？唔…比过风画节还纵要吗？"
+        },
+        {
+          "role": "莉莉",
+          "text": "可是，那个蜀黍就算干了这么坏这么坏的事，只要改掉，他也能变成很好很好的人吧？"
+        },
+        {
+          "role": "莉莉",
+          "text": "嗯！窝要去和那个蜀黍说，只要变得很好很好，他就能过风画节了！"
+        },
+        {
+          "role": "旅行者",
+          "text": "那个叔叔现在很忙，我们出去玩玩，好吗？"
+        },
+        {
+          "role": "莉莉",
+          "text": "欸…好吧。那，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，你可以带窝出去玩吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "没问题，别走太远就好。"
+        },
+        {
+          "role": "莉莉",
+          "text": "好欸！那窝们快出去玩吧！"
+        },
+        {
+          "role": "布兰琪",
+          "text": "莉莉，旅行者，你们回来了？怎么样，找到小狗了吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "找到了。"
+        },
+        {
+          "role": "莉莉",
+          "text": "嗯！谢谢大捷洁，窝和它们玩得狠好啦！"
+        },
+        {
+          "role": "布兰琪",
+          "text": "这样就好了。对了，你们要是有空的话，也可以去芙萝拉小姐那边看看。"
+        },
+        {
+          "role": "布兰琪",
+          "text": "毕竟是风花节，能够带一束花回去的话，感觉也不错，对吧？"
+        },
+        {
+          "role": "莉莉",
+          "text": "哇…窝想去看看，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}…"
+        },
+        {
+          "role": "旅行者",
+          "text": "我们过去吧。"
+        },
+        {
+          "role": "莉莉",
+          "text": "谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}！"
+        },
+        {
+          "role": "布兰琪",
+          "text": "旅行者？你有什么事吗？"
+        },
+        {
+          "role": "布兰琪",
+          "text": "还有…莉莉？你怎么来了，你爸爸和妈妈呢？"
+        },
+        {
+          "role": "莉莉",
+          "text": "把拔和麻麻有很纵要的事要做！所以这个{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}在带我玩。"
+        },
+        {
+          "role": "布兰琪",
+          "text": "很重要的事？鲁道夫先生和吉丽安娜小姐还真是…"
+        },
+        {
+          "role": "莉莉",
+          "text": "大捷洁，刚才那个小狗狗在哪里呀？"
+        },
+        {
+          "role": "布兰琪",
+          "text": "刚才的小狗？唔…我也不知道，平时它们基本上都躲在自己的窝里，只在我往食盆里放食物的时候，它们才过来。"
+        },
+        {
+          "role": "布兰琪",
+          "text": "可能是因为现在城里太热闹了，它们都被吵得跑出来了吧？"
+        },
+        {
+          "role": "布兰琪",
+          "text": "怎么，莉莉，你是想和它们玩吗？"
+        },
+        {
+          "role": "莉莉",
+          "text": "嗯！窝想和它们玩！"
+        },
+        {
+          "role": "布兰琪",
+          "text": "这样啊…我想想，光是找肯定是找不到的…那你们不如去那边的食盆里放点吃的，把它们引出吧。"
+        },
+        {
+          "role": "布兰琪",
+          "text": "唔，我想想…小狗的食盆里最好放些禽肉呢。"
+        },
+        {
+          "role": "莉莉",
+          "text": "欸…可是这些，都要去辣里找呀…"
+        },
+        {
+          "role": "旅行者",
+          "text": "交给我了。"
+        },
+        {
+          "role": "莉莉",
+          "text": "哇！谢谢{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，那窝们快点去喂它们吧！"
+        },
+        {
+          "role": "莉莉",
+          "text": "狗狗来这边…有很好词的喔…"
+        },
+        {
+          "role": "莉莉",
+          "text": "哇！狗狗真过来了，嘻嘻，窝要去摸摸它啦…"
+        },
+        {
+          "role": "莉莉",
+          "text": "嘻嘻，狗狗摸起来好软…那个驴人众蜀黍说，他们家辣边，也有狠多狗狗。"
+        },
+        {
+          "role": "莉莉",
+          "text": "但他说，他家那边的狗狗，都狠大狠大，毛也狠多狠多…肯定也狠好摸吧…"
+        },
+        {
+          "role": "维克多",
+          "text": "风花节…哼，反正和我也没关系…"
+        },
+        {
+          "role": "维克多",
+          "text": "你和那孩子聊得挺开心的嘛，你们刚才说的话，我也都听见了。"
+        },
+        {
+          "role": "旅行者",
+          "text": "你有什么看法？"
+        },
+        {
+          "role": "维克多",
+          "text": "只是小孩子的一些梦话而已，我没什么看法。"
+        },
+        {
+          "role": "维克多",
+          "text": "这世上的好坏，要是都这么容易区分的话，那很多事都…"
+        },
+        {
+          "role": "维克多",
+          "text": "…算了，不说了，你快点带她出去玩吧。"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "呼呼，你们好呀？你们是来买花的吗？"
+        },
+        {
+          "role": "莉莉",
+          "text": "真的有好多花花…"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "咦，莉莉？你怎么和这位旅行者在一起？"
+        },
+        {
+          "role": "莉莉",
+          "text": "把拔和麻麻有很纵要的事要做！所以这个{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}在带我玩。"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "重要的事啊…我差不多也猜到了…"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "先不说这些了，你们有什么事吗？"
+        },
+        {
+          "role": "旅行者",
+          "text": "是来看花的。"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "看花…唔，这样吧，我这里刚好有一株蒲公英，送给你吧莉莉。"
+        },
+        {
+          "role": "莉莉",
+          "text": "真的嘛？谢谢——"
+        },
+        {
+          "role": "旅行者",
+          "text": "为什么突然就…"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "其实…是因为鲁道夫先生之前刚在我这里订了一大捧花，要送给吉丽安娜小姐…"
+        },
+        {
+          "role": "芙萝拉",
+          "text": "现在只是送一株蒲公英而已，没什么大问题…"
+        },
+        {
+          "role": "莉莉",
+          "text": "蒲公英真好看…不过，窝应该要回去了，不然把拔麻麻回来看不见我会着急的…"
+        },
+        {
+          "role": "莉莉",
+          "text": "对了，回去之前…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，尼知道城里哪里有那种…大大的锅吗？"
+        },
+        {
+          "role": "莉莉",
+          "text": "窝之前看过我麻麻做「烤松饼」…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}陪我玩了这么久，窝来做点好次的给尼吧！"
+        },
+        {
+          "role": "莉莉",
+          "text": "就是这种大大的锅，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}你等一下…"
+        },
+        {
+          "role": "莉莉",
+          "text": "唔…窝要站在椅子上…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}，帮我搬一把椅子过来吧…"
+        },
+        {
+          "role": "莉莉",
+          "text": "做好啦！窝可做了三份喔，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_CUTEBIGBROTHER|INFO_FEMALE_PRONOUN_CUTEBIGSISTER]}你一份，我一份…还有那个驴人众的蜀黍一份！"
+        },
+        {
+          "role": "莉莉",
+          "text": "好啦，我们回去吧！"
+        },
+        {
+          "role": "维克多",
+          "text": "你们总算是回来了，哼，旁边那个修女看我的眼神，简直就像是我伙同你把莉莉怎么样了似的…"
+        },
+        {
+          "role": "维克多",
+          "text": "不过这样的话，那孩子总算是不会…"
+        },
+        {
+          "role": "莉莉",
+          "text": "蜀黍！这个、还有这个给尼！"
+        },
+        {
+          "role": "维克多",
+          "text": "蒲公英…还有这个烤松饼是怎么…"
+        },
+        {
+          "role": "旅行者",
+          "text": "是礼物吧。"
+        },
+        {
+          "role": "维克多",
+          "text": "礼、礼物？蒲公英就只剩下了个杆子，还有这烤松饼…"
+        },
+        {
+          "role": "旅行者",
+          "text": "这烤松饼可是莉莉亲手做的。"
+        },
+        {
+          "role": "维克多",
+          "text": "…看着真是…不错。没想到这孩子还有这手艺…"
+        },
+        {
+          "role": "莉莉",
+          "text": "嘻嘻，这都是窝学的我麻麻，蜀黍，吃完了之后，窝还要听你讲故事！"
+        },
+        {
+          "role": "维克多",
+          "text": "还…还要听，我…"
+        },
+        {
+          "role": "维克多",
+          "text": "好吧…你都送我礼物了，那我就再讲几个故事。"
+        },
+        {
+          "role": "莉莉",
+          "text": "好耶！那窝要听…驴人众的事！"
+        },
+        {
+          "role": "维克多",
+          "text": "咳！这个…这个没什么…没什么趣，我想个更有意思的。"
+        }
+      ]
+    }
+  ]
+}

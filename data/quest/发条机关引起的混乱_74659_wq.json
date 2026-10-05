@@ -1,0 +1,20 @@
+{
+  "quest_id": 74659,
+  "chapter_num": null,
+  "chapter_title": "发条机关引起的混乱",
+  "type": "wq",
+  "route": "Meka Mess",
+  "stories": [
+    {
+      "story_id": 74659,
+      "title": "发条机关引起的混乱",
+      "description": "发条机关正在作乱…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "击退发条机关"
+        }
+      ]
+    }
+  ]
+}

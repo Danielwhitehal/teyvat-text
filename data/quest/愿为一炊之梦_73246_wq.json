@@ -1,0 +1,20 @@
+{
+  "quest_id": 73246,
+  "chapter_num": null,
+  "chapter_title": "愿为一炊之梦",
+  "type": "wq",
+  "route": "An Unwavering Culinary Dream",
+  "stories": [
+    {
+      "story_id": 73246,
+      "title": "愿为一炊之梦",
+      "description": "兰帕卡提最近好像在为什么事情发愁…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与兰帕卡提对话"
+        }
+      ]
+    }
+  ]
+}

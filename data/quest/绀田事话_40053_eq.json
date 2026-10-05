@@ -1,0 +1,20 @@
+{
+  "quest_id": 40053,
+  "chapter_num": null,
+  "chapter_title": "绀田事话",
+  "type": "eq",
+  "route": "A Strange Story in Konda",
+  "stories": [
+    {
+      "story_id": 40053,
+      "title": "绀田事话",
+      "description": "在奇异的狐狸雕像前，戴着面具的神秘巫女似乎有事相求…",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与神秘的巫女对话"
+        }
+      ]
+    }
+  ]
+}

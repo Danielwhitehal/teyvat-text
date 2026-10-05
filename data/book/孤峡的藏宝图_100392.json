@@ -1,0 +1,61 @@
+{
+  "id": 100392,
+  "name": "孤峡的藏宝图",
+  "route": "Treasure Map of Lone Gorge",
+  "volumes": [
+    {
+      "volume_id": 100392,
+      "volume_name": "孤峡的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "从孤峡的高处眺望，俯瞰两道相邻的瀑布，在略高的瀑布上方，有一块只长着一棵大树的凸起岩石，宝藏就藏匿于崖边的一堆碎石下。\r\n<image name=UI_Dailytask_2/>"
+    },
+    {
+      "volume_id": 100393,
+      "volume_name": "孤峡的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "在峡谷东面的入口，宝藏就在触手可及之地。\r\n<image name=UI_Dailytask_2/>"
+    },
+    {
+      "volume_id": 100394,
+      "volume_name": "孤峡的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "从孤峡的高处眺望，俯瞰两道相邻的瀑布，在略低的瀑布上方，清开碎石，宝藏就在触手可及之地。\r\n<image name=UI_Dailytask_2/>"
+    },
+    {
+      "volume_id": 100414,
+      "volume_name": "巨阶的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "在台阶之下，宝藏埋于孤独的红树下。\r\n<image name=UI_Dailytask_1/>"
+    },
+    {
+      "volume_id": 100415,
+      "volume_name": "巨阶的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "在台阶之上，石铸的卫士守护着碎石下的宝藏。\r\n<image name=UI_Dailytask_1/>"
+    },
+    {
+      "volume_id": 100416,
+      "volume_name": "巨阶的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "在北侧的矮崖之旁，碎石下埋藏着宝藏。\r\n<image name=UI_Dailytask_1/>"
+    },
+    {
+      "volume_id": 100417,
+      "volume_name": "汪洋的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "登上海岛，在石门之下的石砾中取得宝藏…还有，注意守卫。\r\n<image name=UI_Dailytask_3/>"
+    },
+    {
+      "volume_id": 100418,
+      "volume_name": "汪洋的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "登上海岛，在石柱下的一位守卫身后，有宝藏埋藏。\r\n<image name=UI_Dailytask_3/>"
+    },
+    {
+      "volume_id": 100419,
+      "volume_name": "汪洋的藏宝图",
+      "description": "从博来处得到的藏宝图，不知道指向何处的宝藏…",
+      "full_text": "登上海岛，前往一枚巨大的海螺，宝藏埋于在海螺对面的石砾下。\r\n<image name=UI_Dailytask_3/>"
+    }
+  ]
+}

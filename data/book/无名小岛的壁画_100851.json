@@ -1,0 +1,13 @@
+{
+  "id": 100851,
+  "name": "无名小岛的壁画",
+  "route": "Nameless Islet Mural",
+  "volumes": [
+    {
+      "volume_id": 100851,
+      "volume_name": "无名小岛的壁画",
+      "description": "从无名小岛的石壁上记录下来的壁画。画中似乎描绘着一群准备乘船的人…",
+      "full_text": "<image name=UI_LostParadise_5_Alpha />"
+    }
+  ]
+}

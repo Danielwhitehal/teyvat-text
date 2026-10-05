@@ -1,0 +1,32 @@
+{
+  "quest_id": 76223,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·菈乌玛",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Lauma",
+  "stories": [
+    {
+      "story_id": 76223,
+      "title": "茶会的再邀·菈乌玛",
+      "description": "前往霜月之坊放置茶桌并使用桑多涅落座后，与菈乌玛共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "菈乌玛",
+          "text": "美味的香草茶，桑多涅小姐。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "菈乌玛",
+          "text": "是吗？那不如，一起去「霜月之坊」共进晚餐？"
+        }
+      ]
+    }
+  ]
+}

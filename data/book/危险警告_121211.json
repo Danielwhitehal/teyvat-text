@@ -1,0 +1,13 @@
+{
+  "id": 121211,
+  "name": "危险警告",
+  "route": "Hazard Warning",
+  "volumes": [
+    {
+      "volume_id": 121211,
+      "volume_name": "危险警告",
+      "description": "",
+      "full_text": "「火山喷发区域，当心高危天气——生物火雨。该类型天气破坏范围广，且难以预测，请大家务必小心头顶。」"
+    }
+  ]
+}

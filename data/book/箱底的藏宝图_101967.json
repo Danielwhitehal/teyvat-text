@@ -1,0 +1,13 @@
+{
+  "id": 101967,
+  "name": "箱底的藏宝图",
+  "route": "Treasure Map in a Box",
+  "volumes": [
+    {
+      "volume_id": 101967,
+      "volume_name": "箱底的藏宝图",
+      "description": "被放在箱底的藏宝图。图上用简单的标记注明了「好东西」的所在。",
+      "full_text": "<image name=UI_RainForestMap />"
+    }
+  ]
+}

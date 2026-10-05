@@ -1,0 +1,59 @@
+{
+  "quest_id": 74657,
+  "chapter_num": null,
+  "chapter_title": "伽拉蒂雅的盐需求",
+  "type": "wq",
+  "route": "Galathee's Salt Solicitation",
+  "stories": [
+    {
+      "story_id": 74657,
+      "title": "伽拉蒂雅的盐需求",
+      "description": "伽拉蒂雅需要10瓶盐。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将10瓶盐交给伽拉蒂雅"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于盐…"
+        },
+        {
+          "role": "伽拉蒂雅",
+          "text": "你好，你是来讨论食盐供应的事情的吗？"
+        },
+        {
+          "role": "伽拉蒂雅",
+          "text": "那你一定已经准备好了足够多的盐吧？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备好了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有。",
+              "dialogues": [
+                {
+                  "role": "伽拉蒂雅",
+                  "text": "食盐数量不够多可不行，我们一船人到处航行，每次都得准备好够多的盐才行。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与伽拉蒂雅对话"
+        },
+        {
+          "role": "伽拉蒂雅",
+          "text": "这个数量应该够我们一次短途航行吃的了，你看起来挺靠谱的，以后有这方面的需求我会优先联络你的。"
+        }
+      ]
+    }
+  ]
+}

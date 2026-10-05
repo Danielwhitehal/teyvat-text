@@ -1,0 +1,32 @@
+{
+  "quest_id": 76221,
+  "chapter_num": null,
+  "chapter_title": "茶会的再邀·达达利亚",
+  "type": "wq",
+  "route": "Tea Party Re-Invitation: Tartaglia",
+  "stories": [
+    {
+      "story_id": 76221,
+      "title": "茶会的再邀·达达利亚",
+      "description": "前往月矩力实验设计局高处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "dialogues": [
+        {
+          "role": "「公子」",
+          "text": "不错的茶会。早知道我以前就该多参加几次。"
+        },
+        {
+          "type": "choice",
+          "role": "「木偶」",
+          "options": [
+            "（再这么坐一会儿吧。）",
+            "茶会时间该结束了。"
+          ]
+        },
+        {
+          "role": "「公子」",
+          "text": "好啊，我们下次再见！"
+        }
+      ]
+    }
+  ]
+}

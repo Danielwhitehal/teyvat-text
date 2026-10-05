@@ -1,0 +1,13 @@
+{
+  "id": 120042,
+  "name": "残破的出勤记录",
+  "route": "Ragged Attendance Record",
+  "volumes": [
+    {
+      "volume_id": 120042,
+      "volume_name": "残破的出勤记录",
+      "description": "残破的出勤记录",
+      "full_text": "(test)"
+    }
+  ]
+}

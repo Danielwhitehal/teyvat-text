@@ -1,0 +1,13 @@
+{
+  "id": 100843,
+  "name": "无名岛屿的壁画",
+  "route": "Nameless Island Mural",
+  "volumes": [
+    {
+      "volume_id": 100843,
+      "volume_name": "无名岛屿的壁画",
+      "description": "从无名岛屿的石壁上记录下来的壁画。画中似乎描绘着一次营救的场景…",
+      "full_text": "<image name=UI_LostParadise_2_Alpha />\r\n"
+    }
+  ]
+}

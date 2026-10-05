@@ -1,0 +1,13 @@
+{
+  "id": 120549,
+  "name": "旧画片",
+  "route": "Old Photo",
+  "volumes": [
+    {
+      "volume_id": 120549,
+      "volume_name": "旧画片",
+      "description": "合影画片",
+      "full_text": "<image name=UI_ReadPic_120743/>"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "quest_id": 71706,
+  "chapter_num": null,
+  "chapter_title": "言笑的食材需求",
+  "type": "wq",
+  "route": "Smiley's Selections",
+  "stories": [
+    {
+      "story_id": 71706,
+      "title": "言笑的食材需求",
+      "description": "望舒客栈的言笑需要两份火腿。",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "将两份火腿交给言笑"
+        },
+        {
+          "role": "旅行者",
+          "text": "关于火腿…"
+        },
+        {
+          "role": "言笑",
+          "text": "嗯？你是看了我的委托吧。怎么，两份火腿都准备齐了？"
+        },
+        {
+          "type": "choice",
+          "role": "旅行者",
+          "options": [
+            {
+              "text": "准备齐了。",
+              "dialogues": []
+            },
+            {
+              "text": "还没有…",
+              "dialogues": [
+                {
+                  "role": "言笑",
+                  "text": "那你准备好了之后，就快点拿来给我吧。我要赶紧开始试做新菜了…"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "与言笑对话"
+        },
+        {
+          "role": "言笑",
+          "text": "嗯，这些火腿应该够我用的了。"
+        },
+        {
+          "role": "言笑",
+          "text": "这是报酬，拿好了。"
+        }
+      ]
+    }
+  ]
+}

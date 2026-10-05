@@ -1,0 +1,76 @@
+{
+  "quest_id": 70012,
+  "chapter_num": null,
+  "chapter_title": "互通有无？",
+  "type": "wq",
+  "route": "Mutual Exchange",
+  "stories": [
+    {
+      "story_id": 70012,
+      "title": "互通有无？",
+      "description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "dialogues": [
+        {
+          "type": "subtitle",
+          "text": "与丘丘人对话"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe<color=#00E1FFFF> Upano</color>!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它好像想要…某种东西呢。"
+        },
+        {
+          "type": "subtitle",
+          "text": "向丘丘人交付物品"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Mi muhe Upano!"
+        },
+        {
+          "role": "旅行者",
+          "text": "（是这个吗？）"
+        },
+        {
+          "role": "丘丘人",
+          "text": "yeye mimi tomo! Mosi mita!"
+        },
+        {
+          "role": "旅行者",
+          "text": "Mosi mita!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "果然是这样，又验证了一个词汇…"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "Du odomu tomo dala?"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Du Wei dala? Mito nye! Mi mito ya zido mito, beru ya!"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "它也不知道，不过我们可以找它认识的人问一问。"
+        },
+        {
+          "role": "艾拉·马斯克",
+          "text": "我把它朋友的位置标出来了，我们去看看吧？"
+        },
+        {
+          "role": "丘丘人",
+          "text": "Biadam! Mani nye!"
+        },
+        {
+          "role": "旅行者",
+          "text": "好像不太对…我们再试一次吧。"
+        }
+      ]
+    }
+  ]
+}

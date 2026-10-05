@@ -1,0 +1,19 @@
+{
+  "id": 120608,
+  "name": "灯笼上的诗谜",
+  "route": "Poetry Riddle on a Lantern",
+  "volumes": [
+    {
+      "volume_id": 120608,
+      "volume_name": "灯笼上的诗谜",
+      "description": "灯笼上的诗谜",
+      "full_text": "<center>遍野曾留芳，说旧时尚是流水有情胜霓裳。\r\n盆中亦有香，谈今日只是蝉绸半披掩心伤。</center>\r\n<right>——打一植物。</right>"
+    },
+    {
+      "volume_id": 120609,
+      "volume_name": "灯笼上的诗谜",
+      "description": "灯笼上的诗谜",
+      "full_text": "<center>梁上君子佩雄心，\r\n非银非玉似鎏金。\r\n一枚定下滔天胆，\r\n唤来鸦雀作上宾。</center>\r\n<right>——打一物件。</right>"
+    }
+  ]
+}
